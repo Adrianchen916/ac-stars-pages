@@ -1,0 +1,43 @@
+name: Update public Stars
+
+on:
+  schedule:
+    # Monday 09:17 Asia/Shanghai; GitHub schedules are UTC and may be delayed.
+    - cron: '17 1 * * 1'
+  workflow_dispatch:
+
+permissions:
+  contents: write
+
+concurrency:
+  group: update-public-stars
+  cancel-in-progress: false
+
+jobs:
+  update:
+    runs-on: ubuntu-latest
+    steps:
+      - uses: actions/checkout@v4
+      - name: Fetch public Stars and regenerate site
+        run: python3 update_stars.py
+      - name: Verify generated files
+        run: |
+          python3 - <<'PY'
+          import json, re
+          from pathlib import Path
+          stars=json.loads(Path('stars.json').read_text())['repositories']
+          assert stars and len(stars)==len({r['name'] for r in stars})
+          assert len(re.findall(r'^### \[[^]]+\]\(https://github\.com/',Path('stars.md').read_text(),re.M))==len(stars)
+          match=re.search(r'<script type="application/json" id="payload">(.*?)</script>',Path('index.html').read_text(),re.S)
+          assert len(json.loads(match.group(1))['data']['repositories'])==len(stars)
+          print(f'Verified {len(stars)} public Stars')
+          PY
+      - name: Commit site snapshot
+        run: |
+          git config user.name 'github-actions[bot]'
+          git config user.email '41898282+github-actions[bot]@users.noreply.github.com'
+          git add index.html stars.md stars.json updates.json
+          if ! git diff --cached --quiet; then
+            git commit -m "Update public Stars"
+            git push
+          fi

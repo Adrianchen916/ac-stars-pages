@@ -1,0 +1,900 @@
+{
+  "categories": [
+    "AI 编程与模型工具",
+    "Agent 框架与通用 Skills",
+    "写作、运营与内容采集",
+    "视频、动画与短剧",
+    "音频、语音与翻译",
+    "视觉设计、图表与 3D",
+    "办公、文档与演示",
+    "知识管理、阅读与信息订阅",
+    "投资、交易与财务",
+    "桌面、系统与实用工具",
+    "网站、博客与个人主页",
+    "自托管、云服务与开发资源",
+    "网络、代理与连接工具",
+    "影音、下载与媒体库",
+    "学习、生活与资源导航",
+    "待确认用途"
+  ],
+  "repositories": {
+    "julyx10/lap": {
+      "category": "桌面、系统与实用工具"
+    },
+    "debpalash/VoiceStudio": {
+      "category": "音频、语音与翻译"
+    },
+    "harry0703/MangoDisk": {
+      "category": "桌面、系统与实用工具"
+    },
+    "sunkeke-ai/Life-Compass-Obsidian-CN": {
+      "category": "知识管理、阅读与信息订阅"
+    },
+    "AgriciDaniel/compass": {
+      "category": "知识管理、阅读与信息订阅"
+    },
+    "Anil-matcha/awesome-muse-connectors": {
+      "category": "Agent 框架与通用 Skills"
+    },
+    "yuxino/mimi": {
+      "category": "音频、语音与翻译"
+    },
+    "SpaceZephyr/creator-buddy": {
+      "category": "写作、运营与内容采集"
+    },
+    "yetone/magpie": {
+      "category": "AI 编程与模型工具"
+    },
+    "chubbyguan/chubbyskills": {
+      "category": "写作、运营与内容采集"
+    },
+    "cyberxiaowan/cyber-xiaowan": {
+      "category": "Agent 框架与通用 Skills"
+    },
+    "lhlGitHub/threejs-architecture-effects": {
+      "category": "视频、动画与短剧"
+    },
+    "huangbai-AI/post-production-skill": {
+      "category": "视频、动画与短剧"
+    },
+    "Adrianchen916/AlphaTrack": {
+      "category": "投资、交易与财务"
+    },
+    "genspark-ai/genoffice": {
+      "category": "办公、文档与演示"
+    },
+    "eternity4719/HowToLiveBetter": {
+      "category": "学习、生活与资源导航"
+    },
+    "theoephraim/awesome-cloudflare-selfhosted": {
+      "category": "自托管、云服务与开发资源"
+    },
+    "sunmiao4458/free-proxy-airport": {
+      "category": "网络、代理与连接工具"
+    },
+    "ohmyangboy/PaperRss": {
+      "category": "知识管理、阅读与信息订阅"
+    },
+    "jaywcjlove/awesome-rust-apps": {
+      "category": "学习、生活与资源导航"
+    },
+    "hypit-ai/hypit": {
+      "category": "视频、动画与短剧"
+    },
+    "larashero3-dotcom/lieflat-less-ai-tone": {
+      "category": "写作、运营与内容采集"
+    },
+    "SpaceZephyr/read-buddy": {
+      "category": "知识管理、阅读与信息订阅"
+    },
+    "nevertoday/xxd-panel-152": {
+      "category": "视觉设计、图表与 3D",
+      "summary": "把照片重构为色场纸艺拼贴插画与艺术海报的 Agent Skill。"
+    },
+    "varunaditya-plus/SleekFin": {
+      "category": "影音、下载与媒体库"
+    },
+    "Cogria-AI/HeadOrbit": {
+      "category": "桌面、系统与实用工具"
+    },
+    "kangarooking/cangjie-skill": {
+      "category": "知识管理、阅读与信息订阅"
+    },
+    "yuraist/just-md": {
+      "category": "知识管理、阅读与信息订阅"
+    },
+    "CapSoftware/Cap": {
+      "category": "视频、动画与短剧"
+    },
+    "multimodal-art-projection/YuE": {
+      "category": "音频、语音与翻译"
+    },
+    "jiji262/douyin-downloader": {
+      "category": "写作、运营与内容采集"
+    },
+    "ajinnaaa/extract-visual-style-2": {
+      "category": "视觉设计、图表与 3D"
+    },
+    "vvxw/deploy-vercel": {
+      "category": "网站、博客与个人主页"
+    },
+    "ReScienceLab/opc-skills": {
+      "category": "Agent 框架与通用 Skills"
+    },
+    "ricocc/rico-bookmark-manager": {
+      "category": "知识管理、阅读与信息订阅"
+    },
+    "chengyi-ai/native-subtitle-quote-image": {
+      "category": "视频、动画与短剧"
+    },
+    "asgeirtj/system_prompts_leaks": {
+      "category": "Agent 框架与通用 Skills"
+    },
+    "ZJU-REAL/Easel": {
+      "category": "写作、运营与内容采集"
+    },
+    "slidevjs/slidev": {
+      "category": "办公、文档与演示"
+    },
+    "okooo5km/Skills4U": {
+      "category": "Agent 框架与通用 Skills"
+    },
+    "MarSeventh/CloudFlare-ImgBed": {
+      "category": "自托管、云服务与开发资源"
+    },
+    "zzybrim/douyin-obsidian": {
+      "category": "写作、运营与内容采集"
+    },
+    "Cyronlee/TransFlow": {
+      "category": "音频、语音与翻译"
+    },
+    "himomohi/AirTranslate": {
+      "category": "音频、语音与翻译"
+    },
+    "huangbai-AI/ai-apple-video": {
+      "category": "视频、动画与短剧"
+    },
+    "xtditom/YourDynamicDashboard": {
+      "category": "桌面、系统与实用工具"
+    },
+    "everfu/hexo-theme-solitude": {
+      "category": "网站、博客与个人主页"
+    },
+    "laogou717/md-wechat": {
+      "category": "写作、运营与内容采集"
+    },
+    "popopo-99/zy-cinematic-realism": {
+      "category": "视频、动画与短剧"
+    },
+    "popopo-99/build-your-own-skill": {
+      "category": "Agent 框架与通用 Skills"
+    },
+    "FB208/OpenBidKit_Yibiao": {
+      "category": "办公、文档与演示"
+    },
+    "chidiwilliams/buzz": {
+      "category": "音频、语音与翻译"
+    },
+    "aimen08/shotx": {
+      "category": "桌面、系统与实用工具"
+    },
+    "f/prompts.chat": {
+      "category": "Agent 框架与通用 Skills"
+    },
+    "larashero3-dotcom/lieflat-charts": {
+      "category": "视觉设计、图表与 3D"
+    },
+    "yanliudesign/mono-color-skill": {
+      "category": "视觉设计、图表与 3D"
+    },
+    "tt-a1i/archify": {
+      "category": "视觉设计、图表与 3D"
+    },
+    "larashero3-dotcom/writing-dna-skill": {
+      "category": "写作、运营与内容采集"
+    },
+    "sennkuwu/wechat-style-extractor": {
+      "category": "写作、运营与内容采集"
+    },
+    "jaywcjlove/awesome-mac": {
+      "category": "学习、生活与资源导航"
+    },
+    "zhaoxuya520/reverse-skill": {
+      "category": "Agent 框架与通用 Skills"
+    },
+    "panxunying/ai-coding-welfare": {
+      "category": "AI 编程与模型工具"
+    },
+    "orange2ai/new-concept-writing": {
+      "category": "写作、运营与内容采集"
+    },
+    "can1357/oh-my-pi": {
+      "category": "AI 编程与模型工具"
+    },
+    "hugohe3/ppt-master": {
+      "category": "办公、文档与演示"
+    },
+    "Nutlope/logocreator": {
+      "category": "视觉设计、图表与 3D"
+    },
+    "charliedream1/ai_quant_trade": {
+      "category": "投资、交易与财务"
+    },
+    "heygen-com/hyperframes": {
+      "category": "视频、动画与短剧"
+    },
+    "lapce/lapce": {
+      "category": "AI 编程与模型工具"
+    },
+    "bbfamily/abu": {
+      "category": "投资、交易与财务"
+    },
+    "paperswithbacktest/awesome-systematic-trading": {
+      "category": "投资、交易与财务"
+    },
+    "piotrkulpinski/open-source-alternatives": {
+      "category": "学习、生活与资源导航"
+    },
+    "Alishahryar1/free-claude-code": {
+      "category": "AI 编程与模型工具"
+    },
+    "vorssaint/vorssaint-utils": {
+      "category": "桌面、系统与实用工具"
+    },
+    "emmabostian/developer-portfolios": {
+      "category": "网站、博客与个人主页"
+    },
+    "dembrandt/dembrandt": {
+      "category": "视觉设计、图表与 3D"
+    },
+    "localsend/localsend": {
+      "category": "桌面、系统与实用工具"
+    },
+    "dreammis/social-auto-upload": {
+      "category": "写作、运营与内容采集"
+    },
+    "star23/content-os": {
+      "category": "写作、运营与内容采集"
+    },
+    "img2threejs/img2threejs": {
+      "category": "视觉设计、图表与 3D"
+    },
+    "DFarm6/Prism-Browser-Community": {
+      "category": "桌面、系统与实用工具"
+    },
+    "terancejiang/financial-report-minesweeper": {
+      "category": "投资、交易与财务"
+    },
+    "Zeejay0/gathered-scenes-zine-skill": {
+      "category": "视觉设计、图表与 3D",
+      "summary": "将照片转为纸感拼贴海报或原创编辑插画的一组 Codex 生图 Skills。"
+    },
+    "dacnay816y62-hub/photo-revival": {
+      "category": "视觉设计、图表与 3D"
+    },
+    "LiamGvchi/gc-minimal-zine-poster": {
+      "category": "视觉设计、图表与 3D"
+    },
+    "eternityspring/shuohao-skills": {
+      "category": "视频、动画与短剧"
+    },
+    "paperclipai/paperclip": {
+      "category": "Agent 框架与通用 Skills"
+    },
+    "Open-Trader/opentrader": {
+      "category": "投资、交易与财务"
+    },
+    "madebyshaurya/SpendSmart": {
+      "category": "投资、交易与财务"
+    },
+    "Renhuai123/ziwei-doushu": {
+      "category": "学习、生活与资源导航"
+    },
+    "openchamber/openchamber": {
+      "category": "AI 编程与模型工具"
+    },
+    "heyderekj/binky": {
+      "category": "桌面、系统与实用工具"
+    },
+    "fmhy/edit": {
+      "category": "学习、生活与资源导航"
+    },
+    "KKKKhazix/human-writing": {
+      "category": "写作、运营与内容采集"
+    },
+    "Binaryify/open-kimi-ppt-skill": {
+      "category": "办公、文档与演示"
+    },
+    "keros68/metrik": {
+      "category": "AI 编程与模型工具"
+    },
+    "Yunshiro/yunn-skills": {
+      "category": "Agent 框架与通用 Skills",
+      "summary": "可复用的 Agent Skills 集合。"
+    },
+    "jinchenma94/bazi-skill": {
+      "category": "学习、生活与资源导航"
+    },
+    "text2future/flowix": {
+      "category": "知识管理、阅读与信息订阅"
+    },
+    "bashalarmistalt/decimen-optical-transfer": {
+      "category": "桌面、系统与实用工具",
+      "summary": "用动态二维码和摄像头在两台设备间离线传输文件的网页工具。"
+    },
+    "microsoft/AI-For-Beginners": {
+      "category": "学习、生活与资源导航"
+    },
+    "index-tts/index-tts": {
+      "category": "音频、语音与翻译"
+    },
+    "fxyadela/write-then-publish": {
+      "category": "写作、运营与内容采集"
+    },
+    "Hypostasis-Cat/HypoMux": {
+      "category": "网络、代理与连接工具"
+    },
+    "adrianpunk/Punk-Skill": {
+      "category": "Agent 框架与通用 Skills"
+    },
+    "linkwarden/linkwarden": {
+      "category": "知识管理、阅读与信息订阅"
+    },
+    "dayinji/sen-3d-resume": {
+      "category": "网站、博客与个人主页",
+      "summary": "基于 React Three Fiber 的滚动式 3D 个人简历网站。"
+    },
+    "l0ng-ai/tty7": {
+      "category": "AI 编程与模型工具"
+    },
+    "s1dashu/director": {
+      "category": "视频、动画与短剧"
+    },
+    "EasifyCoder/yuhao-skills": {
+      "category": "写作、运营与内容采集"
+    },
+    "alloydwhitlock/huey": {
+      "category": "网站、博客与个人主页"
+    },
+    "Sped0n/bridget": {
+      "category": "网站、博客与个人主页"
+    },
+    "gohugoio/hugo": {
+      "category": "网站、博客与个人主页"
+    },
+    "nicokaiser/hugo-theme-gallery": {
+      "category": "网站、博客与个人主页"
+    },
+    "hslr-s/sun-panel": {
+      "category": "自托管、云服务与开发资源"
+    },
+    "88lin/video_vip": {
+      "category": "影音、下载与媒体库"
+    },
+    "alielsokary/CaskHub": {
+      "category": "桌面、系统与实用工具"
+    },
+    "ahmet/awesome-web3": {
+      "category": "投资、交易与财务"
+    },
+    "cyberxiaowan/xiaowan-wechat-layout-skill": {
+      "category": "写作、运营与内容采集"
+    },
+    "jy02739244/iori-nav": {
+      "category": "知识管理、阅读与信息订阅"
+    },
+    "SteveTheKiller/KillerPDF": {
+      "category": "办公、文档与演示"
+    },
+    "AZeC4/TelegramGroup": {
+      "category": "学习、生活与资源导航"
+    },
+    "emilkowalski/skills": {
+      "category": "视觉设计、图表与 3D"
+    },
+    "fucha1122/minimalist-bw-logo-skill": {
+      "category": "视觉设计、图表与 3D"
+    },
+    "petergyang/no-ai-slop": {
+      "category": "写作、运营与内容采集"
+    },
+    "garinasset/leak-check": {
+      "category": "投资、交易与财务"
+    },
+    "YouMind-OpenLab/awesome-gpt-image-2": {
+      "category": "视觉设计、图表与 3D"
+    },
+    "DigitalPlatDev/FreeDomain": {
+      "category": "自托管、云服务与开发资源"
+    },
+    "agentscope-ai/QwenPaw": {
+      "category": "Agent 框架与通用 Skills"
+    },
+    "yaoleifly/ai-stock-pool": {
+      "category": "投资、交易与财务"
+    },
+    "pyang5166/gbro-cover-design": {
+      "category": "视觉设计、图表与 3D"
+    },
+    "khoj-ai/khoj": {
+      "category": "知识管理、阅读与信息订阅"
+    },
+    "OpenMinis/OpenMinis": {
+      "category": "Agent 框架与通用 Skills"
+    },
+    "mvanhorn/last30days-skill": {
+      "category": "写作、运营与内容采集"
+    },
+    "zjp1997720/zhijian-skills": {
+      "category": "Agent 框架与通用 Skills"
+    },
+    "NanmiCoder/MediaCrawler": {
+      "category": "写作、运营与内容采集"
+    },
+    "byoungd/up": {
+      "category": "学习、生活与资源导航"
+    },
+    "joeseesun/qiaomu-wx-video": {
+      "category": "写作、运营与内容采集"
+    },
+    "bytedoger/awesome-OpenPrice": {
+      "category": "学习、生活与资源导航"
+    },
+    "yunfanxing6/grok-register": {
+      "category": "AI 编程与模型工具"
+    },
+    "chenyme/grok2api": {
+      "category": "AI 编程与模型工具"
+    },
+    "xai-org/grok-build": {
+      "category": "AI 编程与模型工具"
+    },
+    "ronitsingh10/FineTune": {
+      "category": "音频、语音与翻译"
+    },
+    "tutti-os/tutti": {
+      "category": "Agent 框架与通用 Skills"
+    },
+    "Trugamr/wol": {
+      "category": "桌面、系统与实用工具"
+    },
+    "pengchujin/jzsub": {
+      "category": "视频、动画与短剧"
+    },
+    "JUk1-GH/gpt-promo-scanner": {
+      "category": "AI 编程与模型工具"
+    },
+    "LauZzL/doubao-downloader": {
+      "category": "写作、运营与内容采集"
+    },
+    "shenjunwei661-web/x-ai-comment-assistant": {
+      "category": "写作、运营与内容采集"
+    },
+    "Sac-Y/identity-skill": {
+      "category": "网站、博客与个人主页"
+    },
+    "chuspeeism/dashi-ppt-skill": {
+      "category": "办公、文档与演示"
+    },
+    "Johnshall/Shadowrocket-ADBlock-Rules-Forever": {
+      "category": "网络、代理与连接工具"
+    },
+    "Pluviobyte/rnskill": {
+      "category": "Agent 框架与通用 Skills"
+    },
+    "Emily2040/seedance-2.0": {
+      "category": "视频、动画与短剧"
+    },
+    "op7418/NanoBanana-PPT-Skills": {
+      "category": "办公、文档与演示"
+    },
+    "JimLiu/baoyu-design": {
+      "category": "视觉设计、图表与 3D"
+    },
+    "simonlin1212/global-stock-data": {
+      "category": "投资、交易与财务"
+    },
+    "wbh604/UZI-Skill": {
+      "category": "投资、交易与财务"
+    },
+    "miantiao-me/hacker-podcast": {
+      "category": "音频、语音与翻译"
+    },
+    "yaoleifly/Nonsense-Series": {
+      "category": "学习、生活与资源导航"
+    },
+    "yaoleifly/smart-homelab": {
+      "category": "自托管、云服务与开发资源"
+    },
+    "imraywang/proxy-fleet": {
+      "category": "网络、代理与连接工具"
+    },
+    "public-apis/public-apis": {
+      "category": "自托管、云服务与开发资源"
+    },
+    "browser-use/web-ui": {
+      "category": "Agent 框架与通用 Skills"
+    },
+    "nexu-io/html-anything": {
+      "category": "办公、文档与演示"
+    },
+    "alchaincyf/fanbox": {
+      "category": "AI 编程与模型工具"
+    },
+    "muxuuu/serenity-skill": {
+      "category": "投资、交易与财务"
+    },
+    "Silentely/eSIM-Tools": {
+      "category": "桌面、系统与实用工具"
+    },
+    "ZhuLinsen/daily_stock_analysis": {
+      "category": "投资、交易与财务"
+    },
+    "yikart/AiToEarn": {
+      "category": "写作、运营与内容采集"
+    },
+    "rookie-ricardo/erduo-skills": {
+      "category": "Agent 框架与通用 Skills",
+      "summary": "涵盖资讯筛选、转录、翻译、网页转 Markdown 和图表的 Agent Skills 集合。"
+    },
+    "BigPizzaV3/CodexPlusPlus": {
+      "category": "AI 编程与模型工具"
+    },
+    "ddmoyu/javm": {
+      "category": "影音、下载与媒体库"
+    },
+    "nexu-io/open-design": {
+      "category": "视觉设计、图表与 3D"
+    },
+    "tw93/Kami": {
+      "category": "办公、文档与演示"
+    },
+    "edison7009/EchoBird": {
+      "category": "AI 编程与模型工具"
+    },
+    "wechat-article/wechat-article-exporter": {
+      "category": "写作、运营与内容采集"
+    },
+    "dexhunter/seedance2-skill": {
+      "category": "视频、动画与短剧"
+    },
+    "Forget-C/Jellyfish": {
+      "category": "视频、动画与短剧"
+    },
+    "Anning01/AIMedia": {
+      "category": "写作、运营与内容采集"
+    },
+    "joeseesun/qiaomu-anything-to-notebooklm": {
+      "category": "知识管理、阅读与信息订阅"
+    },
+    "DrewThomasson/ebook2audiobook": {
+      "category": "音频、语音与翻译"
+    },
+    "EvoLinkAI/awesome-gpt-image-2-API-and-Prompts": {
+      "category": "视觉设计、图表与 3D"
+    },
+    "songguoxs/gpt4o-image-prompts": {
+      "category": "视觉设计、图表与 3D"
+    },
+    "tw93/Mole": {
+      "category": "桌面、系统与实用工具"
+    },
+    "dontbesilent2025/dbskill": {
+      "category": "学习、生活与资源导航"
+    },
+    "bannedbook/fanqiang": {
+      "category": "网络、代理与连接工具"
+    },
+    "freestylefly/awesome-gpt-image-2": {
+      "category": "视觉设计、图表与 3D"
+    },
+    "farion1231/cc-switch": {
+      "category": "AI 编程与模型工具"
+    },
+    "Shubhamsaboo/awesome-llm-apps": {
+      "category": "Agent 框架与通用 Skills"
+    },
+    "0xNyk/awesome-hermes-agent": {
+      "category": "Agent 框架与通用 Skills"
+    },
+    "Thysrael/Horizon": {
+      "category": "知识管理、阅读与信息订阅"
+    },
+    "browser-use/video-use": {
+      "category": "视频、动画与短剧"
+    },
+    "qloog/books": {
+      "category": "学习、生活与资源导航"
+    },
+    "abus-aikorea/voice-pro": {
+      "category": "音频、语音与翻译"
+    },
+    "123pyLeo/hu-chen-feng-skill": {
+      "category": "学习、生活与资源导航",
+      "summary": "将公开表达风格与判断框架整理为可调用的 Persona Skill。"
+    },
+    "rottenpen/fengge-wangmingtianya-perspective": {
+      "category": "学习、生活与资源导航"
+    },
+    "alchaincyf/x-mentor-skill": {
+      "category": "写作、运营与内容采集"
+    },
+    "YourongZhou/chat_with_me": {
+      "category": "Agent 框架与通用 Skills",
+      "summary": "从公开社交账号文字生成可对话的 Persona Skill。"
+    },
+    "ATH-MaaS/Pixelle-Video": {
+      "category": "视频、动画与短剧"
+    },
+    "ghostty-org/ghostty": {
+      "category": "AI 编程与模型工具"
+    },
+    "neuphonic/neutts": {
+      "category": "音频、语音与翻译"
+    },
+    "tw93/MiaoYan": {
+      "category": "知识管理、阅读与信息订阅"
+    },
+    "withastro/starlight": {
+      "category": "网站、博客与个人主页"
+    },
+    "squidfunk/mkdocs-material": {
+      "category": "网站、博客与个人主页"
+    },
+    "vuejs/vitepress": {
+      "category": "网站、博客与个人主页"
+    },
+    "maillab/cloud-mail": {
+      "category": "自托管、云服务与开发资源"
+    },
+    "coreyhaines31/marketingskills": {
+      "category": "写作、运营与内容采集"
+    },
+    "obra/superpowers": {
+      "category": "Agent 框架与通用 Skills"
+    },
+    "jnMetaCode/agency-agents-zh": {
+      "category": "Agent 框架与通用 Skills"
+    },
+    "jbiaojerry/ebook-treasure-chest": {
+      "category": "学习、生活与资源导航"
+    },
+    "OpenByteInc/QuantDinger": {
+      "category": "投资、交易与财务"
+    },
+    "op7418/guizang-ppt-skill": {
+      "category": "办公、文档与演示"
+    },
+    "JimLiu/baoyu-skills": {
+      "category": "写作、运营与内容采集",
+      "summary": "面向写作、配图、排版与多平台发布的 Agent Skills 集合。"
+    },
+    "heyderekj/dinky": {
+      "category": "桌面、系统与实用工具"
+    },
+    "wangwangit/SubsTracker": {
+      "category": "桌面、系统与实用工具"
+    },
+    "NousResearch/hermes-agent": {
+      "category": "Agent 框架与通用 Skills"
+    },
+    "Wei-Shaw/sub2api": {
+      "category": "AI 编程与模型工具"
+    },
+    "justlovemaki/AIClient2API": {
+      "category": "AI 编程与模型工具"
+    },
+    "alchaincyf/huashu-design": {
+      "category": "视觉设计、图表与 3D"
+    },
+    "Open-Dev-Society/OpenStock": {
+      "category": "投资、交易与财务"
+    },
+    "mnfst/awesome-free-llm-apis": {
+      "category": "AI 编程与模型工具"
+    },
+    "VoltAgent/awesome-design-md": {
+      "category": "视觉设计、图表与 3D"
+    },
+    "liyupi/yupi-hot-monitor": {
+      "category": "知识管理、阅读与信息订阅"
+    },
+    "op7418/logo-generator-skill": {
+      "category": "视觉设计、图表与 3D"
+    },
+    "ngo5/IPTV": {
+      "category": "影音、下载与媒体库"
+    },
+    "lizongying/my-tv": {
+      "category": "影音、下载与媒体库"
+    },
+    "fanmingming/live": {
+      "category": "影音、下载与媒体库"
+    },
+    "zhumeng11/IPTV": {
+      "category": "影音、下载与媒体库"
+    },
+    "yaoxieyoulei/mytv-android": {
+      "category": "影音、下载与媒体库"
+    },
+    "momenbasel/PureMac": {
+      "category": "桌面、系统与实用工具"
+    },
+    "alchaincyf/obsidian-ai-orange-book": {
+      "category": "知识管理、阅读与信息订阅"
+    },
+    "alchaincyf/nuwa-skill": {
+      "category": "Agent 框架与通用 Skills"
+    },
+    "alchaincyf/hermes-agent-orange-book": {
+      "category": "学习、生活与资源导航"
+    },
+    "alchaincyf/zhangxuefeng-skill": {
+      "category": "学习、生活与资源导航"
+    },
+    "elebumm/RedditVideoMakerBot": {
+      "category": "视频、动画与短剧"
+    },
+    "Sac-Y/awesome-tg-channel": {
+      "category": "学习、生活与资源导航"
+    },
+    "webadderallorg/Recordly": {
+      "category": "视频、动画与短剧"
+    },
+    "chatfire-AI/huobao-drama": {
+      "category": "视频、动画与短剧"
+    },
+    "msitarzewski/agency-agents": {
+      "category": "Agent 框架与通用 Skills"
+    },
+    "zhouxiaoka/autoclip": {
+      "category": "视频、动画与短剧"
+    },
+    "sansan0/TrendRadar": {
+      "category": "知识管理、阅读与信息订阅"
+    },
+    "ddlmanus/MacOptimizer": {
+      "category": "桌面、系统与实用工具"
+    },
+    "KaringX/clashmi": {
+      "category": "网络、代理与连接工具"
+    },
+    "xpzouying/xiaohongshu-mcp": {
+      "category": "写作、运营与内容采集"
+    },
+    "VoltAgent/awesome-openclaw-skills": {
+      "category": "Agent 框架与通用 Skills"
+    },
+    "eooce/nodejs-argo": {
+      "category": "网络、代理与连接工具"
+    },
+    "eooce/node-ws": {
+      "category": "网络、代理与连接工具"
+    },
+    "byJoey/cfnew": {
+      "category": "网络、代理与连接工具",
+      "summary": "基于 Cloudflare Workers 或 Pages 的多协议代理与订阅管理工具。"
+    },
+    "fastrepl/anarlog": {
+      "category": "音频、语音与翻译"
+    },
+    "ZHO-ZHO-ZHO/Nano-Bananary": {
+      "category": "视觉设计、图表与 3D"
+    },
+    "samqin123/MoonTV": {
+      "category": "影音、下载与媒体库",
+      "summary": "支持多源搜索、播放与进度同步的影视聚合播放器。"
+    },
+    "Usagi-org/ai-goofish-monitor": {
+      "category": "学习、生活与资源导航"
+    },
+    "paperless-ngx/paperless-ngx": {
+      "category": "知识管理、阅读与信息订阅"
+    },
+    "soimort/you-get": {
+      "category": "影音、下载与媒体库"
+    },
+    "hangwin/mcp-chrome": {
+      "category": "Agent 框架与通用 Skills"
+    },
+    "readest/readest": {
+      "category": "知识管理、阅读与信息订阅"
+    },
+    "clash-verge-rev/clash-verge-rev": {
+      "category": "网络、代理与连接工具"
+    },
+    "akaunting/akaunting": {
+      "category": "投资、交易与财务"
+    },
+    "LibreSpark/LibreTV": {
+      "category": "影音、下载与媒体库"
+    },
+    "TryGhost/Ghost": {
+      "category": "网站、博客与个人主页"
+    },
+    "Cp0204/quark-auto-save": {
+      "category": "影音、下载与媒体库"
+    },
+    "521xueweihan/HelloGitHub": {
+      "category": "学习、生活与资源导航"
+    },
+    "jxxghp/MoviePilot": {
+      "category": "影音、下载与媒体库"
+    },
+    "idootop/mi-gpt": {
+      "category": "音频、语音与翻译"
+    },
+    "tisfeng/Raycast-Easydict": {
+      "category": "音频、语音与翻译"
+    },
+    "dongyubin/DockerHub": {
+      "category": "自托管、云服务与开发资源"
+    },
+    "233boy/v2ray": {
+      "category": "网络、代理与连接工具"
+    },
+    "sunzsh/internal-chat": {
+      "category": "桌面、系统与实用工具"
+    },
+    "imputnet/cobalt": {
+      "category": "影音、下载与媒体库"
+    },
+    "bestruirui/BestSub": {
+      "category": "网络、代理与连接工具"
+    },
+    "cmliu/CF-Workers-SUB": {
+      "category": "网络、代理与连接工具"
+    },
+    "chen08209/FlClash": {
+      "category": "网络、代理与连接工具"
+    },
+    "AppFlowy-IO/AppFlowy": {
+      "category": "知识管理、阅读与信息订阅"
+    },
+    "standardnotes/app": {
+      "category": "知识管理、阅读与信息订阅"
+    },
+    "RSSNext/Folo": {
+      "category": "知识管理、阅读与信息订阅"
+    },
+    "bepass-org/oblivion-desktop": {
+      "category": "网络、代理与连接工具"
+    },
+    "2dust/v2rayN": {
+      "category": "网络、代理与连接工具"
+    },
+    "cmliu/edgetunnel": {
+      "category": "网络、代理与连接工具"
+    },
+    "babaohuang/GeminiProChat": {
+      "category": "AI 编程与模型工具"
+    },
+    "PawanOsman/OpenCursor": {
+      "category": "AI 编程与模型工具"
+    },
+    "lobehub/lobehub": {
+      "category": "Agent 框架与通用 Skills"
+    },
+    "siyuan-note/siyuan": {
+      "category": "知识管理、阅读与信息订阅"
+    },
+    "Shpigford/chops": {
+      "category": "Agent 框架与通用 Skills"
+    },
+    "glanderness/BeefTV": {
+      "category": "视频、动画与短剧"
+    },
+    "leemysw/yovoice": {
+      "category": "音频、语音与翻译"
+    },
+    "mcncarl/jianying-headless": {
+      "category": "视频、动画与短剧"
+    },
+    "tradecatlabs/vibe-coding-cn": {
+      "category": "学习、生活与资源导航"
+    },
+    "yyjeqhc/webcodex": {
+      "category": "AI 编程与模型工具"
+    }
+  }
+}

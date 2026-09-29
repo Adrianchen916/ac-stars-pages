@@ -1,0 +1,23 @@
+[
+  {
+    "at": "2026-09-26 14:06",
+    "total": 283,
+    "added": [],
+    "removed": [],
+    "initial": true
+  },
+  {
+    "at": "2026-09-28 09:02",
+    "total": 289,
+    "added": [
+      "Shpigford/chops",
+      "glanderness/BeefTV",
+      "leemysw/yovoice",
+      "mcncarl/jianying-headless",
+      "tradecatlabs/vibe-coding-cn",
+      "yyjeqhc/webcodex"
+    ],
+    "removed": [],
+    "initial": false
+  }
+]
