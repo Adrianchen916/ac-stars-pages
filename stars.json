@@ -1,7 +1,7 @@
 {
   "account": "Adrianchen916",
   "source": "https://api.github.com/users/Adrianchen916/starred",
-  "synced_at": "2026-09-28 09:04",
+  "synced_at": "2026-09-29 10:56",
   "categories": [
     "AI 编程与模型工具",
     "Agent 框架与通用 Skills",
@@ -21,6 +21,65 @@
     "待确认用途"
   ],
   "repositories": [
+    {
+      "name": "LearnPrompt/awesome-seedance",
+      "url": "https://github.com/LearnPrompt/awesome-seedance",
+      "description": "🎬 Evidence-led Seedance 2.5 / 2.0 prompt library: 463 cases traced to original posts, 264 cross-model retest runs with public verdicts, 25 copy-ready templates, 60 installable AI-video Skills. EN / 中文 / 日本語.",
+      "description_source": "GitHub 简介",
+      "category": "待确认用途",
+      "tags": [
+        "Skill"
+      ],
+      "language": "JavaScript",
+      "stars": 1509,
+      "archived": false,
+      "pushed_at": "2026-09-28T22:01:18Z",
+      "topics": [
+        "agent-skill",
+        "ai-video",
+        "ai-video-generation",
+        "awesome",
+        "awesome-list",
+        "bytedance",
+        "claude-code",
+        "codex",
+        "goodcase",
+        "minimax",
+        "prompt-engineering",
+        "prompt-library",
+        "prompt-templates",
+        "prompts",
+        "seedance",
+        "seedance-2-0",
+        "seedance-2-5",
+        "text-to-video",
+        "video-generation"
+      ],
+      "rank": 1,
+      "needs_review": true
+    },
+    {
+      "name": "KKKKhazix/AIHOT",
+      "url": "https://github.com/KKKKhazix/AIHOT",
+      "description": "一个自己找热点、自己写日报的网站框架。把信源和精选标准换成你的，它就是你的行业热点站。",
+      "description_source": "GitHub 简介",
+      "category": "待确认用途",
+      "tags": [],
+      "language": "TypeScript",
+      "stars": 945,
+      "archived": false,
+      "pushed_at": "2026-09-29T00:06:43Z",
+      "topics": [
+        "ai",
+        "llm",
+        "mcp",
+        "news-aggregator",
+        "rss",
+        "self-hosted"
+      ],
+      "rank": 2,
+      "needs_review": true
+    },
     {
       "name": "Shpigford/chops",
       "url": "https://github.com/Shpigford/chops",
@@ -44,7 +103,7 @@
         "skills",
         "swiftui"
       ],
-      "rank": 1,
+      "rank": 3,
       "needs_review": false
     },
     {
@@ -58,9 +117,9 @@
         "Windows"
       ],
       "language": "TypeScript",
-      "stars": 213,
+      "stars": 250,
       "archived": false,
-      "pushed_at": "2026-09-27T21:12:58Z",
+      "pushed_at": "2026-09-28T13:34:52Z",
       "topics": [
         "audio",
         "desktop-app",
@@ -71,7 +130,7 @@
         "voice-cloning",
         "windows"
       ],
-      "rank": 2,
+      "rank": 4,
       "needs_review": false
     },
     {
@@ -85,9 +144,9 @@
         "Codex"
       ],
       "language": "Python",
-      "stars": 16711,
+      "stars": 16814,
       "archived": false,
-      "pushed_at": "2026-09-27T20:23:31Z",
+      "pushed_at": "2026-09-28T22:57:05Z",
       "topics": [
         "ai",
         "ai-agent",
@@ -108,7 +167,7 @@
         "vibe-coding",
         "workflow"
       ],
-      "rank": 3,
+      "rank": 5,
       "needs_review": false
     },
     {
@@ -121,9 +180,9 @@
         "Codex"
       ],
       "language": "Rust",
-      "stars": 1982,
+      "stars": 2026,
       "archived": false,
-      "pushed_at": "2026-09-28T00:46:53Z",
+      "pushed_at": "2026-09-29T02:23:53Z",
       "topics": [
         "agent",
         "chatgpt",
@@ -138,7 +197,7 @@
         "rust",
         "self-hosted"
       ],
-      "rank": 4,
+      "rank": 6,
       "needs_review": false
     },
     {
@@ -149,11 +208,11 @@
       "category": "视频、动画与短剧",
       "tags": [],
       "language": "TypeScript",
-      "stars": 221,
+      "stars": 372,
       "archived": false,
-      "pushed_at": "2026-09-27T16:15:27Z",
+      "pushed_at": "2026-09-28T16:16:44Z",
       "topics": [],
-      "rank": 5,
+      "rank": 7,
       "needs_review": false
     },
     {
@@ -166,11 +225,11 @@
         "Skill"
       ],
       "language": "Python",
-      "stars": 2831,
+      "stars": 2897,
       "archived": false,
       "pushed_at": "2026-09-27T01:50:33Z",
       "topics": [],
-      "rank": 6,
+      "rank": 8,
       "needs_review": false
     },
     {
@@ -181,9 +240,9 @@
       "category": "桌面、系统与实用工具",
       "tags": [],
       "language": "Vue",
-      "stars": 3345,
+      "stars": 3431,
       "archived": false,
-      "pushed_at": "2026-09-27T10:51:01Z",
+      "pushed_at": "2026-09-29T02:00:13Z",
       "topics": [
         "desktop-app",
         "digital-asset-manager",
@@ -203,7 +262,7 @@
         "privacy",
         "windows-app"
       ],
-      "rank": 7,
+      "rank": 9,
       "needs_review": false
     },
     {
@@ -214,9 +273,9 @@
       "category": "音频、语音与翻译",
       "tags": [],
       "language": "Python",
-      "stars": 40174,
+      "stars": 44469,
       "archived": false,
-      "pushed_at": "2026-09-27T13:29:55Z",
+      "pushed_at": "2026-09-29T00:58:42Z",
       "topics": [
         "ai",
         "audiobook",
@@ -239,7 +298,7 @@
         "voicestudio",
         "workflow"
       ],
-      "rank": 8,
+      "rank": 10,
       "needs_review": false
     },
     {
@@ -253,9 +312,9 @@
         "Windows"
       ],
       "language": "Rust",
-      "stars": 3394,
+      "stars": 3434,
       "archived": false,
-      "pushed_at": "2026-09-27T11:10:03Z",
+      "pushed_at": "2026-09-28T06:26:36Z",
       "topics": [
         "app-uninstaller",
         "cache-cleaner",
@@ -278,7 +337,7 @@
         "uninstaller",
         "windows"
       ],
-      "rank": 9,
+      "rank": 11,
       "needs_review": false
     },
     {
@@ -291,7 +350,7 @@
         "Obsidian"
       ],
       "language": "JavaScript",
-      "stars": 136,
+      "stars": 138,
       "archived": false,
       "pushed_at": "2026-09-24T10:34:39Z",
       "topics": [
@@ -300,7 +359,7 @@
         "life-os",
         "obsidian"
       ],
-      "rank": 10,
+      "rank": 12,
       "needs_review": false
     },
     {
@@ -313,7 +372,7 @@
         "Obsidian"
       ],
       "language": "JavaScript",
-      "stars": 853,
+      "stars": 862,
       "archived": false,
       "pushed_at": "2026-09-13T23:18:38Z",
       "topics": [
@@ -325,7 +384,7 @@
         "pkm",
         "template"
       ],
-      "rank": 11,
+      "rank": 13,
       "needs_review": false
     },
     {
@@ -338,7 +397,7 @@
         "Skill"
       ],
       "language": "Python",
-      "stars": 1096,
+      "stars": 1103,
       "archived": false,
       "pushed_at": "2026-09-24T14:19:57Z",
       "topics": [
@@ -363,7 +422,7 @@
         "personal-ai",
         "skills"
       ],
-      "rank": 12,
+      "rank": 14,
       "needs_review": false
     },
     {
@@ -377,9 +436,9 @@
         "Windows"
       ],
       "language": "Rust",
-      "stars": 348,
+      "stars": 397,
       "archived": false,
-      "pushed_at": "2026-09-27T18:54:36Z",
+      "pushed_at": "2026-09-28T19:03:02Z",
       "topics": [
         "android",
         "audio-capture",
@@ -400,7 +459,7 @@
         "tauri",
         "windows"
       ],
-      "rank": 13,
+      "rank": 15,
       "needs_review": false
     },
     {
@@ -413,11 +472,11 @@
         "Skill"
       ],
       "language": "Python",
-      "stars": 1540,
+      "stars": 1549,
       "archived": false,
       "pushed_at": "2026-08-26T08:49:06Z",
       "topics": [],
-      "rank": 14,
+      "rank": 16,
       "needs_review": false
     },
     {
@@ -431,9 +490,9 @@
         "Claude"
       ],
       "language": "Go",
-      "stars": 1252,
+      "stars": 1645,
       "archived": false,
-      "pushed_at": "2026-09-27T22:32:24Z",
+      "pushed_at": "2026-09-29T02:51:25Z",
       "topics": [
         "claude-code",
         "codex",
@@ -442,7 +501,7 @@
         "llm",
         "macos"
       ],
-      "rank": 15,
+      "rank": 17,
       "needs_review": false
     },
     {
@@ -458,7 +517,7 @@
         "小红书"
       ],
       "language": "Python",
-      "stars": 1135,
+      "stars": 1149,
       "archived": false,
       "pushed_at": "2026-09-17T06:13:25Z",
       "topics": [
@@ -473,7 +532,7 @@
         "transcription",
         "xiaohongshu"
       ],
-      "rank": 16,
+      "rank": 18,
       "needs_review": false
     },
     {
@@ -488,7 +547,7 @@
       "archived": false,
       "pushed_at": "2026-09-10T15:21:41Z",
       "topics": [],
-      "rank": 17,
+      "rank": 19,
       "needs_review": false
     },
     {
@@ -501,11 +560,11 @@
         "Skill"
       ],
       "language": "TypeScript",
-      "stars": 319,
+      "stars": 391,
       "archived": false,
       "pushed_at": "2026-09-22T03:27:27Z",
       "topics": [],
-      "rank": 18,
+      "rank": 20,
       "needs_review": false
     },
     {
@@ -518,11 +577,11 @@
         "Skill"
       ],
       "language": null,
-      "stars": 247,
+      "stars": 249,
       "archived": false,
       "pushed_at": "2026-09-19T11:42:43Z",
       "topics": [],
-      "rank": 19,
+      "rank": 21,
       "needs_review": false
     },
     {
@@ -537,7 +596,7 @@
       "archived": false,
       "pushed_at": "2026-09-17T15:32:51Z",
       "topics": [],
-      "rank": 20,
+      "rank": 22,
       "needs_review": false
     },
     {
@@ -554,9 +613,9 @@
         "Claude"
       ],
       "language": "TypeScript",
-      "stars": 7995,
+      "stars": 8088,
       "archived": false,
-      "pushed_at": "2026-09-27T02:58:27Z",
+      "pushed_at": "2026-09-28T15:54:35Z",
       "topics": [
         "ai",
         "ai-agent",
@@ -579,7 +638,7 @@
         "spreadsheet",
         "xlsx"
       ],
-      "rank": 21,
+      "rank": 23,
       "needs_review": false
     },
     {
@@ -590,11 +649,11 @@
       "category": "学习、生活与资源导航",
       "tags": [],
       "language": "HTML",
-      "stars": 20729,
+      "stars": 24954,
       "archived": false,
-      "pushed_at": "2026-09-27T12:42:38Z",
+      "pushed_at": "2026-09-29T01:57:40Z",
       "topics": [],
-      "rank": 22,
+      "rank": 24,
       "needs_review": false
     },
     {
@@ -608,7 +667,7 @@
         "Cloudflare"
       ],
       "language": "JavaScript",
-      "stars": 1109,
+      "stars": 1118,
       "archived": false,
       "pushed_at": "2026-09-26T18:30:25Z",
       "topics": [
@@ -618,7 +677,7 @@
         "cloudflare-workers",
         "self-hosted"
       ],
-      "rank": 23,
+      "rank": 25,
       "needs_review": false
     },
     {
@@ -631,9 +690,9 @@
       "language": "Python",
       "stars": 416,
       "archived": false,
-      "pushed_at": "2026-09-27T22:47:55Z",
+      "pushed_at": "2026-09-29T01:27:39Z",
       "topics": [],
-      "rank": 24,
+      "rank": 26,
       "needs_review": false
     },
     {
@@ -644,11 +703,11 @@
       "category": "知识管理、阅读与信息订阅",
       "tags": [],
       "language": "Swift",
-      "stars": 186,
+      "stars": 187,
       "archived": false,
       "pushed_at": "2026-09-27T13:25:30Z",
       "topics": [],
-      "rank": 25,
+      "rank": 27,
       "needs_review": false
     },
     {
@@ -661,7 +720,7 @@
       "language": "Rust",
       "stars": 54,
       "archived": false,
-      "pushed_at": "2026-09-27T12:40:12Z",
+      "pushed_at": "2026-09-28T15:15:53Z",
       "topics": [
         "apps",
         "awesome",
@@ -678,7 +737,7 @@
         "windows-app",
         "windows-desktop"
       ],
-      "rank": 26,
+      "rank": 28,
       "needs_review": false
     },
     {
@@ -689,9 +748,9 @@
       "category": "视频、动画与短剧",
       "tags": [],
       "language": "TypeScript",
-      "stars": 16703,
+      "stars": 17267,
       "archived": false,
-      "pushed_at": "2026-09-26T12:02:24Z",
+      "pushed_at": "2026-09-28T08:54:48Z",
       "topics": [
         "agentic-ai",
         "ai",
@@ -714,7 +773,7 @@
         "video-editing",
         "video-generation"
       ],
-      "rank": 27,
+      "rank": 29,
       "needs_review": false
     },
     {
@@ -727,11 +786,11 @@
         "Skill"
       ],
       "language": "Python",
-      "stars": 2071,
+      "stars": 2099,
       "archived": false,
       "pushed_at": "2026-08-24T06:57:13Z",
       "topics": [],
-      "rank": 28,
+      "rank": 30,
       "needs_review": false
     },
     {
@@ -744,11 +803,11 @@
         "Skill"
       ],
       "language": "TypeScript",
-      "stars": 78,
+      "stars": 79,
       "archived": false,
       "pushed_at": "2026-07-06T03:22:54Z",
       "topics": [],
-      "rank": 29,
+      "rank": 31,
       "needs_review": false
     },
     {
@@ -763,7 +822,7 @@
       "archived": false,
       "pushed_at": "2026-09-10T19:43:13Z",
       "topics": [],
-      "rank": 30,
+      "rank": 32,
       "needs_review": false
     },
     {
@@ -778,7 +837,7 @@
       "archived": false,
       "pushed_at": "2026-09-26T21:06:45Z",
       "topics": [],
-      "rank": 31,
+      "rank": 33,
       "needs_review": false
     },
     {
@@ -791,11 +850,11 @@
         "macOS"
       ],
       "language": "Swift",
-      "stars": 63,
+      "stars": 65,
       "archived": false,
       "pushed_at": "2026-09-14T10:18:15Z",
       "topics": [],
-      "rank": 32,
+      "rank": 34,
       "needs_review": false
     },
     {
@@ -808,7 +867,7 @@
         "Skill"
       ],
       "language": "Python",
-      "stars": 10662,
+      "stars": 10706,
       "archived": false,
       "pushed_at": "2026-09-26T09:38:37Z",
       "topics": [
@@ -821,7 +880,7 @@
         "skill-generator",
         "templates"
       ],
-      "rank": 33,
+      "rank": 35,
       "needs_review": false
     },
     {
@@ -838,7 +897,7 @@
       "archived": false,
       "pushed_at": "2026-09-12T15:20:13Z",
       "topics": [],
-      "rank": 34,
+      "rank": 36,
       "needs_review": false
     },
     {
@@ -849,9 +908,9 @@
       "category": "视频、动画与短剧",
       "tags": [],
       "language": "Rust",
-      "stars": 22878,
+      "stars": 22919,
       "archived": false,
-      "pushed_at": "2026-09-28T00:54:05Z",
+      "pushed_at": "2026-09-29T01:23:38Z",
       "topics": [
         "app",
         "cap",
@@ -874,7 +933,7 @@
         "typescript",
         "vite"
       ],
-      "rank": 35,
+      "rank": 37,
       "needs_review": false
     },
     {
@@ -885,9 +944,9 @@
       "category": "音频、语音与翻译",
       "tags": [],
       "language": "Python",
-      "stars": 10397,
+      "stars": 10524,
       "archived": false,
-      "pushed_at": "2026-09-27T02:02:16Z",
+      "pushed_at": "2026-09-29T02:04:56Z",
       "topics": [
         "ai",
         "audio-generation",
@@ -901,7 +960,7 @@
         "style-transfers",
         "voice-cloning"
       ],
-      "rank": 36,
+      "rank": 38,
       "needs_review": false
     },
     {
@@ -912,11 +971,11 @@
       "category": "写作、运营与内容采集",
       "tags": [],
       "language": "Python",
-      "stars": 12097,
+      "stars": 12113,
       "archived": false,
       "pushed_at": "2026-09-23T14:42:02Z",
       "topics": [],
-      "rank": 37,
+      "rank": 39,
       "needs_review": false
     },
     {
@@ -930,11 +989,11 @@
         "Codex"
       ],
       "language": null,
-      "stars": 117,
+      "stars": 118,
       "archived": false,
       "pushed_at": "2026-08-23T11:40:50Z",
       "topics": [],
-      "rank": 38,
+      "rank": 40,
       "needs_review": false
     },
     {
@@ -945,11 +1004,11 @@
       "category": "网站、博客与个人主页",
       "tags": [],
       "language": "JavaScript",
-      "stars": 1918,
+      "stars": 1925,
       "archived": false,
       "pushed_at": "2026-08-18T13:33:29Z",
       "topics": [],
-      "rank": 39,
+      "rank": 41,
       "needs_review": false
     },
     {
@@ -962,9 +1021,9 @@
         "Skill"
       ],
       "language": "Python",
-      "stars": 1827,
+      "stars": 1828,
       "archived": false,
-      "pushed_at": "2026-09-27T11:44:20Z",
+      "pushed_at": "2026-09-28T13:23:11Z",
       "topics": [
         "agent-skills",
         "ai-tools",
@@ -974,7 +1033,7 @@
         "opc",
         "seo"
       ],
-      "rank": 40,
+      "rank": 42,
       "needs_review": false
     },
     {
@@ -991,7 +1050,7 @@
       "archived": false,
       "pushed_at": "2026-09-10T07:29:01Z",
       "topics": [],
-      "rank": 41,
+      "rank": 43,
       "needs_review": false
     },
     {
@@ -1004,7 +1063,7 @@
         "Skill"
       ],
       "language": "Python",
-      "stars": 803,
+      "stars": 1013,
       "archived": false,
       "pushed_at": "2026-08-24T06:21:54Z",
       "topics": [
@@ -1014,7 +1073,7 @@
         "subtitles",
         "video-processing"
       ],
-      "rank": 42,
+      "rank": 44,
       "needs_review": false
     },
     {
@@ -1028,9 +1087,9 @@
         "Claude"
       ],
       "language": "JavaScript",
-      "stars": 68481,
+      "stars": 68553,
       "archived": false,
-      "pushed_at": "2026-09-27T18:42:08Z",
+      "pushed_at": "2026-09-29T02:41:36Z",
       "topics": [
         "ai",
         "ai-agents",
@@ -1053,7 +1112,7 @@
         "system-prompt",
         "system-prompts"
       ],
-      "rank": 43,
+      "rank": 45,
       "needs_review": false
     },
     {
@@ -1066,9 +1125,9 @@
         "小红书"
       ],
       "language": "Python",
-      "stars": 1835,
+      "stars": 2206,
       "archived": false,
-      "pushed_at": "2026-09-24T03:12:47Z",
+      "pushed_at": "2026-09-28T17:24:04Z",
       "topics": [
         "agent",
         "agent-skill",
@@ -1080,7 +1139,7 @@
         "social-media",
         "social-media-management"
       ],
-      "rank": 44,
+      "rank": 46,
       "needs_review": false
     },
     {
@@ -1091,7 +1150,7 @@
       "category": "办公、文档与演示",
       "tags": [],
       "language": "TypeScript",
-      "stars": 48860,
+      "stars": 48868,
       "archived": false,
       "pushed_at": "2026-09-16T04:20:52Z",
       "topics": [
@@ -1102,7 +1161,7 @@
         "vue",
         "vueuse"
       ],
-      "rank": 45,
+      "rank": 47,
       "needs_review": false
     },
     {
@@ -1119,7 +1178,7 @@
       "archived": false,
       "pushed_at": "2026-08-24T02:08:17Z",
       "topics": [],
-      "rank": 46,
+      "rank": 48,
       "needs_review": false
     },
     {
@@ -1132,9 +1191,9 @@
         "Cloudflare"
       ],
       "language": "JavaScript",
-      "stars": 6572,
+      "stars": 6578,
       "archived": false,
-      "pushed_at": "2026-09-27T06:42:24Z",
+      "pushed_at": "2026-09-28T02:02:38Z",
       "topics": [
         "asset-management",
         "cloud-native",
@@ -1151,7 +1210,7 @@
         "serverless",
         "uploader"
       ],
-      "rank": 47,
+      "rank": 49,
       "needs_review": false
     },
     {
@@ -1164,11 +1223,11 @@
         "Obsidian"
       ],
       "language": "Python",
-      "stars": 63,
+      "stars": 64,
       "archived": false,
       "pushed_at": "2026-08-22T07:48:19Z",
       "topics": [],
-      "rank": 48,
+      "rank": 50,
       "needs_review": false
     },
     {
@@ -1185,7 +1244,7 @@
       "archived": false,
       "pushed_at": "2026-04-22T07:01:12Z",
       "topics": [],
-      "rank": 49,
+      "rank": 51,
       "needs_review": false
     },
     {
@@ -1198,11 +1257,11 @@
         "macOS"
       ],
       "language": "Swift",
-      "stars": 455,
+      "stars": 456,
       "archived": false,
-      "pushed_at": "2026-09-24T02:24:21Z",
+      "pushed_at": "2026-09-28T08:28:35Z",
       "topics": [],
-      "rank": 50,
+      "rank": 52,
       "needs_review": false
     },
     {
@@ -1217,7 +1276,7 @@
       "archived": false,
       "pushed_at": "2026-09-07T05:21:29Z",
       "topics": [],
-      "rank": 51,
+      "rank": 53,
       "needs_review": false
     },
     {
@@ -1244,7 +1303,7 @@
         "startpage",
         "theme"
       ],
-      "rank": 52,
+      "rank": 54,
       "needs_review": false
     },
     {
@@ -1257,7 +1316,7 @@
       "language": "Stylus",
       "stars": 1188,
       "archived": false,
-      "pushed_at": "2026-09-03T00:33:01Z",
+      "pushed_at": "2026-09-29T00:49:35Z",
       "topics": [
         "blog-theme",
         "design",
@@ -1269,7 +1328,7 @@
         "simple",
         "solitude"
       ],
-      "rank": 53,
+      "rank": 55,
       "needs_review": false
     },
     {
@@ -1282,7 +1341,7 @@
         "公众号"
       ],
       "language": "JavaScript",
-      "stars": 241,
+      "stars": 242,
       "archived": false,
       "pushed_at": "2026-09-03T04:22:02Z",
       "topics": [
@@ -1293,7 +1352,7 @@
         "wechat",
         "wechat-official-account"
       ],
-      "rank": 54,
+      "rank": 56,
       "needs_review": false
     },
     {
@@ -1304,11 +1363,11 @@
       "category": "视频、动画与短剧",
       "tags": [],
       "language": "Python",
-      "stars": 421,
+      "stars": 470,
       "archived": false,
       "pushed_at": "2026-09-27T07:22:43Z",
       "topics": [],
-      "rank": 55,
+      "rank": 57,
       "needs_review": false
     },
     {
@@ -1325,7 +1384,7 @@
       "archived": false,
       "pushed_at": "2026-09-04T23:56:56Z",
       "topics": [],
-      "rank": 56,
+      "rank": 58,
       "needs_review": false
     },
     {
@@ -1336,9 +1395,9 @@
       "category": "办公、文档与演示",
       "tags": [],
       "language": "JavaScript",
-      "stars": 3052,
+      "stars": 3060,
       "archived": false,
-      "pushed_at": "2026-09-28T00:38:00Z",
+      "pushed_at": "2026-09-29T01:55:40Z",
       "topics": [
         "ai",
         "ai-writing",
@@ -1358,7 +1417,7 @@
         "tender-document",
         "typescript"
       ],
-      "rank": 57,
+      "rank": 59,
       "needs_review": false
     },
     {
@@ -1369,13 +1428,13 @@
       "category": "音频、语音与翻译",
       "tags": [],
       "language": "Python",
-      "stars": 21713,
+      "stars": 21726,
       "archived": false,
       "pushed_at": "2026-09-23T12:49:26Z",
       "topics": [
         "whisper"
       ],
-      "rank": 58,
+      "rank": 60,
       "needs_review": false
     },
     {
@@ -1392,7 +1451,7 @@
       "archived": false,
       "pushed_at": "2026-08-31T00:46:07Z",
       "topics": [],
-      "rank": 59,
+      "rank": 61,
       "needs_review": false
     },
     {
@@ -1405,7 +1464,7 @@
         "自托管"
       ],
       "language": "HTML",
-      "stars": 171425,
+      "stars": 171515,
       "archived": false,
       "pushed_at": "2026-09-09T10:27:05Z",
       "topics": [
@@ -1428,7 +1487,7 @@
         "prompts-chat",
         "typescript"
       ],
-      "rank": 60,
+      "rank": 62,
       "needs_review": false
     },
     {
@@ -1441,7 +1500,7 @@
         "Skill"
       ],
       "language": "HTML",
-      "stars": 5744,
+      "stars": 5767,
       "archived": false,
       "pushed_at": "2026-09-05T02:40:41Z",
       "topics": [
@@ -1454,7 +1513,7 @@
         "moxt",
         "svg"
       ],
-      "rank": 61,
+      "rank": 63,
       "needs_review": false
     },
     {
@@ -1467,7 +1526,7 @@
         "Skill"
       ],
       "language": "Python",
-      "stars": 3286,
+      "stars": 3301,
       "archived": false,
       "pushed_at": "2026-09-02T18:49:42Z",
       "topics": [
@@ -1484,7 +1543,7 @@
         "risograph",
         "zine"
       ],
-      "rank": 62,
+      "rank": 64,
       "needs_review": false
     },
     {
@@ -1497,9 +1556,9 @@
         "Skill"
       ],
       "language": "JavaScript",
-      "stars": 72806,
+      "stars": 73613,
       "archived": false,
-      "pushed_at": "2026-09-27T16:14:12Z",
+      "pushed_at": "2026-09-28T15:45:30Z",
       "topics": [
         "agent-skills",
         "architecture-as-code",
@@ -1522,7 +1581,7 @@
         "system-design",
         "text-to-diagram"
       ],
-      "rank": 63,
+      "rank": 65,
       "needs_review": false
     },
     {
@@ -1535,7 +1594,7 @@
         "Skill"
       ],
       "language": null,
-      "stars": 2151,
+      "stars": 2174,
       "archived": false,
       "pushed_at": "2026-08-24T06:57:16Z",
       "topics": [
@@ -1545,7 +1604,7 @@
         "writing",
         "writing-dna"
       ],
-      "rank": 64,
+      "rank": 66,
       "needs_review": false
     },
     {
@@ -1562,7 +1621,7 @@
       "archived": false,
       "pushed_at": "2026-09-05T10:34:04Z",
       "topics": [],
-      "rank": 65,
+      "rank": 67,
       "needs_review": false
     },
     {
@@ -1575,9 +1634,9 @@
         "macOS"
       ],
       "language": "Swift",
-      "stars": 115019,
+      "stars": 115074,
       "archived": false,
-      "pushed_at": "2026-09-27T02:30:08Z",
+      "pushed_at": "2026-09-28T13:02:10Z",
       "topics": [
         "app",
         "apple",
@@ -1600,7 +1659,7 @@
         "swift",
         "swiftui"
       ],
-      "rank": 66,
+      "rank": 68,
       "needs_review": false
     },
     {
@@ -1614,11 +1673,11 @@
         "Claude"
       ],
       "language": "PowerShell",
-      "stars": 38336,
+      "stars": 38581,
       "archived": false,
       "pushed_at": "2026-09-22T06:43:21Z",
       "topics": [],
-      "rank": 67,
+      "rank": 69,
       "needs_review": false
     },
     {
@@ -1632,9 +1691,9 @@
         "Claude"
       ],
       "language": "JavaScript",
-      "stars": 797,
+      "stars": 803,
       "archived": false,
-      "pushed_at": "2026-09-27T21:22:47Z",
+      "pushed_at": "2026-09-28T23:18:11Z",
       "topics": [
         "ai-coding",
         "anthropic",
@@ -1647,7 +1706,7 @@
         "new-api",
         "openai"
       ],
-      "rank": 68,
+      "rank": 70,
       "needs_review": false
     },
     {
@@ -1662,7 +1721,7 @@
       "archived": false,
       "pushed_at": "2026-08-28T01:15:19Z",
       "topics": [],
-      "rank": 69,
+      "rank": 71,
       "needs_review": false
     },
     {
@@ -1673,9 +1732,9 @@
       "category": "AI 编程与模型工具",
       "tags": [],
       "language": "TypeScript",
-      "stars": 33488,
+      "stars": 33651,
       "archived": false,
-      "pushed_at": "2026-09-28T00:58:12Z",
+      "pushed_at": "2026-09-29T01:14:31Z",
       "topics": [
         "ai-agent",
         "ai-coding-agent",
@@ -1693,7 +1752,7 @@
         "tui",
         "typescript"
       ],
-      "rank": 70,
+      "rank": 72,
       "needs_review": false
     },
     {
@@ -1704,7 +1763,7 @@
       "category": "办公、文档与演示",
       "tags": [],
       "language": "Python",
-      "stars": 56652,
+      "stars": 56866,
       "archived": false,
       "pushed_at": "2026-09-27T05:20:02Z",
       "topics": [
@@ -1719,7 +1778,7 @@
         "slide",
         "slides"
       ],
-      "rank": 71,
+      "rank": 73,
       "needs_review": false
     },
     {
@@ -1730,11 +1789,11 @@
       "category": "视觉设计、图表与 3D",
       "tags": [],
       "language": "TypeScript",
-      "stars": 8787,
+      "stars": 8790,
       "archived": false,
       "pushed_at": "2026-08-03T17:29:28Z",
       "topics": [],
-      "rank": 72,
+      "rank": 74,
       "needs_review": false
     },
     {
@@ -1745,9 +1804,9 @@
       "category": "投资、交易与财务",
       "tags": [],
       "language": "Jupyter Notebook",
-      "stars": 6578,
+      "stars": 6581,
       "archived": false,
-      "pushed_at": "2026-09-23T13:02:47Z",
+      "pushed_at": "2026-09-28T12:59:00Z",
       "topics": [
         "cpp",
         "jupyter-notebook",
@@ -1761,7 +1820,7 @@
         "trading-platform",
         "trading-strategies"
       ],
-      "rank": 73,
+      "rank": 75,
       "needs_review": false
     },
     {
@@ -1772,9 +1831,9 @@
       "category": "视频、动画与短剧",
       "tags": [],
       "language": "TypeScript",
-      "stars": 53654,
+      "stars": 53943,
       "archived": false,
-      "pushed_at": "2026-09-28T01:03:35Z",
+      "pushed_at": "2026-09-29T02:42:54Z",
       "topics": [
         "ai",
         "animation",
@@ -1788,7 +1847,7 @@
         "typescript",
         "video"
       ],
-      "rank": 74,
+      "rank": 76,
       "needs_review": false
     },
     {
@@ -1799,9 +1858,9 @@
       "category": "AI 编程与模型工具",
       "tags": [],
       "language": "Rust",
-      "stars": 38869,
+      "stars": 38866,
       "archived": false,
-      "pushed_at": "2026-09-28T00:54:59Z",
+      "pushed_at": "2026-09-29T00:52:41Z",
       "topics": [
         "code-editor",
         "developer-tools",
@@ -1809,7 +1868,7 @@
         "text-editor",
         "vim"
       ],
-      "rank": 75,
+      "rank": 77,
       "needs_review": false
     },
     {
@@ -1820,7 +1879,7 @@
       "category": "投资、交易与财务",
       "tags": [],
       "language": "Python",
-      "stars": 18715,
+      "stars": 18721,
       "archived": false,
       "pushed_at": "2026-01-24T09:00:29Z",
       "topics": [
@@ -1836,7 +1895,7 @@
         "trade",
         "trading"
       ],
-      "rank": 76,
+      "rank": 78,
       "needs_review": false
     },
     {
@@ -1847,9 +1906,9 @@
       "category": "投资、交易与财务",
       "tags": [],
       "language": "Python",
-      "stars": 14476,
+      "stars": 14485,
       "archived": false,
-      "pushed_at": "2026-09-03T09:13:55Z",
+      "pushed_at": "2026-09-28T10:33:48Z",
       "topics": [
         "algorithmic-trading",
         "algotrading",
@@ -1871,7 +1930,7 @@
         "trading-bot",
         "trading-strategies"
       ],
-      "rank": 77,
+      "rank": 79,
       "needs_review": false
     },
     {
@@ -1882,9 +1941,9 @@
       "category": "学习、生活与资源导航",
       "tags": [],
       "language": null,
-      "stars": 6750,
+      "stars": 6753,
       "archived": false,
-      "pushed_at": "2026-09-27T06:00:04Z",
+      "pushed_at": "2026-09-28T06:00:04Z",
       "topics": [
         "alternatives",
         "awesome",
@@ -1897,7 +1956,7 @@
         "openalternative",
         "software-alternatives"
       ],
-      "rank": 78,
+      "rank": 80,
       "needs_review": false
     },
     {
@@ -1911,11 +1970,11 @@
         "Claude"
       ],
       "language": "Python",
-      "stars": 56051,
+      "stars": 56159,
       "archived": false,
-      "pushed_at": "2026-09-28T00:51:15Z",
+      "pushed_at": "2026-09-28T06:02:07Z",
       "topics": [],
-      "rank": 79,
+      "rank": 81,
       "needs_review": false
     },
     {
@@ -1928,9 +1987,9 @@
         "macOS"
       ],
       "language": "Swift",
-      "stars": 21696,
+      "stars": 21957,
       "archived": false,
-      "pushed_at": "2026-09-27T11:21:22Z",
+      "pushed_at": "2026-09-29T02:43:37Z",
       "topics": [
         "alt-tab",
         "app-uninstaller",
@@ -1949,7 +2008,7 @@
         "volume-mixer",
         "window-switcher"
       ],
-      "rank": 80,
+      "rank": 82,
       "needs_review": false
     },
     {
@@ -1960,11 +2019,11 @@
       "category": "网站、博客与个人主页",
       "tags": [],
       "language": "Python",
-      "stars": 26838,
+      "stars": 26856,
       "archived": false,
-      "pushed_at": "2026-09-27T01:46:09Z",
+      "pushed_at": "2026-09-28T17:46:17Z",
       "topics": [],
-      "rank": 81,
+      "rank": 83,
       "needs_review": false
     },
     {
@@ -1975,9 +2034,9 @@
       "category": "视觉设计、图表与 3D",
       "tags": [],
       "language": "TypeScript",
-      "stars": 3578,
+      "stars": 3583,
       "archived": false,
-      "pushed_at": "2026-09-26T11:53:46Z",
+      "pushed_at": "2026-09-28T21:05:52Z",
       "topics": [
         "brand-audits",
         "claude-code",
@@ -2000,7 +2059,7 @@
         "token-drift",
         "ui-audit"
       ],
-      "rank": 82,
+      "rank": 84,
       "needs_review": false
     },
     {
@@ -2011,7 +2070,7 @@
       "category": "桌面、系统与实用工具",
       "tags": [],
       "language": "Dart",
-      "stars": 92843,
+      "stars": 92932,
       "archived": false,
       "pushed_at": "2026-09-27T19:25:54Z",
       "topics": [
@@ -2020,7 +2079,7 @@
         "flutter",
         "flutter-apps"
       ],
-      "rank": 83,
+      "rank": 85,
       "needs_review": false
     },
     {
@@ -2033,7 +2092,7 @@
         "小红书"
       ],
       "language": "Python",
-      "stars": 15213,
+      "stars": 15236,
       "archived": false,
       "pushed_at": "2026-09-02T16:56:12Z",
       "topics": [
@@ -2043,7 +2102,7 @@
         "xiaohongshu",
         "youtube"
       ],
-      "rank": 84,
+      "rank": 86,
       "needs_review": false
     },
     {
@@ -2060,7 +2119,7 @@
       "archived": false,
       "pushed_at": "2026-08-15T15:39:25Z",
       "topics": [],
-      "rank": 85,
+      "rank": 87,
       "needs_review": false
     },
     {
@@ -2071,7 +2130,7 @@
       "category": "视觉设计、图表与 3D",
       "tags": [],
       "language": "Python",
-      "stars": 17022,
+      "stars": 17120,
       "archived": false,
       "pushed_at": "2026-09-23T07:33:32Z",
       "topics": [
@@ -2086,7 +2145,7 @@
         "typescript",
         "webgl"
       ],
-      "rank": 86,
+      "rank": 88,
       "needs_review": false
     },
     {
@@ -2097,7 +2156,7 @@
       "category": "桌面、系统与实用工具",
       "tags": [],
       "language": "TypeScript",
-      "stars": 628,
+      "stars": 636,
       "archived": false,
       "pushed_at": "2026-09-23T13:03:08Z",
       "topics": [
@@ -2111,7 +2170,7 @@
         "multi-account",
         "privacy"
       ],
-      "rank": 87,
+      "rank": 89,
       "needs_review": false
     },
     {
@@ -2125,11 +2184,11 @@
         "Claude"
       ],
       "language": "Python",
-      "stars": 357,
+      "stars": 390,
       "archived": false,
       "pushed_at": "2026-04-16T10:29:18Z",
       "topics": [],
-      "rank": 88,
+      "rank": 90,
       "needs_review": false
     },
     {
@@ -2142,11 +2201,11 @@
         "Skill"
       ],
       "language": "Python",
-      "stars": 5201,
+      "stars": 5224,
       "archived": false,
       "pushed_at": "2026-09-03T04:15:13Z",
       "topics": [],
-      "rank": 89,
+      "rank": 91,
       "needs_review": false
     },
     {
@@ -2170,7 +2229,7 @@
         "photo-to-illustration",
         "prompt-engineering"
       ],
-      "rank": 90,
+      "rank": 92,
       "needs_review": false
     },
     {
@@ -2184,11 +2243,11 @@
         "Codex"
       ],
       "language": null,
-      "stars": 7193,
+      "stars": 7212,
       "archived": false,
       "pushed_at": "2026-08-13T15:12:25Z",
       "topics": [],
-      "rank": 91,
+      "rank": 93,
       "needs_review": false
     },
     {
@@ -2203,11 +2262,11 @@
         "Claude"
       ],
       "language": "JavaScript",
-      "stars": 3891,
+      "stars": 3947,
       "archived": false,
       "pushed_at": "2026-09-26T12:49:53Z",
       "topics": [],
-      "rank": 92,
+      "rank": 94,
       "needs_review": false
     },
     {
@@ -2218,11 +2277,11 @@
       "category": "Agent 框架与通用 Skills",
       "tags": [],
       "language": "TypeScript",
-      "stars": 89908,
+      "stars": 93029,
       "archived": false,
-      "pushed_at": "2026-09-28T00:59:55Z",
+      "pushed_at": "2026-09-29T02:46:34Z",
       "topics": [],
-      "rank": 93,
+      "rank": 95,
       "needs_review": false
     },
     {
@@ -2233,7 +2292,7 @@
       "category": "投资、交易与财务",
       "tags": [],
       "language": "TypeScript",
-      "stars": 2875,
+      "stars": 2877,
       "archived": false,
       "pushed_at": "2025-06-29T16:24:33Z",
       "topics": [
@@ -2250,7 +2309,7 @@
         "trading-bot",
         "trading-strategies"
       ],
-      "rank": 94,
+      "rank": 96,
       "needs_review": false
     },
     {
@@ -2265,7 +2324,7 @@
       "archived": false,
       "pushed_at": "2026-05-31T15:09:45Z",
       "topics": [],
-      "rank": 95,
+      "rank": 97,
       "needs_review": false
     },
     {
@@ -2276,7 +2335,7 @@
       "category": "学习、生活与资源导航",
       "tags": [],
       "language": "TypeScript",
-      "stars": 4217,
+      "stars": 4223,
       "archived": false,
       "pushed_at": "2026-09-21T05:57:14Z",
       "topics": [
@@ -2291,7 +2350,7 @@
         "zi-wei-dou-shu",
         "ziwei-doushu"
       ],
-      "rank": 96,
+      "rank": 98,
       "needs_review": false
     },
     {
@@ -2302,9 +2361,9 @@
       "category": "AI 编程与模型工具",
       "tags": [],
       "language": "TypeScript",
-      "stars": 10805,
+      "stars": 10882,
       "archived": false,
-      "pushed_at": "2026-09-28T00:18:43Z",
+      "pushed_at": "2026-09-29T00:05:23Z",
       "topics": [
         "agentic-engineering",
         "agents",
@@ -2312,7 +2371,7 @@
         "enginering",
         "opencode"
       ],
-      "rank": 97,
+      "rank": 99,
       "needs_review": false
     },
     {
@@ -2338,7 +2397,7 @@
         "swift",
         "swiftui"
       ],
-      "rank": 98,
+      "rank": 100,
       "needs_review": false
     },
     {
@@ -2349,14 +2408,14 @@
       "category": "学习、生活与资源导航",
       "tags": [],
       "language": "JavaScript",
-      "stars": 12081,
+      "stars": 12101,
       "archived": false,
-      "pushed_at": "2026-09-27T09:07:08Z",
+      "pushed_at": "2026-09-29T02:05:22Z",
       "topics": [
         "fmhy",
         "freemediaheckyeah"
       ],
-      "rank": 99,
+      "rank": 101,
       "needs_review": false
     },
     {
@@ -2369,7 +2428,7 @@
         "Skill"
       ],
       "language": "Python",
-      "stars": 3841,
+      "stars": 3859,
       "archived": false,
       "pushed_at": "2026-08-11T15:07:45Z",
       "topics": [
@@ -2378,7 +2437,7 @@
         "creative-writing",
         "writing-skill"
       ],
-      "rank": 100,
+      "rank": 102,
       "needs_review": false
     },
     {
@@ -2391,11 +2450,11 @@
         "Skill"
       ],
       "language": null,
-      "stars": 1599,
+      "stars": 1600,
       "archived": true,
       "pushed_at": "2026-08-07T07:26:06Z",
       "topics": [],
-      "rank": 101,
+      "rank": 103,
       "needs_review": false
     },
     {
@@ -2410,7 +2469,7 @@
       "language": "Rust",
       "stars": 95,
       "archived": false,
-      "pushed_at": "2026-09-26T02:34:34Z",
+      "pushed_at": "2026-09-28T14:13:05Z",
       "topics": [
         "ai-agent",
         "claude-code",
@@ -2422,7 +2481,7 @@
         "tauri",
         "token-usage"
       ],
-      "rank": 102,
+      "rank": 104,
       "needs_review": false
     },
     {
@@ -2439,7 +2498,7 @@
       "archived": false,
       "pushed_at": "2026-08-11T11:44:34Z",
       "topics": [],
-      "rank": 103,
+      "rank": 105,
       "needs_review": false
     },
     {
@@ -2452,11 +2511,11 @@
         "Skill"
       ],
       "language": "Python",
-      "stars": 3279,
+      "stars": 3288,
       "archived": false,
       "pushed_at": "2026-08-17T17:53:04Z",
       "topics": [],
-      "rank": 104,
+      "rank": 106,
       "needs_review": false
     },
     {
@@ -2467,9 +2526,9 @@
       "category": "知识管理、阅读与信息订阅",
       "tags": [],
       "language": "TypeScript",
-      "stars": 438,
+      "stars": 442,
       "archived": false,
-      "pushed_at": "2026-09-27T15:47:02Z",
+      "pushed_at": "2026-09-28T23:13:58Z",
       "topics": [
         "agent-memory",
         "claude-code",
@@ -2484,7 +2543,7 @@
         "note-taking",
         "open-code"
       ],
-      "rank": 105,
+      "rank": 107,
       "needs_review": false
     },
     {
@@ -2495,11 +2554,11 @@
       "category": "桌面、系统与实用工具",
       "tags": [],
       "language": "TypeScript",
-      "stars": 6822,
+      "stars": 6825,
       "archived": false,
       "pushed_at": "2026-08-26T12:51:11Z",
       "topics": [],
-      "rank": 106,
+      "rank": 108,
       "needs_review": false
     },
     {
@@ -2510,7 +2569,7 @@
       "category": "学习、生活与资源导航",
       "tags": [],
       "language": "Jupyter Notebook",
-      "stars": 69157,
+      "stars": 69218,
       "archived": false,
       "pushed_at": "2026-09-16T20:17:56Z",
       "topics": [
@@ -2525,7 +2584,7 @@
         "nlp",
         "rnn"
       ],
-      "rank": 107,
+      "rank": 109,
       "needs_review": false
     },
     {
@@ -2536,7 +2595,7 @@
       "category": "音频、语音与翻译",
       "tags": [],
       "language": "Python",
-      "stars": 24201,
+      "stars": 24213,
       "archived": false,
       "pushed_at": "2026-08-18T06:52:28Z",
       "topics": [
@@ -2548,7 +2607,7 @@
         "voice-clone",
         "zero-shot-tts"
       ],
-      "rank": 108,
+      "rank": 110,
       "needs_review": false
     },
     {
@@ -2565,7 +2624,7 @@
       "language": "JavaScript",
       "stars": 554,
       "archived": false,
-      "pushed_at": "2026-09-26T18:17:44Z",
+      "pushed_at": "2026-09-28T15:48:20Z",
       "topics": [
         "canvas",
         "chinese-content",
@@ -2576,7 +2635,7 @@
         "wechat",
         "xiaohongshu"
       ],
-      "rank": 109,
+      "rank": 111,
       "needs_review": false
     },
     {
@@ -2589,7 +2648,7 @@
         "Windows"
       ],
       "language": "Go",
-      "stars": 3682,
+      "stars": 3695,
       "archived": false,
       "pushed_at": "2026-09-27T14:40:43Z",
       "topics": [
@@ -2602,7 +2661,7 @@
         "windows-10",
         "windows-11"
       ],
-      "rank": 110,
+      "rank": 112,
       "needs_review": false
     },
     {
@@ -2615,11 +2674,11 @@
         "Skill"
       ],
       "language": "JavaScript",
-      "stars": 1160,
+      "stars": 1162,
       "archived": false,
       "pushed_at": "2026-09-19T15:26:51Z",
       "topics": [],
-      "rank": 111,
+      "rank": 113,
       "needs_review": false
     },
     {
@@ -2632,7 +2691,7 @@
         "自托管"
       ],
       "language": "TypeScript",
-      "stars": 19852,
+      "stars": 19863,
       "archived": false,
       "pushed_at": "2026-09-10T18:53:30Z",
       "topics": [
@@ -2645,7 +2704,7 @@
         "self-hosted",
         "typescript"
       ],
-      "rank": 112,
+      "rank": 114,
       "needs_review": false
     },
     {
@@ -2660,7 +2719,7 @@
       "archived": false,
       "pushed_at": "2026-08-08T06:24:59Z",
       "topics": [],
-      "rank": 113,
+      "rank": 115,
       "needs_review": false
     },
     {
@@ -2671,9 +2730,9 @@
       "category": "AI 编程与模型工具",
       "tags": [],
       "language": "Rust",
-      "stars": 1136,
+      "stars": 1148,
       "archived": false,
-      "pushed_at": "2026-09-28T01:00:58Z",
+      "pushed_at": "2026-09-29T02:35:53Z",
       "topics": [
         "ai-agents",
         "alacritty",
@@ -2696,7 +2755,7 @@
         "tmux",
         "windows"
       ],
-      "rank": 114,
+      "rank": 116,
       "needs_review": false
     },
     {
@@ -2707,7 +2766,7 @@
       "category": "视频、动画与短剧",
       "tags": [],
       "language": null,
-      "stars": 782,
+      "stars": 783,
       "archived": false,
       "pushed_at": "2026-08-10T16:49:54Z",
       "topics": [
@@ -2719,7 +2778,7 @@
         "video-production",
         "visual-journalism"
       ],
-      "rank": 115,
+      "rank": 117,
       "needs_review": false
     },
     {
@@ -2736,7 +2795,7 @@
       "archived": false,
       "pushed_at": "2026-07-30T14:03:56Z",
       "topics": [],
-      "rank": 116,
+      "rank": 118,
       "needs_review": false
     },
     {
@@ -2754,7 +2813,7 @@
         "hugo",
         "theme"
       ],
-      "rank": 117,
+      "rank": 119,
       "needs_review": false
     },
     {
@@ -2767,7 +2826,7 @@
       "language": "TypeScript",
       "stars": 205,
       "archived": false,
-      "pushed_at": "2026-09-21T23:35:20Z",
+      "pushed_at": "2026-09-28T23:34:58Z",
       "topics": [
         "hugo",
         "hugo-theme",
@@ -2777,7 +2836,7 @@
         "portfolio-site",
         "solidjs"
       ],
-      "rank": 118,
+      "rank": 120,
       "needs_review": false
     },
     {
@@ -2788,9 +2847,9 @@
       "category": "网站、博客与个人主页",
       "tags": [],
       "language": "Go",
-      "stars": 89970,
+      "stars": 89979,
       "archived": false,
-      "pushed_at": "2026-09-27T15:58:25Z",
+      "pushed_at": "2026-09-28T15:22:08Z",
       "topics": [
         "blog-engine",
         "cms",
@@ -2800,7 +2859,7 @@
         "hugo",
         "static-site-generator"
       ],
-      "rank": 119,
+      "rank": 121,
       "needs_review": false
     },
     {
@@ -2819,7 +2878,7 @@
         "hugo",
         "hugo-theme"
       ],
-      "rank": 120,
+      "rank": 122,
       "needs_review": false
     },
     {
@@ -2830,7 +2889,7 @@
       "category": "自托管、云服务与开发资源",
       "tags": [],
       "language": "Vue",
-      "stars": 5331,
+      "stars": 5332,
       "archived": false,
       "pushed_at": "2026-09-17T07:57:25Z",
       "topics": [
@@ -2847,7 +2906,7 @@
         "synology",
         "vue3"
       ],
-      "rank": 121,
+      "rank": 123,
       "needs_review": false
     },
     {
@@ -2858,9 +2917,9 @@
       "category": "影音、下载与媒体库",
       "tags": [],
       "language": "JavaScript",
-      "stars": 5274,
+      "stars": 5285,
       "archived": false,
-      "pushed_at": "2026-09-28T00:50:29Z",
+      "pushed_at": "2026-09-28T14:36:09Z",
       "topics": [
         "github",
         "greasemonkey",
@@ -2868,7 +2927,7 @@
         "tampermonkey",
         "userscript"
       ],
-      "rank": 122,
+      "rank": 124,
       "needs_review": false
     },
     {
@@ -2879,7 +2938,7 @@
       "category": "桌面、系统与实用工具",
       "tags": [],
       "language": "Swift",
-      "stars": 1326,
+      "stars": 1333,
       "archived": false,
       "pushed_at": "2026-09-27T15:01:46Z",
       "topics": [
@@ -2890,7 +2949,7 @@
         "swift",
         "swiftui"
       ],
-      "rank": 123,
+      "rank": 125,
       "needs_review": false
     },
     {
@@ -2903,7 +2962,7 @@
       "language": "TypeScript",
       "stars": 895,
       "archived": false,
-      "pushed_at": "2026-09-24T16:42:40Z",
+      "pushed_at": "2026-09-28T21:14:29Z",
       "topics": [
         "awesome",
         "awesome-list",
@@ -2913,7 +2972,7 @@
         "solidity",
         "web3"
       ],
-      "rank": 124,
+      "rank": 126,
       "needs_review": false
     },
     {
@@ -2931,7 +2990,7 @@
       "archived": false,
       "pushed_at": "2026-09-21T03:32:24Z",
       "topics": [],
-      "rank": 125,
+      "rank": 127,
       "needs_review": false
     },
     {
@@ -2944,7 +3003,7 @@
         "Cloudflare"
       ],
       "language": "JavaScript",
-      "stars": 696,
+      "stars": 697,
       "archived": false,
       "pushed_at": "2026-09-11T21:38:07Z",
       "topics": [
@@ -2952,7 +3011,7 @@
         "cloudflare",
         "navigation"
       ],
-      "rank": 126,
+      "rank": 128,
       "needs_review": false
     },
     {
@@ -2965,7 +3024,7 @@
         "Windows"
       ],
       "language": "C#",
-      "stars": 4007,
+      "stars": 4014,
       "archived": false,
       "pushed_at": "2026-09-27T04:54:06Z",
       "topics": [
@@ -2990,7 +3049,7 @@
         "windows",
         "wpf"
       ],
-      "rank": 127,
+      "rank": 129,
       "needs_review": false
     },
     {
@@ -3001,7 +3060,7 @@
       "category": "学习、生活与资源导航",
       "tags": [],
       "language": null,
-      "stars": 23345,
+      "stars": 23349,
       "archived": false,
       "pushed_at": "2026-09-11T06:50:42Z",
       "topics": [
@@ -3013,7 +3072,7 @@
         "telegram-channel",
         "telegramgroups"
       ],
-      "rank": 128,
+      "rank": 130,
       "needs_review": false
     },
     {
@@ -3026,11 +3085,11 @@
         "Skill"
       ],
       "language": "Markdown",
-      "stars": 41492,
+      "stars": 41680,
       "archived": false,
       "pushed_at": "2026-09-23T23:18:27Z",
       "topics": [],
-      "rank": 129,
+      "rank": 131,
       "needs_review": false
     },
     {
@@ -3047,7 +3106,7 @@
       "archived": false,
       "pushed_at": "2026-06-16T07:53:32Z",
       "topics": [],
-      "rank": 130,
+      "rank": 132,
       "needs_review": false
     },
     {
@@ -3058,11 +3117,11 @@
       "category": "写作、运营与内容采集",
       "tags": [],
       "language": "Python",
-      "stars": 11439,
+      "stars": 11487,
       "archived": false,
       "pushed_at": "2026-09-02T04:19:00Z",
       "topics": [],
-      "rank": 131,
+      "rank": 133,
       "needs_review": false
     },
     {
@@ -3073,11 +3132,11 @@
       "category": "投资、交易与财务",
       "tags": [],
       "language": "Python",
-      "stars": 5465,
+      "stars": 5472,
       "archived": false,
       "pushed_at": "2026-04-07T02:54:52Z",
       "topics": [],
-      "rank": 132,
+      "rank": 134,
       "needs_review": false
     },
     {
@@ -3088,9 +3147,9 @@
       "category": "视觉设计、图表与 3D",
       "tags": [],
       "language": "TypeScript",
-      "stars": 9959,
+      "stars": 9968,
       "archived": false,
-      "pushed_at": "2026-09-27T15:58:36Z",
+      "pushed_at": "2026-09-28T18:55:51Z",
       "topics": [
         "ai-image-generation",
         "ai-prompts",
@@ -3109,7 +3168,7 @@
         "prompts",
         "text-rendering"
       ],
-      "rank": 133,
+      "rank": 135,
       "needs_review": false
     },
     {
@@ -3120,7 +3179,7 @@
       "category": "自托管、云服务与开发资源",
       "tags": [],
       "language": "Markdown",
-      "stars": 201405,
+      "stars": 201550,
       "archived": false,
       "pushed_at": "2026-08-12T10:36:46Z",
       "topics": [
@@ -3140,7 +3199,7 @@
         "internet-infrastructure",
         "nameserver"
       ],
-      "rank": 134,
+      "rank": 136,
       "needs_review": false
     },
     {
@@ -3151,9 +3210,9 @@
       "category": "Agent 框架与通用 Skills",
       "tags": [],
       "language": "TypeScript",
-      "stars": 35304,
+      "stars": 35333,
       "archived": false,
-      "pushed_at": "2026-09-24T09:50:31Z",
+      "pushed_at": "2026-09-29T01:38:54Z",
       "topics": [
         "agent",
         "agent-harness",
@@ -3172,7 +3231,7 @@
         "super-agent",
         "webui"
       ],
-      "rank": 135,
+      "rank": 137,
       "needs_review": false
     },
     {
@@ -3195,7 +3254,7 @@
         "stock-market",
         "vercel"
       ],
-      "rank": 136,
+      "rank": 138,
       "needs_review": false
     },
     {
@@ -3210,11 +3269,11 @@
         "小红书"
       ],
       "language": null,
-      "stars": 844,
+      "stars": 862,
       "archived": false,
       "pushed_at": "2026-07-15T13:36:54Z",
       "topics": [],
-      "rank": 137,
+      "rank": 139,
       "needs_review": false
     },
     {
@@ -3228,7 +3287,7 @@
         "Claude"
       ],
       "language": "Python",
-      "stars": 37527,
+      "stars": 37532,
       "archived": false,
       "pushed_at": "2026-08-02T01:55:40Z",
       "topics": [
@@ -3253,7 +3312,7 @@
         "stt",
         "whatsapp-ai"
       ],
-      "rank": 138,
+      "rank": 140,
       "needs_review": false
     },
     {
@@ -3264,11 +3323,11 @@
       "category": "Agent 框架与通用 Skills",
       "tags": [],
       "language": "Swift",
-      "stars": 4740,
+      "stars": 4759,
       "archived": false,
       "pushed_at": "2026-09-26T02:06:39Z",
       "topics": [],
-      "rank": 139,
+      "rank": 141,
       "needs_review": false
     },
     {
@@ -3281,7 +3340,7 @@
         "Skill"
       ],
       "language": "Python",
-      "stars": 63025,
+      "stars": 63125,
       "archived": false,
       "pushed_at": "2026-09-27T18:43:53Z",
       "topics": [
@@ -3306,7 +3365,7 @@
         "web-search",
         "youtube"
       ],
-      "rank": 140,
+      "rank": 142,
       "needs_review": false
     },
     {
@@ -3323,7 +3382,7 @@
       "archived": false,
       "pushed_at": "2026-09-14T10:34:17Z",
       "topics": [],
-      "rank": 141,
+      "rank": 143,
       "needs_review": false
     },
     {
@@ -3336,11 +3395,11 @@
         "小红书"
       ],
       "language": "Python",
-      "stars": 65827,
+      "stars": 65922,
       "archived": false,
       "pushed_at": "2026-09-19T05:26:11Z",
       "topics": [],
-      "rank": 142,
+      "rank": 144,
       "needs_review": false
     },
     {
@@ -3351,7 +3410,7 @@
       "category": "学习、生活与资源导航",
       "tags": [],
       "language": "JavaScript",
-      "stars": 64125,
+      "stars": 64810,
       "archived": false,
       "pushed_at": "2026-09-20T04:50:30Z",
       "topics": [
@@ -3359,7 +3418,7 @@
         "english-learning",
         "tutorial"
       ],
-      "rank": 143,
+      "rank": 145,
       "needs_review": false
     },
     {
@@ -3373,11 +3432,11 @@
         "公众号"
       ],
       "language": "Python",
-      "stars": 114,
+      "stars": 115,
       "archived": false,
       "pushed_at": "2026-08-05T01:42:58Z",
       "topics": [],
-      "rank": 144,
+      "rank": 146,
       "needs_review": false
     },
     {
@@ -3390,7 +3449,7 @@
         "Claude"
       ],
       "language": "TypeScript",
-      "stars": 965,
+      "stars": 969,
       "archived": false,
       "pushed_at": "2026-08-27T03:38:05Z",
       "topics": [
@@ -3406,7 +3465,7 @@
         "price-comparison",
         "sd2"
       ],
-      "rank": 145,
+      "rank": 147,
       "needs_review": false
     },
     {
@@ -3421,7 +3480,7 @@
       "archived": false,
       "pushed_at": "2026-07-23T04:14:30Z",
       "topics": [],
-      "rank": 146,
+      "rank": 148,
       "needs_review": false
     },
     {
@@ -3432,7 +3491,7 @@
       "category": "AI 编程与模型工具",
       "tags": [],
       "language": "Go",
-      "stars": 7746,
+      "stars": 7749,
       "archived": false,
       "pushed_at": "2026-09-21T17:28:04Z",
       "topics": [
@@ -3443,7 +3502,7 @@
         "grok-video",
         "grok-web"
       ],
-      "rank": 147,
+      "rank": 149,
       "needs_review": false
     },
     {
@@ -3454,11 +3513,11 @@
       "category": "AI 编程与模型工具",
       "tags": [],
       "language": "Rust",
-      "stars": 27129,
+      "stars": 27142,
       "archived": false,
       "pushed_at": "2026-09-23T16:52:48Z",
       "topics": [],
-      "rank": 148,
+      "rank": 150,
       "needs_review": false
     },
     {
@@ -3471,7 +3530,7 @@
         "macOS"
       ],
       "language": "Swift",
-      "stars": 9451,
+      "stars": 9474,
       "archived": false,
       "pushed_at": "2026-07-09T07:54:56Z",
       "topics": [
@@ -3491,7 +3550,7 @@
         "volume-control",
         "volume-mixer"
       ],
-      "rank": 149,
+      "rank": 151,
       "needs_review": false
     },
     {
@@ -3502,7 +3561,7 @@
       "category": "Agent 框架与通用 Skills",
       "tags": [],
       "language": "TypeScript",
-      "stars": 3786,
+      "stars": 3787,
       "archived": false,
       "pushed_at": "2026-09-05T07:16:52Z",
       "topics": [
@@ -3527,7 +3586,7 @@
         "shared-context",
         "vibe-coding"
       ],
-      "rank": 150,
+      "rank": 152,
       "needs_review": false
     },
     {
@@ -3550,7 +3609,7 @@
         "wake-on-lan",
         "web-interface"
       ],
-      "rank": 151,
+      "rank": 153,
       "needs_review": false
     },
     {
@@ -3571,7 +3630,7 @@
         "video",
         "yt-dlp"
       ],
-      "rank": 152,
+      "rank": 154,
       "needs_review": false
     },
     {
@@ -3582,7 +3641,7 @@
       "category": "AI 编程与模型工具",
       "tags": [],
       "language": "Python",
-      "stars": 754,
+      "stars": 755,
       "archived": false,
       "pushed_at": "2026-05-15T08:41:27Z",
       "topics": [
@@ -3601,7 +3660,7 @@
         "stripe",
         "web-scraping"
       ],
-      "rank": 153,
+      "rank": 155,
       "needs_review": false
     },
     {
@@ -3616,7 +3675,7 @@
       "archived": false,
       "pushed_at": "2026-09-20T15:12:51Z",
       "topics": [],
-      "rank": 154,
+      "rank": 156,
       "needs_review": false
     },
     {
@@ -3631,7 +3690,7 @@
       "archived": false,
       "pushed_at": "2026-07-09T10:43:39Z",
       "topics": [],
-      "rank": 155,
+      "rank": 157,
       "needs_review": false
     },
     {
@@ -3644,11 +3703,11 @@
         "Skill"
       ],
       "language": "Python",
-      "stars": 252,
+      "stars": 253,
       "archived": false,
       "pushed_at": "2026-07-14T03:14:12Z",
       "topics": [],
-      "rank": 156,
+      "rank": 158,
       "needs_review": false
     },
     {
@@ -3661,7 +3720,7 @@
         "Skill"
       ],
       "language": "JavaScript",
-      "stars": 8884,
+      "stars": 8946,
       "archived": false,
       "pushed_at": "2026-09-12T14:13:08Z",
       "topics": [
@@ -3680,7 +3739,7 @@
         "slide-generator",
         "slides"
       ],
-      "rank": 157,
+      "rank": 159,
       "needs_review": false
     },
     {
@@ -3691,9 +3750,9 @@
       "category": "网络、代理与连接工具",
       "tags": [],
       "language": null,
-      "stars": 30627,
+      "stars": 30662,
       "archived": false,
-      "pushed_at": "2026-09-27T23:04:28Z",
+      "pushed_at": "2026-09-28T23:04:38Z",
       "topics": [
         "adblock",
         "gfw",
@@ -3701,7 +3760,7 @@
         "shadowrocket",
         "v2ray"
       ],
-      "rank": 158,
+      "rank": 160,
       "needs_review": false
     },
     {
@@ -3714,11 +3773,11 @@
         "Skill"
       ],
       "language": "Python",
-      "stars": 1615,
+      "stars": 1621,
       "archived": false,
       "pushed_at": "2026-09-21T05:44:30Z",
       "topics": [],
-      "rank": 159,
+      "rank": 161,
       "needs_review": false
     },
     {
@@ -3729,11 +3788,11 @@
       "category": "视频、动画与短剧",
       "tags": [],
       "language": "Python",
-      "stars": 7456,
+      "stars": 7464,
       "archived": false,
       "pushed_at": "2026-09-26T18:58:36Z",
       "topics": [],
-      "rank": 160,
+      "rank": 162,
       "needs_review": false
     },
     {
@@ -3746,11 +3805,11 @@
         "Skill"
       ],
       "language": "Python",
-      "stars": 3272,
+      "stars": 3274,
       "archived": false,
       "pushed_at": "2026-01-19T03:07:23Z",
       "topics": [],
-      "rank": 161,
+      "rank": 163,
       "needs_review": false
     },
     {
@@ -3764,7 +3823,7 @@
         "Claude"
       ],
       "language": "JavaScript",
-      "stars": 4204,
+      "stars": 4209,
       "archived": false,
       "pushed_at": "2026-09-23T05:34:49Z",
       "topics": [
@@ -3777,7 +3836,7 @@
         "prototyping",
         "ui-design"
       ],
-      "rank": 162,
+      "rank": 164,
       "needs_review": false
     },
     {
@@ -3788,7 +3847,7 @@
       "category": "投资、交易与财务",
       "tags": [],
       "language": null,
-      "stars": 1654,
+      "stars": 1659,
       "archived": false,
       "pushed_at": "2026-09-25T09:47:23Z",
       "topics": [
@@ -3807,7 +3866,7 @@
         "trading",
         "us-stocks"
       ],
-      "rank": 163,
+      "rank": 165,
       "needs_review": false
     },
     {
@@ -3820,11 +3879,11 @@
         "Skill"
       ],
       "language": "Python",
-      "stars": 7038,
+      "stars": 7049,
       "archived": false,
       "pushed_at": "2026-09-05T07:29:04Z",
       "topics": [],
-      "rank": 164,
+      "rank": 166,
       "needs_review": false
     },
     {
@@ -3835,7 +3894,7 @@
       "category": "音频、语音与翻译",
       "tags": [],
       "language": "TypeScript",
-      "stars": 2583,
+      "stars": 2584,
       "archived": false,
       "pushed_at": "2026-09-21T12:20:56Z",
       "topics": [
@@ -3848,7 +3907,7 @@
         "hacker-news",
         "nextjs"
       ],
-      "rank": 165,
+      "rank": 167,
       "needs_review": false
     },
     {
@@ -3869,7 +3928,7 @@
         "life",
         "writer"
       ],
-      "rank": 166,
+      "rank": 168,
       "needs_review": false
     },
     {
@@ -3884,7 +3943,7 @@
       "archived": false,
       "pushed_at": "2026-03-20T13:33:19Z",
       "topics": [],
-      "rank": 167,
+      "rank": 169,
       "needs_review": false
     },
     {
@@ -3895,11 +3954,11 @@
       "category": "网络、代理与连接工具",
       "tags": [],
       "language": "Python",
-      "stars": 173,
+      "stars": 174,
       "archived": false,
       "pushed_at": "2026-06-26T08:34:07Z",
       "topics": [],
-      "rank": 168,
+      "rank": 170,
       "needs_review": false
     },
     {
@@ -3910,9 +3969,9 @@
       "category": "自托管、云服务与开发资源",
       "tags": [],
       "language": "Python",
-      "stars": 483829,
+      "stars": 484133,
       "archived": false,
-      "pushed_at": "2026-09-27T19:29:21Z",
+      "pushed_at": "2026-09-28T21:21:30Z",
       "topics": [
         "api",
         "apis",
@@ -3928,7 +3987,7 @@
         "resources",
         "software"
       ],
-      "rank": 169,
+      "rank": 171,
       "needs_review": false
     },
     {
@@ -3939,7 +3998,7 @@
       "category": "Agent 框架与通用 Skills",
       "tags": [],
       "language": "Python",
-      "stars": 16601,
+      "stars": 16603,
       "archived": false,
       "pushed_at": "2026-09-25T03:56:21Z",
       "topics": [
@@ -3948,7 +4007,7 @@
         "browser-use-box",
         "cloud-browser"
       ],
-      "rank": 170,
+      "rank": 172,
       "needs_review": false
     },
     {
@@ -3965,7 +4024,7 @@
         "Claude"
       ],
       "language": "HTML",
-      "stars": 8960,
+      "stars": 8970,
       "archived": false,
       "pushed_at": "2026-09-15T03:36:24Z",
       "topics": [
@@ -3990,7 +4049,7 @@
         "wechat",
         "xiaohongshu"
       ],
-      "rank": 171,
+      "rank": 173,
       "needs_review": false
     },
     {
@@ -4016,7 +4075,7 @@
         "terminal",
         "vibe-coding"
       ],
-      "rank": 172,
+      "rank": 174,
       "needs_review": false
     },
     {
@@ -4029,7 +4088,7 @@
         "Skill"
       ],
       "language": "Python",
-      "stars": 4040,
+      "stars": 4043,
       "archived": false,
       "pushed_at": "2026-09-16T12:58:45Z",
       "topics": [
@@ -4041,7 +4100,7 @@
         "stock-research",
         "supply-chain"
       ],
-      "rank": 173,
+      "rank": 175,
       "needs_review": false
     },
     {
@@ -4052,7 +4111,7 @@
       "category": "桌面、系统与实用工具",
       "tags": [],
       "language": "JavaScript",
-      "stars": 2136,
+      "stars": 2139,
       "archived": false,
       "pushed_at": "2026-09-27T22:25:42Z",
       "topics": [
@@ -4061,7 +4120,7 @@
         "simyo",
         "tools"
       ],
-      "rank": 174,
+      "rank": 176,
       "needs_review": false
     },
     {
@@ -4072,7 +4131,7 @@
       "category": "投资、交易与财务",
       "tags": [],
       "language": "Python",
-      "stars": 65723,
+      "stars": 65770,
       "archived": false,
       "pushed_at": "2026-09-27T12:35:01Z",
       "topics": [
@@ -4084,7 +4143,7 @@
         "quantitative-finance",
         "quantitative-trading"
       ],
-      "rank": 175,
+      "rank": 177,
       "needs_review": false
     },
     {
@@ -4095,7 +4154,7 @@
       "category": "写作、运营与内容采集",
       "tags": [],
       "language": "TypeScript",
-      "stars": 26488,
+      "stars": 26521,
       "archived": false,
       "pushed_at": "2026-09-18T07:18:26Z",
       "topics": [
@@ -4111,7 +4170,7 @@
         "tool",
         "xiaohongshu"
       ],
-      "rank": 176,
+      "rank": 178,
       "needs_review": false
     },
     {
@@ -4128,7 +4187,7 @@
       "archived": false,
       "pushed_at": "2026-07-25T16:44:45Z",
       "topics": [],
-      "rank": 177,
+      "rank": 179,
       "needs_review": false
     },
     {
@@ -4141,11 +4200,11 @@
         "Codex"
       ],
       "language": "Rust",
-      "stars": 31602,
+      "stars": 31655,
       "archived": false,
-      "pushed_at": "2026-09-23T17:51:13Z",
+      "pushed_at": "2026-09-28T12:20:17Z",
       "topics": [],
-      "rank": 178,
+      "rank": 180,
       "needs_review": false
     },
     {
@@ -4156,7 +4215,7 @@
       "category": "影音、下载与媒体库",
       "tags": [],
       "language": "Rust",
-      "stars": 337,
+      "stars": 338,
       "archived": false,
       "pushed_at": "2026-07-07T06:37:31Z",
       "topics": [
@@ -4164,7 +4223,7 @@
         "jav",
         "scaper"
       ],
-      "rank": 179,
+      "rank": 181,
       "needs_review": false
     },
     {
@@ -4178,9 +4237,9 @@
         "Claude"
       ],
       "language": "TypeScript",
-      "stars": 98334,
+      "stars": 98516,
       "archived": false,
-      "pushed_at": "2026-09-27T18:18:52Z",
+      "pushed_at": "2026-09-29T02:54:10Z",
       "topics": [
         "agent-skills",
         "ai-design",
@@ -4203,7 +4262,7 @@
         "ui-generator",
         "vibe-coding"
       ],
-      "rank": 180,
+      "rank": 182,
       "needs_review": false
     },
     {
@@ -4214,11 +4273,11 @@
       "category": "办公、文档与演示",
       "tags": [],
       "language": "HTML",
-      "stars": 11802,
+      "stars": 11819,
       "archived": false,
       "pushed_at": "2026-09-25T01:53:44Z",
       "topics": [],
-      "rank": 181,
+      "rank": 183,
       "needs_review": false
     },
     {
@@ -4232,9 +4291,9 @@
         "Claude"
       ],
       "language": "Rust",
-      "stars": 3280,
+      "stars": 3284,
       "archived": false,
-      "pushed_at": "2026-09-26T07:15:41Z",
+      "pushed_at": "2026-09-28T15:12:38Z",
       "topics": [
         "claude-code",
         "deepseek",
@@ -4246,7 +4305,7 @@
         "opencode",
         "zcode"
       ],
-      "rank": 182,
+      "rank": 184,
       "needs_review": false
     },
     {
@@ -4261,7 +4320,7 @@
         "公众号"
       ],
       "language": "TypeScript",
-      "stars": 12962,
+      "stars": 12989,
       "archived": false,
       "pushed_at": "2026-08-07T05:48:10Z",
       "topics": [
@@ -4270,7 +4329,7 @@
         "wechat-article",
         "wechat-download"
       ],
-      "rank": 183,
+      "rank": 185,
       "needs_review": false
     },
     {
@@ -4283,7 +4342,7 @@
         "Skill"
       ],
       "language": null,
-      "stars": 4000,
+      "stars": 4030,
       "archived": false,
       "pushed_at": "2026-09-19T18:18:50Z",
       "topics": [
@@ -4292,7 +4351,7 @@
         "seedance-2",
         "video-prompt"
       ],
-      "rank": 184,
+      "rank": 186,
       "needs_review": false
     },
     {
@@ -4303,14 +4362,14 @@
       "category": "视频、动画与短剧",
       "tags": [],
       "language": "Python",
-      "stars": 6497,
+      "stars": 6504,
       "archived": false,
       "pushed_at": "2026-07-30T02:19:18Z",
       "topics": [
         "ai",
         "short-drama"
       ],
-      "rank": 185,
+      "rank": 187,
       "needs_review": false
     },
     {
@@ -4324,11 +4383,11 @@
         "小红书"
       ],
       "language": "Python",
-      "stars": 2475,
+      "stars": 2477,
       "archived": false,
       "pushed_at": "2026-09-23T03:50:10Z",
       "topics": [],
-      "rank": 186,
+      "rank": 188,
       "needs_review": false
     },
     {
@@ -4343,7 +4402,7 @@
         "Claude"
       ],
       "language": "Python",
-      "stars": 6159,
+      "stars": 6163,
       "archived": false,
       "pushed_at": "2026-04-28T01:38:28Z",
       "topics": [
@@ -4353,7 +4412,7 @@
         "notebooklm",
         "skill"
       ],
-      "rank": 187,
+      "rank": 189,
       "needs_review": false
     },
     {
@@ -4364,7 +4423,7 @@
       "category": "音频、语音与翻译",
       "tags": [],
       "language": "Python",
-      "stars": 20235,
+      "stars": 20246,
       "archived": false,
       "pushed_at": "2026-09-27T03:30:57Z",
       "topics": [
@@ -4385,7 +4444,7 @@
         "windows",
         "xtts"
       ],
-      "rank": 188,
+      "rank": 190,
       "needs_review": false
     },
     {
@@ -4396,7 +4455,7 @@
       "category": "视觉设计、图表与 3D",
       "tags": [],
       "language": "Python",
-      "stars": 17251,
+      "stars": 17255,
       "archived": false,
       "pushed_at": "2026-07-18T06:23:28Z",
       "topics": [
@@ -4421,7 +4480,7 @@
         "text-to-image",
         "visual-ai"
       ],
-      "rank": 189,
+      "rank": 191,
       "needs_review": false
     },
     {
@@ -4432,11 +4491,11 @@
       "category": "视觉设计、图表与 3D",
       "tags": [],
       "language": "JavaScript",
-      "stars": 3835,
+      "stars": 3836,
       "archived": false,
       "pushed_at": "2026-01-08T13:39:25Z",
       "topics": [],
-      "rank": 190,
+      "rank": 192,
       "needs_review": false
     },
     {
@@ -4449,9 +4508,9 @@
         "macOS"
       ],
       "language": "Shell",
-      "stars": 68587,
+      "stars": 68692,
       "archived": false,
-      "pushed_at": "2026-09-27T12:41:49Z",
+      "pushed_at": "2026-09-28T18:16:43Z",
       "topics": [
         "analyzer",
         "appcleaner",
@@ -4473,7 +4532,7 @@
         "swiftui",
         "uninstall"
       ],
-      "rank": 191,
+      "rank": 193,
       "needs_review": false
     },
     {
@@ -4486,11 +4545,11 @@
         "Skill"
       ],
       "language": "JavaScript",
-      "stars": 10294,
+      "stars": 10355,
       "archived": false,
-      "pushed_at": "2026-09-27T17:07:35Z",
+      "pushed_at": "2026-09-28T04:15:38Z",
       "topics": [],
-      "rank": 192,
+      "rank": 194,
       "needs_review": false
     },
     {
@@ -4501,7 +4560,7 @@
       "category": "网络、代理与连接工具",
       "tags": [],
       "language": "Kotlin",
-      "stars": 53768,
+      "stars": 53783,
       "archived": false,
       "pushed_at": "2026-09-13T05:26:36Z",
       "topics": [
@@ -4517,7 +4576,7 @@
         "trojan",
         "v2ray"
       ],
-      "rank": 193,
+      "rank": 195,
       "needs_review": false
     },
     {
@@ -4530,7 +4589,7 @@
         "Skill"
       ],
       "language": "JavaScript",
-      "stars": 33605,
+      "stars": 33665,
       "archived": false,
       "pushed_at": "2026-09-24T08:01:10Z",
       "topics": [
@@ -4545,7 +4604,7 @@
         "skills",
         "workflow-automation"
       ],
-      "rank": 194,
+      "rank": 196,
       "needs_review": false
     },
     {
@@ -4559,9 +4618,9 @@
         "Claude"
       ],
       "language": "Rust",
-      "stars": 137516,
+      "stars": 138222,
       "archived": false,
-      "pushed_at": "2026-09-26T07:36:23Z",
+      "pushed_at": "2026-09-28T08:22:09Z",
       "topics": [
         "ai-tools",
         "claude-code",
@@ -4584,7 +4643,7 @@
         "tauri",
         "wsl-support"
       ],
-      "rank": 195,
+      "rank": 197,
       "needs_review": false
     },
     {
@@ -4597,16 +4656,16 @@
         "Skill"
       ],
       "language": "Python",
-      "stars": 139991,
+      "stars": 140096,
       "archived": false,
-      "pushed_at": "2026-09-26T08:27:01Z",
+      "pushed_at": "2026-09-29T02:10:42Z",
       "topics": [
         "agents",
         "llms",
         "python",
         "rag"
       ],
-      "rank": 196,
+      "rank": 198,
       "needs_review": false
     },
     {
@@ -4619,7 +4678,7 @@
         "Skill"
       ],
       "language": null,
-      "stars": 5752,
+      "stars": 5759,
       "archived": false,
       "pushed_at": "2026-09-22T06:26:00Z",
       "topics": [
@@ -4634,7 +4693,7 @@
         "nous-research",
         "skills"
       ],
-      "rank": 197,
+      "rank": 199,
       "needs_review": false
     },
     {
@@ -4645,9 +4704,9 @@
       "category": "知识管理、阅读与信息订阅",
       "tags": [],
       "language": "Python",
-      "stars": 9511,
+      "stars": 9520,
       "archived": false,
-      "pushed_at": "2026-09-28T00:02:45Z",
+      "pushed_at": "2026-09-29T00:03:20Z",
       "topics": [
         "aggregator",
         "feishu-bot",
@@ -4658,7 +4717,7 @@
         "python",
         "webhook"
       ],
-      "rank": 198,
+      "rank": 200,
       "needs_review": false
     },
     {
@@ -4669,11 +4728,11 @@
       "category": "视频、动画与短剧",
       "tags": [],
       "language": "Python",
-      "stars": 27404,
+      "stars": 27506,
       "archived": false,
       "pushed_at": "2026-09-24T04:50:14Z",
       "topics": [],
-      "rank": 199,
+      "rank": 201,
       "needs_review": false
     },
     {
@@ -4688,7 +4747,7 @@
       "archived": false,
       "pushed_at": "2026-03-14T12:56:54Z",
       "topics": [],
-      "rank": 200,
+      "rank": 202,
       "needs_review": false
     },
     {
@@ -4699,7 +4758,7 @@
       "category": "音频、语音与翻译",
       "tags": [],
       "language": "Python",
-      "stars": 12948,
+      "stars": 12955,
       "archived": false,
       "pushed_at": "2026-07-13T01:28:10Z",
       "topics": [
@@ -4723,7 +4782,7 @@
         "whisperx",
         "yt-dlp"
       ],
-      "rank": 201,
+      "rank": 203,
       "needs_review": false
     },
     {
@@ -4740,7 +4799,7 @@
       "archived": false,
       "pushed_at": "2026-04-06T11:59:14Z",
       "topics": [],
-      "rank": 202,
+      "rank": 204,
       "needs_review": false
     },
     {
@@ -4757,7 +4816,7 @@
       "archived": false,
       "pushed_at": "2026-04-07T13:15:15Z",
       "topics": [],
-      "rank": 203,
+      "rank": 205,
       "needs_review": false
     },
     {
@@ -4770,11 +4829,11 @@
         "Skill"
       ],
       "language": null,
-      "stars": 1234,
+      "stars": 1233,
       "archived": false,
       "pushed_at": "2026-08-25T03:02:58Z",
       "topics": [],
-      "rank": 204,
+      "rank": 206,
       "needs_review": false
     },
     {
@@ -4789,7 +4848,7 @@
       "archived": false,
       "pushed_at": "2026-05-17T09:48:12Z",
       "topics": [],
-      "rank": 205,
+      "rank": 207,
       "needs_review": false
     },
     {
@@ -4800,7 +4859,7 @@
       "category": "视频、动画与短剧",
       "tags": [],
       "language": "Python",
-      "stars": 28460,
+      "stars": 28497,
       "archived": false,
       "pushed_at": "2026-06-14T12:40:58Z",
       "topics": [
@@ -4810,7 +4869,7 @@
         "tts",
         "video-generation"
       ],
-      "rank": 206,
+      "rank": 208,
       "needs_review": false
     },
     {
@@ -4821,11 +4880,11 @@
       "category": "AI 编程与模型工具",
       "tags": [],
       "language": "Zig",
-      "stars": 61617,
+      "stars": 61662,
       "archived": false,
-      "pushed_at": "2026-09-27T03:03:40Z",
+      "pushed_at": "2026-09-28T19:03:34Z",
       "topics": [],
-      "rank": 207,
+      "rank": 209,
       "needs_review": false
     },
     {
@@ -4836,11 +4895,11 @@
       "category": "音频、语音与翻译",
       "tags": [],
       "language": "Python",
-      "stars": 6289,
+      "stars": 6296,
       "archived": false,
       "pushed_at": "2026-07-30T14:11:22Z",
       "topics": [],
-      "rank": 208,
+      "rank": 210,
       "needs_review": false
     },
     {
@@ -4851,9 +4910,9 @@
       "category": "知识管理、阅读与信息订阅",
       "tags": [],
       "language": "Swift",
-      "stars": 8653,
+      "stars": 8654,
       "archived": false,
-      "pushed_at": "2026-09-25T03:50:22Z",
+      "pushed_at": "2026-09-28T07:10:03Z",
       "topics": [
         "editor",
         "local-first",
@@ -4863,7 +4922,7 @@
         "notes-app",
         "swift"
       ],
-      "rank": 209,
+      "rank": 211,
       "needs_review": false
     },
     {
@@ -4874,9 +4933,9 @@
       "category": "网站、博客与个人主页",
       "tags": [],
       "language": "TypeScript",
-      "stars": 9316,
+      "stars": 9323,
       "archived": false,
-      "pushed_at": "2026-09-25T17:43:50Z",
+      "pushed_at": "2026-09-28T09:42:27Z",
       "topics": [
         "astro",
         "docs-generator",
@@ -4884,7 +4943,7 @@
         "starlight",
         "static-site-generator"
       ],
-      "rank": 210,
+      "rank": 212,
       "needs_review": false
     },
     {
@@ -4895,7 +4954,7 @@
       "category": "网站、博客与个人主页",
       "tags": [],
       "language": "Python",
-      "stars": 27509,
+      "stars": 27516,
       "archived": false,
       "pushed_at": "2026-09-15T15:34:06Z",
       "topics": [
@@ -4906,7 +4965,7 @@
         "plugins",
         "theme"
       ],
-      "rank": 211,
+      "rank": 213,
       "needs_review": false
     },
     {
@@ -4917,7 +4976,7 @@
       "category": "网站、博客与个人主页",
       "tags": [],
       "language": "TypeScript",
-      "stars": 18354,
+      "stars": 18363,
       "archived": false,
       "pushed_at": "2026-09-26T09:53:51Z",
       "topics": [
@@ -4928,7 +4987,7 @@
         "vite",
         "vue"
       ],
-      "rank": 212,
+      "rank": 214,
       "needs_review": false
     },
     {
@@ -4941,7 +5000,7 @@
         "Cloudflare"
       ],
       "language": "JavaScript",
-      "stars": 14425,
+      "stars": 14446,
       "archived": false,
       "pushed_at": "2026-09-05T15:54:04Z",
       "topics": [
@@ -4951,7 +5010,7 @@
         "email",
         "mail"
       ],
-      "rank": 213,
+      "rank": 215,
       "needs_review": false
     },
     {
@@ -4965,7 +5024,7 @@
         "Claude"
       ],
       "language": "JavaScript",
-      "stars": 51698,
+      "stars": 51823,
       "archived": false,
       "pushed_at": "2026-09-05T04:48:10Z",
       "topics": [
@@ -4973,7 +5032,7 @@
         "codex",
         "marketing"
       ],
-      "rank": 214,
+      "rank": 216,
       "needs_review": false
     },
     {
@@ -4986,7 +5045,7 @@
         "Skill"
       ],
       "language": "Shell",
-      "stars": 292187,
+      "stars": 292536,
       "archived": false,
       "pushed_at": "2026-09-27T02:37:47Z",
       "topics": [
@@ -4999,7 +5058,7 @@
         "subagent-driven-development",
         "superpowers"
       ],
-      "rank": 215,
+      "rank": 217,
       "needs_review": false
     },
     {
@@ -5014,7 +5073,7 @@
         "Claude"
       ],
       "language": "Shell",
-      "stars": 20967,
+      "stars": 20989,
       "archived": false,
       "pushed_at": "2026-09-17T13:32:57Z",
       "topics": [
@@ -5038,7 +5097,7 @@
         "workbuddy",
         "workflow"
       ],
-      "rank": 216,
+      "rank": 218,
       "needs_review": false
     },
     {
@@ -5051,11 +5110,11 @@
         "公众号"
       ],
       "language": "Python",
-      "stars": 19533,
+      "stars": 19628,
       "archived": false,
       "pushed_at": "2026-01-13T00:59:23Z",
       "topics": [],
-      "rank": 217,
+      "rank": 219,
       "needs_review": false
     },
     {
@@ -5066,9 +5125,9 @@
       "category": "投资、交易与财务",
       "tags": [],
       "language": "Python",
-      "stars": 12238,
+      "stars": 12293,
       "archived": false,
-      "pushed_at": "2026-09-26T18:07:11Z",
+      "pushed_at": "2026-09-28T20:16:14Z",
       "topics": [
         "agent",
         "alpaca",
@@ -5090,7 +5149,7 @@
         "trade",
         "typesafe-ai"
       ],
-      "rank": 218,
+      "rank": 220,
       "needs_review": false
     },
     {
@@ -5103,7 +5162,7 @@
         "Skill"
       ],
       "language": "HTML",
-      "stars": 27008,
+      "stars": 27051,
       "archived": false,
       "pushed_at": "2026-08-07T03:58:08Z",
       "topics": [
@@ -5119,7 +5178,7 @@
         "swiss-design",
         "web-ppt"
       ],
-      "rank": 219,
+      "rank": 221,
       "needs_review": false
     },
     {
@@ -5132,7 +5191,7 @@
         "Skill"
       ],
       "language": "TypeScript",
-      "stars": 26187,
+      "stars": 26210,
       "archived": false,
       "pushed_at": "2026-09-10T15:13:43Z",
       "topics": [
@@ -5141,7 +5200,7 @@
         "codex-skills",
         "openclaw-skills"
       ],
-      "rank": 220,
+      "rank": 222,
       "needs_review": false
     },
     {
@@ -5170,7 +5229,7 @@
         "video-compression",
         "webp"
       ],
-      "rank": 221,
+      "rank": 223,
       "needs_review": false
     },
     {
@@ -5187,7 +5246,7 @@
       "archived": false,
       "pushed_at": "2026-09-26T02:26:13Z",
       "topics": [],
-      "rank": 222,
+      "rank": 224,
       "needs_review": false
     },
     {
@@ -5198,9 +5257,9 @@
       "category": "Agent 框架与通用 Skills",
       "tags": [],
       "language": "Python",
-      "stars": 249503,
+      "stars": 249827,
       "archived": false,
-      "pushed_at": "2026-09-28T01:01:48Z",
+      "pushed_at": "2026-09-29T02:56:10Z",
       "topics": [
         "ai",
         "ai-agent",
@@ -5216,7 +5275,7 @@
         "nous-research",
         "openai"
       ],
-      "rank": 223,
+      "rank": 225,
       "needs_review": false
     },
     {
@@ -5229,9 +5288,9 @@
         "Claude"
       ],
       "language": "Go",
-      "stars": 42914,
+      "stars": 43005,
       "archived": false,
-      "pushed_at": "2026-09-28T00:48:37Z",
+      "pushed_at": "2026-09-28T16:53:48Z",
       "topics": [
         "2api",
         "antigravity2api",
@@ -5243,7 +5302,7 @@
         "crs2",
         "gemini"
       ],
-      "rank": 224,
+      "rank": 226,
       "needs_review": false
     },
     {
@@ -5258,7 +5317,7 @@
         "Claude"
       ],
       "language": "JavaScript",
-      "stars": 8821,
+      "stars": 8832,
       "archived": false,
       "pushed_at": "2026-09-24T09:18:41Z",
       "topics": [
@@ -5271,7 +5330,7 @@
         "kiro",
         "openai"
       ],
-      "rank": 225,
+      "rank": 227,
       "needs_review": false
     },
     {
@@ -5285,11 +5344,11 @@
         "Claude"
       ],
       "language": "HTML",
-      "stars": 24494,
+      "stars": 24516,
       "archived": false,
       "pushed_at": "2026-09-22T15:52:07Z",
       "topics": [],
-      "rank": 226,
+      "rank": 228,
       "needs_review": false
     },
     {
@@ -5300,9 +5359,9 @@
       "category": "投资、交易与财务",
       "tags": [],
       "language": "TypeScript",
-      "stars": 19392,
+      "stars": 19449,
       "archived": false,
-      "pushed_at": "2026-09-26T11:50:37Z",
+      "pushed_at": "2026-09-28T08:21:51Z",
       "topics": [
         "coderabbit",
         "inngest",
@@ -5311,7 +5370,7 @@
         "stock-market",
         "tailwindcss"
       ],
-      "rank": 227,
+      "rank": 229,
       "needs_review": false
     },
     {
@@ -5322,9 +5381,9 @@
       "category": "AI 编程与模型工具",
       "tags": [],
       "language": "JavaScript",
-      "stars": 8487,
+      "stars": 8577,
       "archived": false,
-      "pushed_at": "2026-08-21T05:32:48Z",
+      "pushed_at": "2026-09-28T21:26:32Z",
       "topics": [
         "ai-agents",
         "anthropic",
@@ -5340,7 +5399,7 @@
         "openclaw-plugin",
         "router"
       ],
-      "rank": 228,
+      "rank": 230,
       "needs_review": false
     },
     {
@@ -5351,7 +5410,7 @@
       "category": "视觉设计、图表与 3D",
       "tags": [],
       "language": null,
-      "stars": 118349,
+      "stars": 118623,
       "archived": false,
       "pushed_at": "2026-09-21T08:23:38Z",
       "topics": [
@@ -5366,7 +5425,7 @@
         "vibe-design",
         "vibecoding"
       ],
-      "rank": 229,
+      "rank": 231,
       "needs_review": false
     },
     {
@@ -5380,7 +5439,7 @@
         "MCP"
       ],
       "language": "TypeScript",
-      "stars": 719,
+      "stars": 720,
       "archived": false,
       "pushed_at": "2026-04-16T11:56:53Z",
       "topics": [
@@ -5396,7 +5455,7 @@
         "vibe-coding",
         "web"
       ],
-      "rank": 230,
+      "rank": 232,
       "needs_review": false
     },
     {
@@ -5409,11 +5468,11 @@
         "Skill"
       ],
       "language": "HTML",
-      "stars": 2142,
+      "stars": 2156,
       "archived": false,
       "pushed_at": "2026-04-15T16:41:26Z",
       "topics": [],
-      "rank": 231,
+      "rank": 233,
       "needs_review": false
     },
     {
@@ -5424,11 +5483,11 @@
       "category": "影音、下载与媒体库",
       "tags": [],
       "language": null,
-      "stars": 6043,
+      "stars": 6045,
       "archived": false,
       "pushed_at": "2026-08-31T15:14:51Z",
       "topics": [],
-      "rank": 232,
+      "rank": 234,
       "needs_review": false
     },
     {
@@ -5439,7 +5498,7 @@
       "category": "影音、下载与媒体库",
       "tags": [],
       "language": "C",
-      "stars": 31962,
+      "stars": 31959,
       "archived": false,
       "pushed_at": "2024-06-20T06:21:11Z",
       "topics": [
@@ -5448,7 +5507,7 @@
         "mytv",
         "tv"
       ],
-      "rank": 233,
+      "rank": 235,
       "needs_review": false
     },
     {
@@ -5459,9 +5518,9 @@
       "category": "影音、下载与媒体库",
       "tags": [],
       "language": "JavaScript",
-      "stars": 28467,
+      "stars": 28474,
       "archived": false,
-      "pushed_at": "2026-09-27T22:25:53Z",
+      "pushed_at": "2026-09-29T02:38:00Z",
       "topics": [
         "china",
         "converter",
@@ -5478,7 +5537,7 @@
         "txt",
         "workers"
       ],
-      "rank": 234,
+      "rank": 236,
       "needs_review": false
     },
     {
@@ -5493,7 +5552,7 @@
       "archived": false,
       "pushed_at": "2025-05-25T10:11:34Z",
       "topics": [],
-      "rank": 235,
+      "rank": 237,
       "needs_review": false
     },
     {
@@ -5508,7 +5567,7 @@
       "archived": true,
       "pushed_at": "2025-09-06T03:48:19Z",
       "topics": [],
-      "rank": 236,
+      "rank": 238,
       "needs_review": false
     },
     {
@@ -5521,9 +5580,9 @@
         "macOS"
       ],
       "language": "Swift",
-      "stars": 6794,
+      "stars": 6814,
       "archived": false,
-      "pushed_at": "2026-09-27T04:50:04Z",
+      "pushed_at": "2026-09-28T04:54:38Z",
       "topics": [
         "cache-cleaner",
         "cleanmymac",
@@ -5545,7 +5604,7 @@
         "system-cleaner",
         "xcode-cleaner"
       ],
-      "rank": 237,
+      "rank": 239,
       "needs_review": false
     },
     {
@@ -5559,11 +5618,11 @@
         "Claude"
       ],
       "language": null,
-      "stars": 1459,
+      "stars": 1460,
       "archived": false,
       "pushed_at": "2026-08-23T14:18:47Z",
       "topics": [],
-      "rank": 238,
+      "rank": 240,
       "needs_review": false
     },
     {
@@ -5576,11 +5635,11 @@
         "Skill"
       ],
       "language": "Python",
-      "stars": 33265,
+      "stars": 33346,
       "archived": false,
       "pushed_at": "2026-08-25T03:02:26Z",
       "topics": [],
-      "rank": 239,
+      "rank": 241,
       "needs_review": false
     },
     {
@@ -5591,11 +5650,11 @@
       "category": "学习、生活与资源导航",
       "tags": [],
       "language": "Python",
-      "stars": 4959,
+      "stars": 4961,
       "archived": false,
       "pushed_at": "2026-08-23T14:21:45Z",
       "topics": [],
-      "rank": 240,
+      "rank": 242,
       "needs_review": false
     },
     {
@@ -5608,11 +5667,11 @@
         "Skill"
       ],
       "language": null,
-      "stars": 10349,
+      "stars": 10357,
       "archived": false,
       "pushed_at": "2026-08-25T03:03:20Z",
       "topics": [],
-      "rank": 241,
+      "rank": 243,
       "needs_review": false
     },
     {
@@ -5625,9 +5684,9 @@
       "language": "Python",
       "stars": 12531,
       "archived": false,
-      "pushed_at": "2026-09-17T10:13:03Z",
+      "pushed_at": "2026-09-28T10:13:24Z",
       "topics": [],
-      "rank": 242,
+      "rank": 244,
       "needs_review": false
     },
     {
@@ -5642,7 +5701,7 @@
       "archived": false,
       "pushed_at": "2026-04-08T03:26:49Z",
       "topics": [],
-      "rank": 243,
+      "rank": 245,
       "needs_review": false
     },
     {
@@ -5656,7 +5715,7 @@
         "Windows"
       ],
       "language": "TypeScript",
-      "stars": 31568,
+      "stars": 31765,
       "archived": false,
       "pushed_at": "2026-09-23T08:51:57Z",
       "topics": [
@@ -5669,7 +5728,7 @@
         "screen-studio",
         "windows"
       ],
-      "rank": 244,
+      "rank": 246,
       "needs_review": false
     },
     {
@@ -5680,11 +5739,11 @@
       "category": "视频、动画与短剧",
       "tags": [],
       "language": "Vue",
-      "stars": 15542,
+      "stars": 15575,
       "archived": false,
-      "pushed_at": "2026-09-23T09:36:09Z",
+      "pushed_at": "2026-09-28T12:06:24Z",
       "topics": [],
-      "rank": 245,
+      "rank": 247,
       "needs_review": false
     },
     {
@@ -5695,11 +5754,11 @@
       "category": "Agent 框架与通用 Skills",
       "tags": [],
       "language": "Shell",
-      "stars": 154915,
+      "stars": 155128,
       "archived": false,
-      "pushed_at": "2026-09-27T23:45:36Z",
+      "pushed_at": "2026-09-28T12:03:44Z",
       "topics": [],
-      "rank": 246,
+      "rank": 248,
       "needs_review": false
     },
     {
@@ -5710,9 +5769,9 @@
       "category": "视频、动画与短剧",
       "tags": [],
       "language": "Python",
-      "stars": 8993,
+      "stars": 9022,
       "archived": false,
-      "pushed_at": "2026-09-27T09:20:11Z",
+      "pushed_at": "2026-09-28T12:04:57Z",
       "topics": [
         "ai",
         "ai-agents",
@@ -5728,7 +5787,7 @@
         "video-processing",
         "videos"
       ],
-      "rank": 247,
+      "rank": 249,
       "needs_review": false
     },
     {
@@ -5742,7 +5801,7 @@
         "公众号"
       ],
       "language": "Python",
-      "stars": 62568,
+      "stars": 62604,
       "archived": false,
       "pushed_at": "2026-09-13T06:38:25Z",
       "topics": [
@@ -5763,7 +5822,7 @@
         "wechat",
         "wework"
       ],
-      "rank": 248,
+      "rank": 250,
       "needs_review": false
     },
     {
@@ -5780,7 +5839,7 @@
       "archived": false,
       "pushed_at": "2026-08-02T03:42:15Z",
       "topics": [],
-      "rank": 249,
+      "rank": 251,
       "needs_review": false
     },
     {
@@ -5794,15 +5853,15 @@
         "Windows"
       ],
       "language": "Dart",
-      "stars": 9561,
+      "stars": 9579,
       "archived": false,
-      "pushed_at": "2026-09-24T05:38:28Z",
+      "pushed_at": "2026-09-28T07:29:43Z",
       "topics": [
         "clash",
         "clashmi",
         "mihomo"
       ],
-      "rank": 250,
+      "rank": 252,
       "needs_review": false
     },
     {
@@ -5816,15 +5875,15 @@
         "小红书"
       ],
       "language": "Go",
-      "stars": 16005,
+      "stars": 16029,
       "archived": false,
-      "pushed_at": "2026-09-22T18:56:15Z",
+      "pushed_at": "2026-09-28T04:47:18Z",
       "topics": [
         "mcp",
         "mcp-server",
         "xiaohongshu-mcp"
       ],
-      "rank": 251,
+      "rank": 253,
       "needs_review": false
     },
     {
@@ -5837,9 +5896,9 @@
         "Skill"
       ],
       "language": null,
-      "stars": 52838,
+      "stars": 52852,
       "archived": false,
-      "pushed_at": "2026-09-22T07:03:24Z",
+      "pushed_at": "2026-09-28T15:11:27Z",
       "topics": [
         "agent-skills",
         "awesome",
@@ -5854,7 +5913,7 @@
         "openclaw",
         "openclaw-skills"
       ],
-      "rank": 252,
+      "rank": 254,
       "needs_review": false
     },
     {
@@ -5865,7 +5924,7 @@
       "category": "网络、代理与连接工具",
       "tags": [],
       "language": "JavaScript",
-      "stars": 8387,
+      "stars": 8390,
       "archived": false,
       "pushed_at": "2026-09-07T07:59:28Z",
       "topics": [
@@ -5877,7 +5936,7 @@
         "vmess-ws-tls",
         "xray"
       ],
-      "rank": 253,
+      "rank": 255,
       "needs_review": false
     },
     {
@@ -5888,11 +5947,11 @@
       "category": "网络、代理与连接工具",
       "tags": [],
       "language": "HTML",
-      "stars": 6231,
+      "stars": 6233,
       "archived": false,
       "pushed_at": "2026-08-07T14:28:38Z",
       "topics": [],
-      "rank": 254,
+      "rank": 256,
       "needs_review": false
     },
     {
@@ -5903,11 +5962,11 @@
       "category": "网络、代理与连接工具",
       "tags": [],
       "language": null,
-      "stars": 15658,
+      "stars": 15693,
       "archived": false,
-      "pushed_at": "2026-09-28T00:15:29Z",
+      "pushed_at": "2026-09-28T03:52:33Z",
       "topics": [],
-      "rank": 255,
+      "rank": 257,
       "needs_review": false
     },
     {
@@ -5918,9 +5977,9 @@
       "category": "音频、语音与翻译",
       "tags": [],
       "language": "TypeScript",
-      "stars": 9403,
+      "stars": 9408,
       "archived": false,
-      "pushed_at": "2026-09-28T00:44:04Z",
+      "pushed_at": "2026-09-29T02:53:53Z",
       "topics": [
         "local-first",
         "notetaking",
@@ -5930,7 +5989,7 @@
         "tauri",
         "typescript"
       ],
-      "rank": 256,
+      "rank": 258,
       "needs_review": false
     },
     {
@@ -5945,7 +6004,7 @@
       "archived": false,
       "pushed_at": "2025-09-16T15:14:05Z",
       "topics": [],
-      "rank": 257,
+      "rank": 259,
       "needs_review": false
     },
     {
@@ -5956,11 +6015,11 @@
       "category": "影音、下载与媒体库",
       "tags": [],
       "language": "TypeScript",
-      "stars": 2081,
+      "stars": 2083,
       "archived": false,
       "pushed_at": "2025-08-04T18:35:00Z",
       "topics": [],
-      "rank": 258,
+      "rank": 260,
       "needs_review": false
     },
     {
@@ -5971,7 +6030,7 @@
       "category": "学习、生活与资源导航",
       "tags": [],
       "language": "Python",
-      "stars": 14522,
+      "stars": 14537,
       "archived": false,
       "pushed_at": "2026-05-18T10:52:34Z",
       "topics": [
@@ -5989,7 +6048,7 @@
         "xianyu",
         "xianyu-bot"
       ],
-      "rank": 259,
+      "rank": 261,
       "needs_review": false
     },
     {
@@ -6000,9 +6059,9 @@
       "category": "知识管理、阅读与信息订阅",
       "tags": [],
       "language": "Python",
-      "stars": 46106,
+      "stars": 46134,
       "archived": false,
-      "pushed_at": "2026-09-28T01:01:27Z",
+      "pushed_at": "2026-09-29T00:58:05Z",
       "topics": [
         "ai",
         "angular",
@@ -6017,7 +6076,7 @@
         "optical-character-recognition",
         "pdf"
       ],
-      "rank": 260,
+      "rank": 262,
       "needs_review": false
     },
     {
@@ -6028,11 +6087,11 @@
       "category": "影音、下载与媒体库",
       "tags": [],
       "language": "Python",
-      "stars": 56876,
+      "stars": 56873,
       "archived": false,
       "pushed_at": "2026-08-24T07:23:27Z",
       "topics": [],
-      "rank": 261,
+      "rank": 263,
       "needs_review": false
     },
     {
@@ -6046,11 +6105,11 @@
         "Claude"
       ],
       "language": "TypeScript",
-      "stars": 12456,
+      "stars": 12452,
       "archived": false,
       "pushed_at": "2026-01-06T13:05:39Z",
       "topics": [],
-      "rank": 262,
+      "rank": 264,
       "needs_review": false
     },
     {
@@ -6061,9 +6120,9 @@
       "category": "知识管理、阅读与信息订阅",
       "tags": [],
       "language": "TypeScript",
-      "stars": 24658,
+      "stars": 24692,
       "archived": false,
-      "pushed_at": "2026-09-27T00:03:43Z",
+      "pushed_at": "2026-09-29T02:45:54Z",
       "topics": [
         "calibre",
         "cross-platform",
@@ -6084,7 +6143,7 @@
         "tts",
         "webdav"
       ],
-      "rank": 263,
+      "rank": 265,
       "needs_review": false
     },
     {
@@ -6098,9 +6157,9 @@
         "Windows"
       ],
       "language": "Rust",
-      "stars": 147780,
+      "stars": 148080,
       "archived": false,
-      "pushed_at": "2026-09-28T00:46:38Z",
+      "pushed_at": "2026-09-28T21:38:20Z",
       "topics": [
         "clash",
         "clash-meta",
@@ -6111,7 +6170,7 @@
         "tauri-app",
         "windows"
       ],
-      "rank": 264,
+      "rank": 266,
       "needs_review": false
     },
     {
@@ -6122,9 +6181,9 @@
       "category": "投资、交易与财务",
       "tags": [],
       "language": "PHP",
-      "stars": 10149,
+      "stars": 10150,
       "archived": false,
-      "pushed_at": "2026-09-27T20:20:30Z",
+      "pushed_at": "2026-09-28T23:51:34Z",
       "topics": [
         "accounting",
         "akaunting",
@@ -6146,7 +6205,7 @@
         "payroll",
         "php"
       ],
-      "rank": 265,
+      "rank": 267,
       "needs_review": false
     },
     {
@@ -6157,9 +6216,9 @@
       "category": "影音、下载与媒体库",
       "tags": [],
       "language": "TypeScript",
-      "stars": 13984,
+      "stars": 13991,
       "archived": false,
-      "pushed_at": "2026-09-27T04:36:49Z",
+      "pushed_at": "2026-09-28T19:46:32Z",
       "topics": [
         "css",
         "film",
@@ -6169,7 +6228,7 @@
         "nextjs",
         "tv"
       ],
-      "rank": 266,
+      "rank": 268,
       "needs_review": false
     },
     {
@@ -6180,9 +6239,9 @@
       "category": "网站、博客与个人主页",
       "tags": [],
       "language": "TypeScript",
-      "stars": 55449,
+      "stars": 55454,
       "archived": false,
-      "pushed_at": "2026-09-27T23:47:08Z",
+      "pushed_at": "2026-09-28T22:19:32Z",
       "topics": [
         "blogging",
         "cms",
@@ -6193,7 +6252,7 @@
         "publishing",
         "web-application"
       ],
-      "rank": 267,
+      "rank": 269,
       "needs_review": false
     },
     {
@@ -6204,11 +6263,11 @@
       "category": "影音、下载与媒体库",
       "tags": [],
       "language": "Python",
-      "stars": 3050,
+      "stars": 3051,
       "archived": false,
       "pushed_at": "2026-07-09T11:44:49Z",
       "topics": [],
-      "rank": 268,
+      "rank": 270,
       "needs_review": false
     },
     {
@@ -6219,7 +6278,7 @@
       "category": "学习、生活与资源导航",
       "tags": [],
       "language": "Python",
-      "stars": 178866,
+      "stars": 179053,
       "archived": false,
       "pushed_at": "2026-09-28T00:11:38Z",
       "topics": [
@@ -6228,7 +6287,7 @@
         "hellogithub",
         "python"
       ],
-      "rank": 269,
+      "rank": 271,
       "needs_review": false
     },
     {
@@ -6239,11 +6298,11 @@
       "category": "影音、下载与媒体库",
       "tags": [],
       "language": "Python",
-      "stars": 11815,
+      "stars": 11820,
       "archived": false,
-      "pushed_at": "2026-09-27T23:52:37Z",
+      "pushed_at": "2026-09-29T00:31:23Z",
       "topics": [],
-      "rank": 270,
+      "rank": 272,
       "needs_review": false
     },
     {
@@ -6254,11 +6313,11 @@
       "category": "音频、语音与翻译",
       "tags": [],
       "language": "TypeScript",
-      "stars": 12502,
+      "stars": 12501,
       "archived": true,
       "pushed_at": "2026-04-04T07:53:49Z",
       "topics": [],
-      "rank": 271,
+      "rank": 273,
       "needs_review": false
     },
     {
@@ -6271,7 +6330,7 @@
       "language": "TypeScript",
       "stars": 568,
       "archived": false,
-      "pushed_at": "2026-09-19T07:03:14Z",
+      "pushed_at": "2026-09-28T07:53:43Z",
       "topics": [
         "apple",
         "baidu",
@@ -6292,7 +6351,7 @@
         "volcano",
         "youdao"
       ],
-      "rank": 272,
+      "rank": 274,
       "needs_review": false
     },
     {
@@ -6303,7 +6362,7 @@
       "category": "自托管、云服务与开发资源",
       "tags": [],
       "language": null,
-      "stars": 9710,
+      "stars": 9716,
       "archived": false,
       "pushed_at": "2026-06-13T12:44:49Z",
       "topics": [
@@ -6314,7 +6373,7 @@
         "dockerhub",
         "proxy"
       ],
-      "rank": 273,
+      "rank": 275,
       "needs_review": false
     },
     {
@@ -6325,7 +6384,7 @@
       "category": "网络、代理与连接工具",
       "tags": [],
       "language": "Shell",
-      "stars": 29680,
+      "stars": 29684,
       "archived": false,
       "pushed_at": "2026-01-15T00:50:11Z",
       "topics": [
@@ -6333,7 +6392,7 @@
         "v2ray",
         "vmess"
       ],
-      "rank": 274,
+      "rank": 276,
       "needs_review": false
     },
     {
@@ -6348,7 +6407,7 @@
       "archived": false,
       "pushed_at": "2025-10-10T13:03:17Z",
       "topics": [],
-      "rank": 275,
+      "rank": 277,
       "needs_review": false
     },
     {
@@ -6359,7 +6418,7 @@
       "category": "影音、下载与媒体库",
       "tags": [],
       "language": "Svelte",
-      "stars": 43865,
+      "stars": 43895,
       "archived": false,
       "pushed_at": "2026-04-06T11:59:56Z",
       "topics": [
@@ -6382,7 +6441,7 @@
         "youtube",
         "youtube-downloader"
       ],
-      "rank": 276,
+      "rank": 278,
       "needs_review": false
     },
     {
@@ -6393,7 +6452,7 @@
       "category": "网络、代理与连接工具",
       "tags": [],
       "language": "TypeScript",
-      "stars": 2141,
+      "stars": 2140,
       "archived": false,
       "pushed_at": "2026-08-31T05:42:48Z",
       "topics": [
@@ -6401,7 +6460,7 @@
         "mihomo",
         "sing-box"
       ],
-      "rank": 277,
+      "rank": 279,
       "needs_review": false
     },
     {
@@ -6414,11 +6473,11 @@
         "Cloudflare"
       ],
       "language": "JavaScript",
-      "stars": 7532,
+      "stars": 7531,
       "archived": true,
       "pushed_at": "2026-06-25T09:23:11Z",
       "topics": [],
-      "rank": 278,
+      "rank": 280,
       "needs_review": false
     },
     {
@@ -6429,7 +6488,7 @@
       "category": "网络、代理与连接工具",
       "tags": [],
       "language": "Dart",
-      "stars": 53623,
+      "stars": 53757,
       "archived": false,
       "pushed_at": "2026-09-27T10:18:21Z",
       "topics": [
@@ -6443,7 +6502,7 @@
         "vless",
         "vpn"
       ],
-      "rank": 279,
+      "rank": 281,
       "needs_review": false
     },
     {
@@ -6454,7 +6513,7 @@
       "category": "知识管理、阅读与信息订阅",
       "tags": [],
       "language": "Dart",
-      "stars": 76965,
+      "stars": 76981,
       "archived": false,
       "pushed_at": "2026-09-22T07:09:34Z",
       "topics": [
@@ -6471,7 +6530,7 @@
         "team-collaboration",
         "wiki"
       ],
-      "rank": 280,
+      "rank": 282,
       "needs_review": false
     },
     {
@@ -6482,7 +6541,7 @@
       "category": "知识管理、阅读与信息订阅",
       "tags": [],
       "language": "TypeScript",
-      "stars": 6637,
+      "stars": 6638,
       "archived": false,
       "pushed_at": "2026-09-24T13:32:20Z",
       "topics": [
@@ -6495,7 +6554,7 @@
         "secure",
         "snippets"
       ],
-      "rank": 281,
+      "rank": 283,
       "needs_review": false
     },
     {
@@ -6506,7 +6565,7 @@
       "category": "知识管理、阅读与信息订阅",
       "tags": [],
       "language": "TypeScript",
-      "stars": 39031,
+      "stars": 39045,
       "archived": false,
       "pushed_at": "2026-09-27T09:10:32Z",
       "topics": [
@@ -6516,7 +6575,7 @@
         "rss-reader",
         "rsshub"
       ],
-      "rank": 282,
+      "rank": 284,
       "needs_review": false
     },
     {
@@ -6529,7 +6588,7 @@
         "Windows"
       ],
       "language": "TypeScript",
-      "stars": 8380,
+      "stars": 8384,
       "archived": false,
       "pushed_at": "2026-06-30T04:31:48Z",
       "topics": [
@@ -6554,7 +6613,7 @@
         "wireguard-ui",
         "zerotrust"
       ],
-      "rank": 283,
+      "rank": 285,
       "needs_review": false
     },
     {
@@ -6568,9 +6627,9 @@
         "Windows"
       ],
       "language": "C#",
-      "stars": 117140,
+      "stars": 117226,
       "archived": false,
-      "pushed_at": "2026-09-26T03:43:28Z",
+      "pushed_at": "2026-09-28T18:49:05Z",
       "topics": [
         "proxy",
         "shadowsocks",
@@ -6584,7 +6643,7 @@
         "xray",
         "xtls"
       ],
-      "rank": 284,
+      "rank": 286,
       "needs_review": false
     },
     {
@@ -6595,7 +6654,7 @@
       "category": "网络、代理与连接工具",
       "tags": [],
       "language": "JavaScript",
-      "stars": 46284,
+      "stars": 46342,
       "archived": false,
       "pushed_at": "2026-09-24T20:10:30Z",
       "topics": [
@@ -6605,7 +6664,7 @@
         "vless",
         "vless-ws-tls"
       ],
-      "rank": 285,
+      "rank": 287,
       "needs_review": false
     },
     {
@@ -6616,7 +6675,7 @@
       "category": "AI 编程与模型工具",
       "tags": [],
       "language": "TypeScript",
-      "stars": 4896,
+      "stars": 4897,
       "archived": false,
       "pushed_at": "2026-04-16T12:41:42Z",
       "topics": [
@@ -6629,7 +6688,7 @@
         "google",
         "google-api"
       ],
-      "rank": 286,
+      "rank": 288,
       "needs_review": false
     },
     {
@@ -6655,7 +6714,7 @@
         "ide",
         "vscode"
       ],
-      "rank": 287,
+      "rank": 289,
       "needs_review": false
     },
     {
@@ -6666,9 +6725,9 @@
       "category": "Agent 框架与通用 Skills",
       "tags": [],
       "language": "TypeScript",
-      "stars": 82860,
+      "stars": 82880,
       "archived": false,
-      "pushed_at": "2026-09-28T00:48:26Z",
+      "pushed_at": "2026-09-29T02:05:24Z",
       "topics": [
         "agent",
         "agent-collaboration",
@@ -6689,7 +6748,7 @@
         "openai",
         "skills"
       ],
-      "rank": 288,
+      "rank": 290,
       "needs_review": false
     },
     {
@@ -6702,9 +6761,9 @@
         "自托管"
       ],
       "language": "TypeScript",
-      "stars": 46534,
+      "stars": 46546,
       "archived": false,
-      "pushed_at": "2026-09-27T18:32:38Z",
+      "pushed_at": "2026-09-29T02:55:43Z",
       "topics": [
         "agentic-ai",
         "ai-agent",
@@ -6716,7 +6775,7 @@
         "self-hosted",
         "siyuan"
       ],
-      "rank": 289,
+      "rank": 291,
       "needs_review": false
     }
   ]
