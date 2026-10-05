@@ -21,13 +21,28 @@
     "initial": false
   },
   {
-    "at": "2026-09-29 10:56",
+    "at": "2026-09-29 10:59",
     "total": 291,
     "added": [
       "KKKKhazix/AIHOT",
       "LearnPrompt/awesome-seedance"
     ],
     "removed": [],
+    "initial": false
+  },
+  {
+    "at": "2026-10-05 09:03",
+    "total": 295,
+    "added": [
+      "Thesimpleex/steno",
+      "YSamed/yalqen",
+      "nv-tlabs/lyra",
+      "oil-oil/oil-ui",
+      "yuxino/Mimi"
+    ],
+    "removed": [
+      "yuxino/mimi"
+    ],
     "initial": false
   }
 ]
