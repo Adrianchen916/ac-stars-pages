@@ -4,7 +4,7 @@
 
 ## 自动更新
 
-仓库中的 [GitHub Actions 工作流](.github/workflows/update-stars.yml) 每周一约北京时间 09:17 读取公开 GitHub API，运行 `python3 update_stars.py`，提交更新后的网页、Markdown 和 JSON 快照。也可以从 Actions 页面手动运行。GitHub 计划任务可能延迟；运行失败时脚本不会清空上次成功的数据。
+仓库中的 [GitHub Actions 工作流](.github/workflows/update-stars.yml) 每月 1 日约北京时间 09:17 读取公开 GitHub API，运行 `python3 update_stars.py`，提交更新后的网页、Markdown 和 JSON 快照。也可以从 Actions 页面手动运行。GitHub 计划任务可能延迟；运行失败时脚本不会清空上次成功的数据。
 
 新 Star 默认归入“待确认用途”，可在 `classifications.json` 中编辑主分类；随后手动运行工作流或等待下一次自动同步。此仓库只包含公开 Stars 及其衍生分类，不需要 GitHub Token 或 Cloudflare API Token。
 

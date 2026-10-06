@@ -75,7 +75,7 @@ def md(data,history):
           '- 来源：GitHub 公开 Stars API；分类根据仓库名称和简介判断，并非项目质量评级。',
           '- 每个项目只设一个主分类；跨领域用途用标签补充。分类可在 classifications.json 中调整。',
           '- 列表按最近加星顺序排列；代码更新时间与加星时间不同。无公开简介的项目按 README 补充摘要，仍不明确则标注待核实。',
-          '- 每周一 09:00（Asia/Shanghai）由 Codex 更新；实际运行取决于 Codex 调度与网络可用性。', '', '## 分类索引','', '| 分类 | 数量 |', '| --- | ---: |']
+          '- 每月 1 日 09:00（Asia/Shanghai）由 Codex 更新；实际运行取决于 Codex 调度与网络可用性。', '', '## 分类索引','', '| 分类 | 数量 |', '| --- | ---: |']
     text += [f'| {c} | {counts[c]} |' for c in data['categories'] if counts[c]]
     for c in data['categories']:
         entries=[r for r in data['repositories'] if r['category']==c]
