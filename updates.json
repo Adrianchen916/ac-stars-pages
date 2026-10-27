@@ -44,5 +44,51 @@
       "yuxino/mimi"
     ],
     "initial": false
+  },
+  {
+    "at": "2026-10-27 19:11",
+    "total": 326,
+    "added": [
+      "88lin/workbuddy-auto-signin",
+      "Ebony-Vinyl/dsh-our-free-model",
+      "Evolink-AI/awesome-gpt-image-2-API-Prompts",
+      "Fei2411/DS-Bot",
+      "HeyChengC/wallstreet-explainer",
+      "MacPaw/cleanmymac-cli",
+      "TWO-ICE/Awesome-NAS-Docker",
+      "ahujasid/mcp-for-blender",
+      "alchaincyf/huashu-art-motion",
+      "alejandrobujan/tendedero",
+      "changexbc/workbuddy-switch",
+      "cheercheung/awesome-kling-4-usecases",
+      "citrolabs/ego-lite",
+      "fqscfqj/Y2A-Auto",
+      "garycaogan/intel-radar",
+      "jeszhou/overlay-studio",
+      "lemomo-ai/lemo-opuscar",
+      "lixiaoxiao9888-create/manju-laoli-skill",
+      "lzwme/ql-scripts",
+      "makecindy/cindy",
+      "mattpocock/skills",
+      "mizorewww/x_gift_bot",
+      "ninetyhe-90/dsh-decision-review",
+      "op7418/Humanizer-zh",
+      "peach-mitao/peach",
+      "precis1onz/tokenation",
+      "seriousm4x/UpSnap",
+      "shihabal3amri/DiPlay",
+      "sit-in/awesome-grokbot-playbooks",
+      "smixs/visual-skills",
+      "wheresryan22/anatomy",
+      "yihui-dev/awesome-opus5-5-videos",
+      "zerx-lab/FluxDown",
+      "zwjtano/raycast-macos-zh-CN"
+    ],
+    "removed": [
+      "EvoLinkAI/awesome-gpt-image-2-API-and-Prompts",
+      "mcncarl/jianying-headless",
+      "tradecatlabs/vibe-coding-cn"
+    ],
+    "initial": false
   }
 ]
