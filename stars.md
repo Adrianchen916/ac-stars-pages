@@ -1,8 +1,8 @@
 # AC 的 GitHub Stars 项目库
 
 - 账户：[Adrianchen916](https://github.com/Adrianchen916?tab=stars)
-- 最后同步：2026-10-27 19:11（北京时间）
-- 当前项目：326 个
+- 最后同步：2026-10-27 19:30（北京时间）
+- 当前项目：325 个
 - 来源：GitHub 公开 Stars API；分类根据仓库名称和简介判断，并非项目质量评级。
 - 每个项目只设一个主分类；跨领域用途用标签补充。分类可在 classifications.json 中调整。
 - 列表按最近加星顺序排列；代码更新时间与加星时间不同。无公开简介的项目按 README 补充摘要，仍不明确则标注待核实。
@@ -27,7 +27,6 @@
 | 网络、代理与连接工具 | 17 |
 | 影音、下载与媒体库 | 17 |
 | 学习、生活与资源导航 | 22 |
-| 待确认用途 | 1 |
 
 ## AI 编程与模型工具（24）
 
@@ -40,7 +39,7 @@ Daily-updated free LLM API list — top AA-scored picks, free tokens to burn. Ev
 
 Every agent's model. One place. Codex on DeepSeek, Claude Code on Kimi, from the menu bar.
 
-- Stars：23,271 · Go · Codex · Claude
+- Stars：23,281 · Go · Codex · Claude
 ### [yyjeqhc/webcodex](https://github.com/yyjeqhc/webcodex)
 
 Give cloud AI agents a real development environment on your own machines.
@@ -50,12 +49,12 @@ Give cloud AI agents a real development environment on your own machines.
 
 AI Coding 福利站导航：免费白嫖 Claude Code / Codex 的中转站与公益站合集，含额度、模型、价格自动更新与一键配置脚本
 
-- Stars：1,183 · JavaScript · Codex · Claude
+- Stars：1,184 · JavaScript · Codex · Claude
 ### [can1357/oh-my-pi](https://github.com/can1357/oh-my-pi)
 
 ⌥ Coding agent with the IDE wired in. Built by Stencil Labs.
 
-- Stars：36,771 · TypeScript
+- Stars：36,774 · TypeScript
 ### [lapce/lapce](https://github.com/lapce/lapce)
 
 Lightning-fast and Powerful Code Editor written in Rust
@@ -65,7 +64,7 @@ Lightning-fast and Powerful Code Editor written in Rust
 
 Use Claude Code, Codex, Antigravity, VSCode, Pi, and OpenCode (and 6 other harnesses) for free (1.3B+ free tokens) from your terminal, app, IDE, or phone, and now from the browser with native browser sessions (multi-harness + multi-model) like OpenClaw (voice supported + ToS friendly)
 
-- Stars：63,990 · Python · Codex · Claude
+- Stars：64,000 · Python · Codex · Claude
 ### [openchamber/openchamber](https://github.com/openchamber/openchamber)
 
 Agentic Development Environment based on OpenCode AI agent
@@ -95,7 +94,7 @@ Multi-account API gateway for Grok Build, Grok Web, and Grok Console
 
 SpaceXAI's coding agent harness and TUI. Fullscreen, mouse interactive, extensible.
 
-- Stars：27,566 · Rust
+- Stars：27,567 · Rust
 ### [JUk1-GH/gpt-promo-scanner](https://github.com/JUk1-GH/gpt-promo-scanner)
 
 ChatGPT Team(Business) 促销码自动扫描工具 — 批量发现/验证/价格收集，支持 17 国 34 个码，最高折扣 71% | ChatGPT Business promo code scanner — batch discovery, validation, price collection, 34 codes across 17 countries, up to 71% off
@@ -120,12 +119,12 @@ Manage ChatGPT, Codex CLI, and Claude Code accounts and track quota in one place
 
 A cross-platform desktop All-in-One assistant for Claude Code, Codex, OpenCode, OpenClaw, Grok Build & Hermes Agent. Only official website: ccswitch.io
 
-- Stars：149,250 · Rust · Codex · Claude
+- Stars：149,258 · Rust · Codex · Claude
 ### [ghostty-org/ghostty](https://github.com/ghostty-org/ghostty)
 
 👻 Ghostty is a fast, feature-rich, and cross-platform terminal emulator that uses platform-native UI and GPU acceleration.
 
-- Stars：62,635 · Zig
+- Stars：62,636 · Zig
 ### [Wei-Shaw/sub2api](https://github.com/Wei-Shaw/sub2api)
 
 Sub2API 一站式开源中转服务，让 Claude、Openai 、Gemini、Grok订阅统一接入，支持拼车共享，更高效分摊成本，原生工具无缝使用。
@@ -145,7 +144,7 @@ List of Permanent Free LLM API (API Keys)
 
 Minimal web UI for GeminiPro.
 
-- Stars：4,901 · TypeScript
+- Stars：4,900 · TypeScript
 ### [PawanOsman/OpenCursor](https://github.com/PawanOsman/OpenCursor)
 
 Open-source Cursor-like AI coding agent for VS Code - agentic chat, multi-provider LLMs (OpenAI, Ollama, llama.cpp), semantic search, and MCP support
@@ -158,22 +157,22 @@ Open-source Cursor-like AI coding agent for VS Code - agentic chat, multi-provid
 
 Consider it done. The open-source AI agent that works out of the box · 想到，就能做到。开源、开箱即用的 AI Agent。
 
-- Stars：7,081 · TypeScript
+- Stars：7,097 · TypeScript
 ### [ahujasid/mcp-for-blender](https://github.com/ahujasid/mcp-for-blender)
 
 Community plugin to control Blender 3D with any LLM of your choice. Not affiliated with the official Blender Foundation.
 
-- Stars：32,473 · Python · MCP
+- Stars：32,474 · Python · MCP
 ### [Fei2411/DS-Bot](https://github.com/Fei2411/DS-Bot)
 
 A team of long-lived bots for DeepSeek Harness, with main bots, bot-to-bot messages and group chats.
 
-- Stars：4,202 · JavaScript
+- Stars：4,203 · JavaScript
 ### [citrolabs/ego-lite](https://github.com/citrolabs/ego-lite)
 
 The fastest browser for AI agents to run browser automation, built for sharing your logged-in browser state with your AI agents, like Codex or Claude Code, without disturbing you. Zero cost, zero config.
 
-- Stars：20,023 · JavaScript · Codex · Claude
+- Stars：20,028 · JavaScript · Codex · Claude
 ### [sit-in/awesome-grokbot-playbooks](https://github.com/sit-in/awesome-grokbot-playbooks)
 
 中文 Grok Bot 玩法与可抄配方清单：作战室、雷达 Routine、额度体检… 由 Grok Bot + Claude 协作维护 | Chinese-first Grok Bot playbooks
@@ -183,12 +182,12 @@ The fastest browser for AI agents to run browser automation, built for sharing y
 
 在 dsh 里装上这个插件即可，无需登录、注册或填 API Key，就能使用包括 DeepSeek V4.1 Flash、Kimi K3 在内的前沿模型——完全免费，不限量。 All you do is install this plugin in dsh: no login, no sign-up, no API key — the frontier models are just there, DeepSeek V4.1 Flash and Kimi K3 among them. Completely free, with no usage cap.
 
-- Stars：45,965 · JavaScript
+- Stars：46,000 · JavaScript
 ### [mattpocock/skills](https://github.com/mattpocock/skills)
 
 Skills for Real Engineers. Straight from my .agents directory.
 
-- Stars：304,466 · Shell · Skill
+- Stars：304,475 · Shell · Skill
 ### [Shpigford/chops](https://github.com/Shpigford/chops)
 
 Your AI agent skills, finally organized. A macOS app to browse, edit, and manage skills across Claude Code, Cursor, Codex, Windsurf, and Amp.
@@ -228,17 +227,17 @@ Learn how to turn your knowledge, workflow and experience into your own AI Skill
 
 f.k.a. Awesome ChatGPT Prompts. Share, discover, and collect prompts from the community. Free and open source — self-host for your organization with complete privacy.
 
-- Stars：174,712 · HTML · 自托管
+- Stars：174,714 · HTML · 自托管
 ### [zhaoxuya520/reverse-skill](https://github.com/zhaoxuya520/reverse-skill)
 
 Reverse Engineering / Authorized Penetration Testing / Security Research Skill Router Pack AI-powered routing + On-demand toolchain bootstrapping + Self-evolving knowledge base Supports Claude Code, Kiro, Cursor, Cline, and other AI coding clients 逆向/渗透/安全技能路由包 - AI 自动路由 + 按需自举工具链 + 自动进化经验库 | 支持 Claude Code / Kiro / Cursor / Cline 等代码 AI 客户端
 
-- Stars：43,527 · PowerShell · Skill · Claude
+- Stars：43,528 · PowerShell · Skill · Claude
 ### [paperclipai/paperclip](https://github.com/paperclipai/paperclip)
 
 The open-source app everyone uses to manage agents at work
 
-- Stars：107,819 · TypeScript
+- Stars：107,825 · TypeScript
 ### [Yunshiro/yunn-skills](https://github.com/Yunshiro/yunn-skills)
 
 可复用的 Agent Skills 集合。
@@ -253,7 +252,7 @@ AdrianPunk's skills
 
 Your Personal AI Assistant; easy to install, deploy on your own machine or on the cloud; supports multiple chat apps with easily extensible capabilities.
 
-- Stars：36,519 · TypeScript
+- Stars：36,524 · TypeScript
 ### [OpenMinis/OpenMinis](https://github.com/OpenMinis/OpenMinis)
 
 OpenMinis — The AI Agent app across platforms. Fully free and open source.
@@ -288,7 +287,7 @@ Where people and agents build in tune.
 
 100+ AI Agents, Agent Skills and RAG Apps - Free and Open Source.
 
-- Stars：143,202 · Python · Skill
+- Stars：143,203 · Python · Skill
 ### [0xNyk/awesome-hermes-agent](https://github.com/0xNyk/awesome-hermes-agent)
 
 Independent directory of useful skills, plugins, memory providers, tools, surfaces, and guides for Nous Research's open-source Hermes Agent.
@@ -303,7 +302,7 @@ Independent directory of useful skills, plugins, memory providers, tools, surfac
 
 An agentic skills framework & software development methodology that works.
 
-- Stars：305,868 · Shell · Skill
+- Stars：305,880 · Shell · Skill
 ### [jnMetaCode/agency-agents-zh](https://github.com/jnMetaCode/agency-agents-zh)
 
 🎭 277 个即插即用的 AI 专家角色 — 支持 Claude Code/Cursor/Copilot 等 20 种工具，覆盖工程/设计/营销/金融等 20 个部门。含 64 个中国市场原创智能体（小红书/抖音/微信/飞书/钉钉/Qt 上位机/机械设计）。搭配编排器 agency-orchestrator，一句话即可让多位专家按 DAG 自动协作。
@@ -313,22 +312,22 @@ An agentic skills framework & software development methodology that works.
 
 The agent that grows with you
 
-- Stars：257,568 · Python
+- Stars：257,569 · Python
 ### [alchaincyf/nuwa-skill](https://github.com/alchaincyf/nuwa-skill)
 
 你想蒸馏的下一个员工，何必是同事。蒸馏任何人的思维方式——心智模型、决策启发式、表达DNA。Distill how anyone thinks.
 
-- Stars：36,321 · Python · Skill
+- Stars：36,324 · Python · Skill
 ### [msitarzewski/agency-agents](https://github.com/msitarzewski/agency-agents)
 
 A complete AI agency at your fingertips - From frontend wizards to Reddit community ninjas, from whimsy injectors to reality checkers. Each agent is a specialized expert with personality, processes, and proven deliverables.
 
-- Stars：164,393 · Shell
+- Stars：164,396 · Shell
 ### [VoltAgent/awesome-openclaw-skills](https://github.com/VoltAgent/awesome-openclaw-skills)
 
 The awesome collection of OpenClaw skills. 5,400+ skills filtered and categorized from the official OpenClaw Skills Registry.🦞
 
-- Stars：53,371 · Skill
+- Stars：53,372 · Skill
 ### [hangwin/mcp-chrome](https://github.com/hangwin/mcp-chrome)
 
 Chrome MCP Server is a Chrome extension-based Model Context Protocol (MCP) server that exposes your Chrome browser functionality to AI assistants like Claude, enabling complex browser automation, content analysis, and semantic search.
@@ -346,7 +345,7 @@ Chrome MCP Server is a Chrome extension-based Model Context Protocol (MCP) serve
 
 Humanizer 的汉化版本，Claude Code Skills，旨在消除文本中 AI 生成的痕迹。
 
-- Stars：21,173 · Python · Skill · Claude
+- Stars：21,176 · Python · Skill · Claude
 ### [mizorewww/x_gift_bot](https://github.com/mizorewww/x_gift_bot)
 
 X Premium gift CLI and redemption site
@@ -356,7 +355,7 @@ X Premium gift CLI and redemption site
 
 一个自己找热点、自己写日报的网站框架。把信源和精选标准换成你的，它就是你的行业热点站。
 
-- Stars：8,717 · TypeScript
+- Stars：8,719 · TypeScript
 ### [SpaceZephyr/creator-buddy](https://github.com/SpaceZephyr/creator-buddy)
 
 Creator Buddy: orchestrated Agent Skills for cross-platform content search, creator analysis, and viral trend research
@@ -371,7 +370,7 @@ Creator Buddy: orchestrated Agent Skills for cross-platform content search, crea
 
 一个基于 520 万字语料统计的去 AI 味 skill · An AI-tone removal skill grounded in a 5.2-million-character corpus study
 
-- Stars：4,240 · Python · Skill
+- Stars：4,245 · Python · Skill
 ### [jiji262/douyin-downloader](https://github.com/jiji262/douyin-downloader)
 
 A practical Douyin downloader for both single-item and profile batch downloads, with progress display, retries, SQLite deduplication, and browser fallback support. 抖音批量下载工具，去水印，支持视频、图集、合集、音乐(原声)。
@@ -396,7 +395,7 @@ WeChat Markdown editor & formatter｜公众号 Markdown 排版工具：26 套主
 
 写作蒸馏器.skill｜蒸馏复刻任意写作风格的 agent skill | Writing DNA Distiller - distill and recreate any writing style as an agent skill
 
-- Stars：2,699 · Skill
+- Stars：2,700 · Skill
 ### [sennkuwu/wechat-style-extractor](https://github.com/sennkuwu/wechat-style-extractor)
 
 从公众号文章提取可复用视觉模板，并生成可复制到微信编辑器的富文本预览。
@@ -426,7 +425,7 @@ A self-improving daily content system — pulls from high-quality sources every 
 
 本地优先的中文内容排版工具：把 Markdown 转成小红书图文卡片、公众号长文和可下载图片，并支持 Obsidian 工作流。
 
-- Stars：588 · JavaScript · Obsidian · 公众号 · 小红书
+- Stars：589 · JavaScript · Obsidian · 公众号 · 小红书
 ### [EasifyCoder/yuhao-skills](https://github.com/EasifyCoder/yuhao-skills)
 
 An all-in-one content creation skills collection.
@@ -441,17 +440,17 @@ An all-in-one content creation skills collection.
 
 Removes 20+ patterns of AI slop from any piece of writing.
 
-- Stars：12,862 · Python
+- Stars：12,863 · Python
 ### [mvanhorn/last30days-skill](https://github.com/mvanhorn/last30days-skill)
 
 AI agent skill that researches any topic across Reddit, X, YouTube, HN, Polymarket, and the web - then synthesizes a grounded summary
 
-- Stars：65,634 · Python · Skill
+- Stars：65,635 · Python · Skill
 ### [NanmiCoder/MediaCrawler](https://github.com/NanmiCoder/MediaCrawler)
 
 小红书笔记 | 评论爬虫、抖音视频 | 评论爬虫、快手视频 | 评论爬虫、B 站视频 ｜ 评论爬虫、微博帖子 ｜ 评论爬虫、百度贴吧帖子 ｜ 百度贴吧评论回复爬虫 | 知乎问答文章｜评论爬虫
 
-- Stars：68,731 · Python · 小红书
+- Stars：68,733 · Python · 小红书
 ### [joeseesun/qiaomu-wx-video](https://github.com/joeseesun/qiaomu-wx-video)
 
 Qiaomu skill and workflow for downloading a WeChat Channels / 视频号 video or generated live replay when the user provides a weixin.qq.com/sph share link
@@ -471,7 +470,7 @@ Chrome extension that uses DeepSeek AI to auto-generate comments on X/Twitter po
 
 Let's use AI to Earn!
 
-- Stars：26,953 · TypeScript
+- Stars：26,954 · TypeScript
 ### [wechat-article/wechat-article-exporter](https://github.com/wechat-article/wechat-article-exporter)
 
 一款在线的 微信公众号文章批量下载 工具，支持导出阅读量与评论数据，无需搭建任何环境，可通过 在线网站 使用，支持 docker 私有化部署和 Cloudflare 部署。 支持下载各种文件格式，其中 HTML 格式可100%还原文章排版与样式。
@@ -491,7 +490,7 @@ X导师.skill — 女娲的第一个「非人类」作品。蒸馏6位顶级X创
 
 Marketing skills for Claude Code and AI agents. CRO, copywriting, SEO, analytics, and growth engineering.
 
-- Stars：56,789 · JavaScript · Skill · Claude
+- Stars：56,792 · JavaScript · Skill · Claude
 ### [JimLiu/baoyu-skills](https://github.com/JimLiu/baoyu-skills)
 
 面向写作、配图、排版与多平台发布的 Agent Skills 集合。
@@ -524,7 +523,7 @@ AI film director skills for agents: cinematic dramaturgy (Murch, blocking, monta
 
 A growing collection of viral videos made with Claude Opus 5.5 and the prompts behind them. Watch each original next to a live remake on Skillry. Updated regularly.
 
-- Stars：11,708 · Skill · Claude
+- Stars：11,713 · Skill · Claude
 ### [jeszhou/overlay-studio](https://github.com/jeszhou/overlay-studio)
 
 给口播视频加动效层的编辑工作台:AI 读你的字幕稿自动编排,做出来的每个元素你都能自己改,导出透明动效层直接进剪映——原片一帧不压。
@@ -539,12 +538,12 @@ Kling 4 / 4.0 use cases: 93 video demos, creator workflows and 15 public prompts
 
 A toolbox of film styles made in code for Claude Code: 59 ready to use, and your own. Each style is a style prompt plus a demo film made entirely in code by Claude Opus 5.5, with no video model. By Lemomo. · 一套用代码做片的风格工具箱：59 种现成风格，也能做出你自己的
 
-- Stars：8,406 · JavaScript · Claude
+- Stars：8,415 · JavaScript · Claude
 ### [alchaincyf/huashu-art-motion](https://github.com/alchaincyf/huashu-art-motion)
 
 艺术动画skill：35种艺术风格、9种解说语法，用代码让画动起来。
 
-- Stars：5,448 · JavaScript · Skill
+- Stars：5,450 · JavaScript · Skill
 ### [LearnPrompt/awesome-seedance](https://github.com/LearnPrompt/awesome-seedance)
 
 🎬 Evidence-led Seedance 2.5 / 2.0 prompt library: 840+ cases traced to original posts, 490+ cross-model retest runs, 27 copy-ready templates, 80+ installable AI-video Skills. Synced daily from goodcase.ai. EN / 中文 / 日本語.
@@ -569,12 +568,12 @@ An Agent Skill for building interactive, self-assembling 3D architecture with Th
 
 Clone any viral video with AI agents. Not just a script, the whole workflow: swap the face, the words, the B-roll, ship 100 variants in one command, and get your 100M views.
 
-- Stars：26,002 · TypeScript
+- Stars：26,005 · TypeScript
 ### [CapSoftware/Cap](https://github.com/CapSoftware/Cap)
 
 Open source Loom alternative. Beautiful, shareable screen recordings.
 
-- Stars：23,865 · Rust
+- Stars：23,868 · Rust
 ### [chengyi-ai/native-subtitle-quote-image](https://github.com/chengyi-ai/native-subtitle-quote-image)
 
 保留视频内嵌字幕，精确取帧并生成 3:4 社交长图的 Agent Skill
@@ -594,12 +593,12 @@ Turn simple scene ideas into restrained, physically believable cinematic AIGC pr
 
 Write HTML. Render video. Built for agents.
 
-- Stars：73,523 · TypeScript
+- Stars：73,536 · TypeScript
 ### [eternityspring/shuohao-skills](https://github.com/eternityspring/shuohao-skills)
 
 AI 短剧制作的 skill 集合：拆角色、排大纲、出场景与道具设定、写剧本、切分镜 | Agent skills for AI short-drama production — character bibles, adaptation outlines, art bibles, screenplays, storyboards. Runs in Claude Code & codex.
 
-- Stars：5,490 · JavaScript · Skill · Codex · Claude
+- Stars：5,491 · JavaScript · Skill · Codex · Claude
 ### [s1dashu/director](https://github.com/s1dashu/director)
 
 Direct complete videos with multi-mode workflows for research, scripts, visual development, shot design, media generation, and delivery.
@@ -609,22 +608,22 @@ Direct complete videos with multi-mode workflows for research, scripts, visual d
 
 JZSub — 一条视频链接，自动交付最高画质、封面和 GPT 双语字幕 MP4。
 
-- Stars：1,023 · Python
+- Stars：1,024 · Python
 ### [Emily2040/seedance-2.0](https://github.com/Emily2040/seedance-2.0)
 
 Comprehensive production pipeline for quad-modal AI filmmaking with Seedance 2.0
 
-- Stars：7,951 · Python
+- Stars：7,953 · Python
 ### [dexhunter/seedance2-skill](https://github.com/dexhunter/seedance2-skill)
 
 skill to create best prompts for generating videos with seedance2.0
 
-- Stars：4,365 · Skill
+- Stars：4,366 · Skill
 ### [Forget-C/Jellyfish](https://github.com/Forget-C/Jellyfish)
 
 An end-to-end production workspace for AI-generated short dramas. From script input to structured storyboarding, consistency management, shot preparation, video generation, and export.
 
-- Stars：7,048 · Python
+- Stars：7,049 · Python
 ### [browser-use/video-use](https://github.com/browser-use/video-use)
 
 Edit videos with coding agents
@@ -654,7 +653,7 @@ Create polished demo videos without editing skills. Mac/Windows/Linux
 
 AutoClip｜一个链接，一键出片。开源 AI 视频剪辑桌面工具，将播客、访谈、课程等长视频自动剪成短视频，生成字幕、封面和发布文案，适配抖音、小红书、TikTok、Reels 与 YouTube Shorts。Open-source AI video clipping & content repurposing.
 
-- Stars：9,771 · Python · 小红书
+- Stars：9,772 · Python · 小红书
 
 ## 音频、语音与翻译（17）
 
@@ -672,7 +671,7 @@ Open-source local AI audio & music studio for macOS & Windows. TTS, voice clonin
 
 VoiceStudio is the open-source, fully-local ElevenLabs alternative — voice cloning, voice design, video dubbing, dictation, transcription & audiobook creation in 646 languages.
 
-- Stars：90,415 · Python
+- Stars：90,443 · Python
 ### [yuxino/Mimi](https://github.com/yuxino/Mimi)
 
 把电脑或麦克风声音转成实时翻译字幕。Live translated subtitles from computer or microphone audio.
@@ -697,12 +696,12 @@ AirTranslate macOS app
 
 Buzz transcribes and translates audio offline on your personal computer. Powered by OpenAI's Whisper.
 
-- Stars：22,216 · Python
+- Stars：22,217 · Python
 ### [index-tts/index-tts](https://github.com/index-tts/index-tts)
 
 An Industrial-Level Controllable and Efficient Zero-Shot Text-To-Speech System
 
-- Stars：24,746 · Python
+- Stars：24,747 · Python
 ### [ronitsingh10/FineTune](https://github.com/ronitsingh10/FineTune)
 
 FineTune, a macOS menu bar app for per-app volume control, multi-device output, audio routing, and 10-band EQ. Free and open-source alternative to SoundSource.
@@ -750,7 +749,7 @@ A Raycast Extension for looking up words or translating text in an easy way. Sup
 
 An agent skill for creating detailed, interactive isometric illustrations of real-world machines and complex systems. Generates polished SVGs with optional WebGL shaders and 3D effects.
 
-- Stars：21,253 · JavaScript · Skill
+- Stars：21,255 · JavaScript · Skill
 ### [nv-tlabs/lyra](https://github.com/nv-tlabs/lyra)
 
 Project Lyra: Open Generative 3D World Models
@@ -785,7 +784,7 @@ One-ink editorial print image skill — warm paper, halftone photography, active
 
 Turn any idea, plan, or codebase into a beautiful interactive diagram. An agent skill for Claude Code, Codex, and more.
 
-- Stars：90,140 · JavaScript · Skill · Codex · Claude
+- Stars：90,154 · JavaScript · Skill · Codex · Claude
 ### [Nutlope/logocreator](https://github.com/Nutlope/logocreator)
 
 A free + OSS logo generator powered by Flux on Together AI
@@ -800,7 +799,7 @@ Extract any website’s design system into tokens in seconds: logo, colors, typo
 
 Rebuild the object in a reference image as a code-only, procedural, quality-gated, animation-ready Three.js model. Token-efficient image-to-3D.
 
-- Stars：19,517 · Python
+- Stars：19,524 · Python
 ### [Zeejay0/gathered-scenes-zine-skill](https://github.com/Zeejay0/gathered-scenes-zine-skill)
 
 将照片转为纸感拼贴海报或原创编辑插画的一组 Codex 生图 Skills。
@@ -820,7 +819,7 @@ Codex skill for generating quiet minimal zine-style editorial poster prompts and
 
 Skills for Designers and Engineers.
 
-- Stars：50,417 · Markdown · Skill
+- Stars：50,422 · Markdown · Skill
 ### [fucha1122/minimalist-bw-logo-skill](https://github.com/fucha1122/minimalist-bw-logo-skill)
 
 minimalist-bw-logo
@@ -845,7 +844,7 @@ Run Claude Design locally as an Agent Skill — Cursor, Claude Code & more. Prod
 
 The 1st Collaborative AI Design Agent Workspace. Local-first and open source. Create motion, prototypes, websites, apps, dashboards, presentations, images, and videos with your team and AI agents. Share work, exchange feedback, and iterate together in one workspace.
 
-- Stars：104,284 · TypeScript
+- Stars：104,288 · TypeScript
 ### [Evolink-AI/awesome-gpt-image-2-API-Prompts](https://github.com/Evolink-AI/awesome-gpt-image-2-API-Prompts)
 
 GPT-Image-2 API and Prompts
@@ -860,17 +859,17 @@ Nano Banana(nanobanana),GPT-5(GPT5),GPT-4o(GPT4o) Image Prompts，Nanobanana Pro
 
 Prompt as Code | GPT Image 2 / 2.5 提示词与案例库，530+ 个案例、20+ 套工业级模板与可复用 Skills，新增 2.5 同提示词对比专区，附完整提示词与生成记录，持续更新。
 
-- Stars：35,097 · JavaScript · Skill
+- Stars：35,098 · JavaScript · Skill
 ### [alchaincyf/huashu-design](https://github.com/alchaincyf/huashu-design)
 
 Huashu Design 3.0 · 在 agent 里打一句话，拿回能交付的设计：网页 / App 原型 / 可编辑 PPTX / 动画 / 信息图 · 六个候选挑三个方向 · 84 种带样张的风格库 · 越用越懂你的外观账本与设计体检 · HTML-native design skill for Claude Code, Codex, Cursor & any agent
 
-- Stars：27,596 · HTML · Skill · Codex · Claude
+- Stars：27,605 · HTML · Skill · Codex · Claude
 ### [VoltAgent/awesome-design-md](https://github.com/VoltAgent/awesome-design-md)
 
 A collection of DESIGN.md files analysis by popular brand design systems. Drop one into your project and let coding agents generate a matching UI.
 
-- Stars：123,884
+- Stars：123,893
 ### [op7418/logo-generator-skill](https://github.com/op7418/logo-generator-skill)
 
 logo-generator-skill
@@ -888,7 +887,7 @@ logo-generator-skill
 
 Free, open-source AI Office suite: Docs, Sheets, Slides, PDF, Markdown and HTML editors with a built-in AI agent, plus a `genoffice` CLI and agent skill so Claude Code, Codex and Cursor can create and edit real .docx/.xlsx/.pptx files locally. Bring your own key. macOS, Windows & Linux.
 
-- Stars：11,038 · TypeScript · Skill · macOS · Windows · Codex · Claude
+- Stars：11,039 · TypeScript · Skill · macOS · Windows · Codex · Claude
 ### [slidevjs/slidev](https://github.com/slidevjs/slidev)
 
 Presentation Slides for Developers
@@ -898,12 +897,12 @@ Presentation Slides for Developers
 
 开箱即用的AI标书编写工具，标书AI生成工具，投标工具箱、知识库、标书查重、废标项检查，完全开源免费，欢迎使用
 
-- Stars：3,232 · JavaScript
+- Stars：3,233 · JavaScript
 ### [hugohe3/ppt-master](https://github.com/hugohe3/ppt-master)
 
 AI turns documents or topics into real, native PowerPoint decks—with native shapes, transitions and animations, data-backed charts and tables on demand, audio narration from speaker notes, and support for your own .pptx templates. · by Hugo He
 
-- Stars：69,352 · Python
+- Stars：69,363 · Python
 ### [Binaryify/open-kimi-ppt-skill](https://github.com/Binaryify/open-kimi-ppt-skill)
 
 非官方 Kimi Slides Skill：让 AI Agent 生成可编辑 PPTD + PPTX，并附带本地浏览器编辑器 Unofficial Kimi Slides skill for AI agents — generate editable PPTD + PPTX with a local browser editor
@@ -938,7 +937,7 @@ NanoBanana PPT Skills 基于 AI 自动生成高质量 PPT 图片和视频的强�
 
 AI-agent Skill for generating polished HTML slide decks: editorial magazine and Swiss layouts, image prompts, social covers, and a WebGL/low-power presentation runtime.
 
-- Stars：28,756 · HTML · Skill
+- Stars：28,757 · HTML · Skill
 
 ## 知识管理、阅读与信息订阅（24）
 
@@ -971,7 +970,7 @@ Read Buddy: Agent Skills for reading webpages, RSS, YouTube, X, Feishu docs, OCR
 
 把书、长视频、播客等高价值内容蒸馏成可执行的 Agent Skills（Distill high-value content from books, long-form videos, podcasts, and more into executable Agent Skills）
 
-- Stars：11,802 · Python · Skill
+- Stars：11,803 · Python · Skill
 ### [yuraist/just-md](https://github.com/yuraist/just-md)
 
 Native macOS minimalist markdown editor
@@ -1016,7 +1015,7 @@ Claude Skill: Multi-source content processor for NotebookLM. Supports WeChat art
 
 ⛷ A quiet, local-first Markdown writing app for Mac, to help you write great sentences.
 
-- Stars：8,690 · Swift
+- Stars：8,691 · Swift
 ### [liyupi/yupi-hot-monitor](https://github.com/liyupi/yupi-hot-monitor)
 
 2026 年编程导航 AI 编程实战新项目，基于 Node.js + Express + React + OpenRouter 的 AI 热点监控工具，支持多信息源聚合抓取（Twitter / Bing / HackerNews / B 站等 7+ 平台）、AI 查询扩展、AI 真假识别与相关性分析、WebSocket 实时推送、邮件通知、多维度筛选排序，并将热点监控能力封装为 Agent Skills 技能包。覆盖 Prisma + SQLite 数据库、Socket.io 实时通信、Axios + Cheerio 网页爬虫、OpenRouter 大模型接入、Aceternity UI 炫酷前端、node-cron 定时任务、VSCode Copilot Vibe Coding + MCP
@@ -1031,7 +1030,7 @@ Obsidian + Claude Code: Rebuild Your Second Brain with AI · 橙皮书系列 · 
 
 ⭐AI-driven public opinion & trend monitor with multi-platform aggregation, RSS, and smart alerts.🎯 告别信息过载，你的 AI 舆情监控助手与热点筛选工具！聚合多平台热点 + RSS 订阅，支持关键词精准筛选。AI 智能筛选新闻 + AI 翻译 + AI 分析简报直推手机，也支持接入 MCP 架构，赋能 AI 自然语言对话分析、情感洞察与趋势预测等。支持 Docker ，数据本地/云端自持。集成微信/飞书/钉钉/Telegram/邮件/ntfy/bark/slack 等渠道智能推送。
 
-- Stars：63,226 · Python · MCP · 公众号
+- Stars：63,227 · Python · MCP · 公众号
 ### [paperless-ngx/paperless-ngx](https://github.com/paperless-ngx/paperless-ngx)
 
 A community-supported supercharged document management system: scan, index and archive all your documents
@@ -1079,12 +1078,12 @@ Stock AI Trader: 1-stop platform for learning, sim & live trading. Covers: stock
 
 阿布量化交易系统(股票，期权，期货，比特币，机器学习) 基于python的开源量化交易，量化投资架构
 
-- Stars：19,039 · Python
+- Stars：19,038 · Python
 ### [paperswithbacktest/awesome-systematic-trading](https://github.com/paperswithbacktest/awesome-systematic-trading)
 
 A curated list of awesome libraries, packages, strategies, books, blogs, tutorials for systematic trading.
 
-- Stars：15,007 · Python
+- Stars：15,010 · Python
 ### [terancejiang/financial-report-minesweeper](https://github.com/terancejiang/financial-report-minesweeper)
 
 财报排雷工具 - A-share financial report fraud/risk detection based on Tang Chao's methodology. Claude Code Skill with 28-rule checklist.
@@ -1139,7 +1138,7 @@ LLM 驱动的多市场股票智能分析系统：多源行情、实时新闻、�
 
 Open-source AI Trading OS, agent trading, and vibe trading, with Jev System One integration. Research, build Python strategies, backtest, and paper/live trade across crypto, stocks, and forex. Launch your own multi-tenant trading SaaS with built-in user management, billing, payments, and settlement.
 
-- Stars：13,150 · Python
+- Stars：13,151 · Python
 ### [Open-Dev-Society/OpenStock](https://github.com/Open-Dev-Society/OpenStock)
 
 OpenStock is an open-source alternative to expensive market platforms. Track real-time prices, set personalized alerts, and explore detailed company insights — built openly, for everyone, forever free.
@@ -1149,7 +1148,7 @@ OpenStock is an open-source alternative to expensive market platforms. Track rea
 
 Online Accounting Software
 
-- Stars：10,233 · PHP
+- Stars：10,234 · PHP
 
 ## 桌面、系统与实用工具（26）
 
@@ -1167,7 +1166,7 @@ Raycast macOS 汉化包｜简体中文界面、插件商店文案与部分插件
 
 Independent CarPlay receiver for compatible Android head units. Wired and wireless public preview.
 
-- Stars：12,529 · Kotlin
+- Stars：12,530 · Kotlin
 ### [88lin/workbuddy-auto-signin](https://github.com/88lin/workbuddy-auto-signin)
 
 自动领取 WorkBuddy / Qoder CN 每日签到积分与成长中心全部奖励 —— Buddy 旅行礼物、派 Buddy、开盲盒、领任务、连登兑换、断登补签全覆盖。无需额外安装依赖，一句话让 AI 自动配好 Windows / macOS 定时任务，零 Token 静默运行。
@@ -1257,7 +1256,7 @@ Native GUI for Homebrew Casks
 
 🐹 Keep your Mac and PC clean, light, and running like new. Fast open-source CLI, plus native Mac and Windows apps.
 
-- Stars：73,046 · Shell · Windows
+- Stars：73,049 · Shell · Windows
 ### [heyderekj/dinky](https://github.com/heyderekj/dinky)
 
 Dinky makes files smaller.
@@ -1300,7 +1299,7 @@ A beautiful, powerful, and efficient Hexo theme developed by everfu.
 
 A list of developer portfolios for your inspiration
 
-- Stars：27,416 · Python
+- Stars：27,415 · Python
 ### [dayinji/sen-3d-resume](https://github.com/dayinji/sen-3d-resume)
 
 基于 React Three Fiber 的滚动式 3D 个人简历网站。
@@ -1320,7 +1319,7 @@ Bridget is a minimal Hugo theme for photographers/visual artists, powered by Sol
 
 The world’s fastest framework for building websites.
 
-- Stars：90,255 · Go
+- Stars：90,254 · Go
 ### [nicokaiser/hugo-theme-gallery](https://github.com/nicokaiser/hugo-theme-gallery)
 
 Gallery Theme for Hugo
@@ -1340,7 +1339,7 @@ Gallery Theme for Hugo
 
 Documentation that simply works
 
-- Stars：27,587 · Python
+- Stars：27,586 · Python
 ### [vuejs/vitepress](https://github.com/vuejs/vitepress)
 
 Vite & Vue powered static site generator.
@@ -1388,7 +1387,7 @@ A server, NAS navigation panel, Homepage, browser homepage. | 一个服务器、
 
 Free domain registration and practical DNS learning resources for everyone.
 
-- Stars：206,009 · Markdown
+- Stars：206,012 · Markdown
 ### [yaoleifly/smart-homelab](https://github.com/yaoleifly/smart-homelab)
 
 smart homelab with ai
@@ -1398,12 +1397,12 @@ smart homelab with ai
 
 A collective list of free APIs
 
-- Stars：492,549 · Python
+- Stars：492,551 · Python
 ### [maillab/cloud-mail](https://github.com/maillab/cloud-mail)
 
 An all-in-one email service platform powered by Cloudflare | 基于 Cloudflare 的一站式邮箱服务平台 | Cloudflare Email 邮箱 Mail
 
-- Stars：14,977 · JavaScript · Cloudflare
+- Stars：14,978 · JavaScript · Cloudflare
 ### [dongyubin/DockerHub](https://github.com/dongyubin/DockerHub)
 
 2026年10月更新，目前国内可用Docker镜像源汇总，DockerHub国内镜像加速列表，🚀DockerHub镜像加速器
@@ -1421,12 +1420,12 @@ Self-healing Clash free subscription generated by GitHub Actions.
 
 CN Windows 多网卡聚合与网络加速工具。一键融合有线、Wi-Fi、热点等连接，实现多路径传输与智能流量调度。 EN Windows multi-NIC network accelerator. Combine Ethernet, Wi-Fi, hotspots and more for multi-path transmission and smart traffic routing.
 
-- Stars：3,905 · Go · Windows
+- Stars：3,904 · Go · Windows
 ### [Johnshall/Shadowrocket-ADBlock-Rules-Forever](https://github.com/Johnshall/Shadowrocket-ADBlock-Rules-Forever)
 
 提供多款 Shadowrocket 规则，拥有强劲的广告过滤功能。每日 8 时重新构建规则。
 
-- Stars：31,585
+- Stars：31,587
 ### [imraywang/proxy-fleet](https://github.com/imraywang/proxy-fleet)
 
 One-command VPS proxy fleet management: deploy 3x-ui + VLESS+Reality, auto-generate Clash/Mihomo subscriptions
@@ -1456,12 +1455,12 @@ nodejs-argo是一个强大的Argo隧道部署工具，专为PaaS平台和游戏�
 
 基于 Cloudflare Workers 或 Pages 的多协议代理与订阅管理工具。
 
-- Stars：16,507 · Python · README 摘要
+- Stars：16,508 · Python · README 摘要
 ### [clash-verge-rev/clash-verge-rev](https://github.com/clash-verge-rev/clash-verge-rev)
 
 A modern GUI client based on Tauri, designed to run in Windows, macOS and Linux for tailored proxy experience
 
-- Stars：154,259 · Rust · macOS · Windows
+- Stars：154,265 · Rust · macOS · Windows
 ### [233boy/v2ray](https://github.com/233boy/v2ray)
 
 最好用的 V2Ray 一键安装脚本 & 管理脚本
@@ -1481,7 +1480,7 @@ Best Sub, Best for Your Net
 
 A multi-platform proxy client based on ClashMeta,simple and easy to use, open-source and ad-free.
 
-- Stars：58,719 · Dart
+- Stars：58,721 · Dart
 ### [bepass-org/oblivion-desktop](https://github.com/bepass-org/oblivion-desktop)
 
 Oblivion Desktop - Unofficial Warp Client for Windows/Mac/Linux
@@ -1491,7 +1490,7 @@ Oblivion Desktop - Unofficial Warp Client for Windows/Mac/Linux
 
 A GUI client for Windows, Linux and macOS, support Xray and sing-box and others
 
-- Stars：119,216 · C# · macOS · Windows
+- Stars：119,219 · C# · macOS · Windows
 ### [cmliu/edgetunnel](https://github.com/cmliu/edgetunnel)
 
 edgetunnel2 VLESS/Trojan/SS 多功能面板
@@ -1504,7 +1503,7 @@ edgetunnel2 VLESS/Trojan/SS 多功能面板
 
 Peach: Local-first video metadata scraper and media manager.
 
-- Stars：12,749 · Python
+- Stars：12,761 · Python
 ### [fqscfqj/Y2A-Auto](https://github.com/fqscfqj/Y2A-Auto)
 
 YouTube到AcFun和bilibili自动化搬运工具，支持AI翻译、字幕生成、内容审核、智能监控
@@ -1514,7 +1513,7 @@ YouTube到AcFun和bilibili自动化搬运工具，支持AI翻译、字幕生成�
 
 Rust 驱动的多协议下载管理器，支持 HTTP/FTP/BitTorrent 磁力链接及 HLS/DASH 流媒体，智能多线程加速与浏览器无缝集成。精美界面，极致性能，永久免费，零广告。
 
-- Stars：5,055 · Rust
+- Stars：5,056 · Rust
 ### [varunaditya-plus/SleekFin](https://github.com/varunaditya-plus/SleekFin)
 
 The ultimate Jellyfin Web look refresh, with a hero section, updated elements, and whole new style.
@@ -1539,7 +1538,7 @@ IPV4/IPV6 TVBOX 电视直播点播源收集
 
 我的电视 电视直播软件，安装即可使用
 
-- Stars：31,965 · C
+- Stars：31,966 · C
 ### [fanmingming/live](https://github.com/fanmingming/live)
 
 ✯ 可直连访问的电视/广播图标库与相关工具项目 ✯ 🔕 永久免费 直连访问 完整开源 不断完善的台标 支持IPv4/IPv6双栈访问 🔕
@@ -1569,7 +1568,7 @@ IPV4/IPV6 TVBOX 电视直播点播源收集
 
 一分钟搭建影视站，支持Docker等部署方式
 
-- Stars：22,252 · TypeScript
+- Stars：22,256 · TypeScript
 ### [Cp0204/quark-auto-save](https://github.com/Cp0204/quark-auto-save)
 
 夸克网盘签到、自动转存、命名整理、发推送提醒和刷新媒体库一条龙
@@ -1592,7 +1591,7 @@ best way to save what you love
 
 高性价比人生指南: 长寿防病、急救、省钱理财、法律红线、失业与工伤、医保社保、恋爱婚育、怀孕育儿、创业与做平台合规、出国与技能。每条写明成本、收益、证据等级和原始出处，只引期刊论文与官方文件。
 
-- Stars：69,827 · HTML
+- Stars：69,835 · HTML
 ### [jaywcjlove/awesome-rust-apps](https://github.com/jaywcjlove/awesome-rust-apps)
 
 A curated list of applications built with Rust
@@ -1612,7 +1611,7 @@ Curated list of open source alternatives to proprietary software.
 
 紫微斗数开源排盘引擎 — 基于倪海厦《天纪》体系，含完整排盘算法、四化系统、格局知识库、古籍原文数据
 
-- Stars：8,390 · TypeScript
+- Stars：8,393 · TypeScript
 ### [fmhy/edit](https://github.com/fmhy/edit)
 
 Make changes to FMHY
@@ -1632,12 +1631,12 @@ Make changes to FMHY
 
 2026最新悄咪咪收集的10000+个Telegram群合集，附全网最有趣好用的机器人BOT🤖【dianbaodaohang.com】
 
-- Stars：23,704
+- Stars：23,706
 ### [byoungd/up](https://github.com/byoungd/up)
 
 韩先凯的人生进阶指南 AI时代 中英双语终身学习指南：英语学习、AI 协作、真实项目与成长证据。
 
-- Stars：69,524 · JavaScript
+- Stars：69,526 · JavaScript
 ### [bytedoger/awesome-OpenPrice](https://github.com/bytedoger/awesome-OpenPrice)
 
 开源的 AI 订阅价格聚合与比价平台，收录 ChatGPT、Claude、Gemini、Grok、Cursor 等产品的官方订阅价格和卡网渠道报价，帮助用户快速查询并比较不同购买渠道。
@@ -1652,7 +1651,7 @@ Make changes to FMHY
 
 dontbesilent 的商业诊断 Skills
 
-- Stars：10,906 · Python · Skill
+- Stars：10,905 · Python · Skill
 ### [qloog/books](https://github.com/qloog/books)
 
 📕📗📘收集的各种书籍,pdf,ppt,doc资料，下载链接永久有效！
@@ -1682,7 +1681,7 @@ Hermes Agent 从入门到精通 · 橙皮书系列 · Nous Research 开源 AI Ag
 
 张雪峰.skill — 张雪峰的认知操作系统。高考志愿/考研/职业规划的实战思维框架。由女娲.skill生成。
 
-- Stars：10,622 · Skill
+- Stars：10,623 · Skill
 ### [Sac-Y/awesome-tg-channel](https://github.com/Sac-Y/awesome-tg-channel)
 
 优质TG频道合集，不定期实时更新
@@ -1692,23 +1691,19 @@ Hermes Agent 从入门到精通 · 橙皮书系列 · Nous Research 开源 AI Ag
 
 基于 Playwright 和AI实现的闲鱼多任务实时/定时监控与智能分析系统，配备了功能完善的后台管理UI。帮助用户从闲鱼海量商品中，找到心仪产品。
 
-- Stars：15,209 · Python
+- Stars：15,211 · Python
 ### [521xueweihan/HelloGitHub](https://github.com/521xueweihan/HelloGitHub)
 
 :octocat: 分享 GitHub 上有趣、入门级的开源项目。Share interesting, entry-level open source projects on GitHub.
 
-- Stars：184,892 · Python
-
-## 待确认用途（1）
-
-### [ninetyhe-90/dsh-decision-review](https://github.com/ninetyhe-90/dsh-decision-review)
-
-仓库未提供简介；用途待核实。
-
-- Stars：33 · JavaScript
+- Stars：184,903 · Python
 
 ## 同步记录
 
+### 2026-10-27 19:30
+
+共 325 项；新增 0 项，移出当前列表 1 项。
+- 移出：[ninetyhe-90/dsh-decision-review](https://github.com/ninetyhe-90/dsh-decision-review)
 ### 2026-10-27 19:11
 
 共 326 项；新增 34 项，移出当前列表 3 项。
