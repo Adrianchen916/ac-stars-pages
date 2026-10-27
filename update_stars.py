@@ -49,6 +49,34 @@ def tags(r):
              '小红书':['xiaohongshu','小红书','xhs'], 'Codex':['codex'], 'Claude':['claude']}
     return [tag for tag,keys in words.items() if any(k in hay for k in keys)]
 
+def infer_category(r, categories):
+    """自动粗分：只用于 classifications.json 里没有手动分类的新 Star。
+    手动分类永远优先；关键词按领域从具体到通用排列，命中一项即停，
+    都没命中就进“待确认用途”，不硬猜。"""
+    hay = ' '.join([r['full_name'], r.get('description') or '',
+                    ' '.join(r.get('topics') or [])]).lower()
+    rules = [
+        ('影音、下载与媒体库', ['download', 'downloader', 'media manager', 'media library', 'iptv', 'player', '影视', '下载', '搬运']),
+        ('视频、动画与短剧', ['video', 'film', 'drama', 'animation', 'seedance', 'kling', 'veo', '短剧', '动效', '口播', '短片', '漫剧', '动画']),
+        ('音频、语音与翻译', ['audio', 'voice', 'speech', 'tts', 'transcription', 'podcast', '翻译', '配音', '语音', '播客']),
+        ('视觉设计、图表与 3D', ['blender', '3d', 'illustration', 'svg', 'gpt-image', 'image generation', '生图', '插画', '海报']),
+        ('投资、交易与财务', ['stock', 'trading', 'finance', '投资', '股票', '量化', '财经']),
+        ('网络、代理与连接工具', ['proxy', 'vpn', 'clash', 'v2ray', 'tunnel', '代理', '翻墙']),
+        ('办公、文档与演示', ['ppt', 'presentation', 'slide', 'pdf', '文档', '演示']),
+        ('网站、博客与个人主页', ['blog', 'homepage', 'portfolio', '个人主页', 'website', 'hugo']),
+        ('桌面、系统与实用工具', ['raycast', 'carplay', 'screenshot', 'clean', 'cache', '签到', '账号切换', 'launcher']),
+        ('自托管、云服务与开发资源', ['self-host', 'selfhost', 'docker', 'nas', 'homelab', '青龙', 'qinglong', 'wake on lan', 'wol']),
+        ('知识管理、阅读与信息订阅', ['rss', 'obsidian', 'newsletter', '日报', '资讯', '阅读', '订阅']),
+        ('写作、运营与内容采集', ['writing', 'humanizer', '文章', '写作', '公众号', '小红书', '运营']),
+        ('Agent 框架与通用 Skills', ['agent', 'mcp', 'skill', 'harness', 'bot']),
+        ('AI 编程与模型工具', ['llm', 'api list', '编程']),
+        ('学习、生活与资源导航', ['awesome', 'tutorial', '学习', '资源', '导航']),
+    ]
+    for cat, keys in rules:
+        if cat in categories and any(k in hay for k in keys):
+            return cat
+    return '待确认用途'
+
 def normalize(raw, config):
     repos=[]; seen=set()
     for i,r in enumerate(raw):
@@ -56,7 +84,8 @@ def normalize(raw, config):
         if name in seen: raise ValueError(f'分页中出现重复仓库 {name}，请重试')
         seen.add(name)
         entry=config['repositories'].get(name,{})
-        cat=entry.get('category','待确认用途')
+        # 手动分类优先；没有手动分类时按简介/主题自动粗分，拿不准进待确认。
+        cat=entry.get('category') or infer_category(r, config['categories'])
         if cat not in config['categories']: raise ValueError(f'{name} 的分类不在 categories 中')
         public_description=r.get('description') or ''
         description=public_description or entry.get('summary','')
@@ -65,7 +94,7 @@ def normalize(raw, config):
                       'category':cat, 'tags':tags(r), 'language':r.get('language'),
                       'stars':r.get('stargazers_count',0),'archived':r.get('archived',False),
                       'pushed_at':r.get('pushed_at'),'topics':r.get('topics',[]),'rank':i+1,
-                      'needs_review':not description or not entry or cat=='待确认用途'})
+                      'needs_review':not description or cat=='待确认用途'})
     return repos
 
 def md(data,history):
