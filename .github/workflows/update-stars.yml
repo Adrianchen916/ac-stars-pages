@@ -2,8 +2,8 @@ name: Update public Stars
 
 on:
   schedule:
-    # First day of each month, 09:17 Asia/Shanghai; GitHub schedules are UTC and may be delayed.
-    - cron: '17 1 1 * *'
+    # Monday 09:17 Asia/Shanghai; GitHub schedules are UTC and may be delayed.
+    - cron: '17 1 * * 1'
   workflow_dispatch:
 
 permissions:
