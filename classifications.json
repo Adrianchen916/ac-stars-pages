@@ -570,9 +570,6 @@
     "DrewThomasson/ebook2audiobook": {
       "category": "音频、语音与翻译"
     },
-    "EvoLinkAI/awesome-gpt-image-2-API-and-Prompts": {
-      "category": "视觉设计、图表与 3D"
-    },
     "songguoxs/gpt4o-image-prompts": {
       "category": "视觉设计、图表与 3D"
     },
@@ -887,12 +884,6 @@
     "leemysw/yovoice": {
       "category": "音频、语音与翻译"
     },
-    "mcncarl/jianying-headless": {
-      "category": "视频、动画与短剧"
-    },
-    "tradecatlabs/vibe-coding-cn": {
-      "category": "学习、生活与资源导航"
-    },
     "yyjeqhc/webcodex": {
       "category": "AI 编程与模型工具"
     },
@@ -916,6 +907,108 @@
     },
     "yuxino/Mimi": {
       "category": "音频、语音与翻译"
+    },
+    "makecindy/cindy": {
+      "category": "Agent 框架与通用 Skills"
+    },
+    "ahujasid/mcp-for-blender": {
+      "category": "Agent 框架与通用 Skills"
+    },
+    "garycaogan/intel-radar": {
+      "category": "知识管理、阅读与信息订阅"
+    },
+    "MacPaw/cleanmymac-cli": {
+      "category": "桌面、系统与实用工具"
+    },
+    "zwjtano/raycast-macos-zh-CN": {
+      "category": "桌面、系统与实用工具"
+    },
+    "shihabal3amri/DiPlay": {
+      "category": "桌面、系统与实用工具"
+    },
+    "Fei2411/DS-Bot": {
+      "category": "Agent 框架与通用 Skills"
+    },
+    "citrolabs/ego-lite": {
+      "category": "Agent 框架与通用 Skills"
+    },
+    "peach-mitao/peach": {
+      "category": "影音、下载与媒体库"
+    },
+    "ninetyhe-90/dsh-decision-review": {
+      "category": "待确认用途"
+    },
+    "fqscfqj/Y2A-Auto": {
+      "category": "影音、下载与媒体库"
+    },
+    "sit-in/awesome-grokbot-playbooks": {
+      "category": "Agent 框架与通用 Skills"
+    },
+    "precis1onz/tokenation": {
+      "category": "AI 编程与模型工具"
+    },
+    "88lin/workbuddy-auto-signin": {
+      "category": "桌面、系统与实用工具"
+    },
+    "changexbc/workbuddy-switch": {
+      "category": "桌面、系统与实用工具"
+    },
+    "HeyChengC/wallstreet-explainer": {
+      "category": "视频、动画与短剧"
+    },
+    "Ebony-Vinyl/dsh-our-free-model": {
+      "category": "Agent 框架与通用 Skills"
+    },
+    "lixiaoxiao9888-create/manju-laoli-skill": {
+      "category": "视频、动画与短剧"
+    },
+    "smixs/visual-skills": {
+      "category": "视频、动画与短剧"
+    },
+    "op7418/Humanizer-zh": {
+      "category": "写作、运营与内容采集"
+    },
+    "yihui-dev/awesome-opus5-5-videos": {
+      "category": "视频、动画与短剧"
+    },
+    "jeszhou/overlay-studio": {
+      "category": "视频、动画与短剧"
+    },
+    "cheercheung/awesome-kling-4-usecases": {
+      "category": "视频、动画与短剧"
+    },
+    "mattpocock/skills": {
+      "category": "Agent 框架与通用 Skills"
+    },
+    "lzwme/ql-scripts": {
+      "category": "自托管、云服务与开发资源"
+    },
+    "wheresryan22/anatomy": {
+      "category": "视觉设计、图表与 3D"
+    },
+    "seriousm4x/UpSnap": {
+      "category": "自托管、云服务与开发资源"
+    },
+    "TWO-ICE/Awesome-NAS-Docker": {
+      "category": "自托管、云服务与开发资源"
+    },
+    "alejandrobujan/tendedero": {
+      "category": "桌面、系统与实用工具"
+    },
+    "lemomo-ai/lemo-opuscar": {
+      "category": "视频、动画与短剧"
+    },
+    "alchaincyf/huashu-art-motion": {
+      "category": "视频、动画与短剧"
+    },
+    "mizorewww/x_gift_bot": {
+      "category": "写作、运营与内容采集"
+    },
+    "zerx-lab/FluxDown": {
+      "category": "影音、下载与媒体库"
+    },
+    "Evolink-AI/awesome-gpt-image-2-API-Prompts": {
+      "category": "视觉设计、图表与 3D"
     }
   }
 }
