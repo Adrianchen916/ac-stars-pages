@@ -99,5 +99,39 @@
       "ninetyhe-90/dsh-decision-review"
     ],
     "initial": false
+  },
+  {
+    "at": "2026-11-02 10:36",
+    "total": 348,
+    "added": [
+      "AIPMAndy/MDskill-Web",
+      "BryceYuuu/RUN",
+      "JamesQiu2005/SpektraLab",
+      "LOWERTOP/Shadowrocket",
+      "Panniantong/Agent-Reach",
+      "Sac-Y/match-cut",
+      "SpaceZephyr/map-motion",
+      "Vincentwei1021/video-talkcraft",
+      "adrianpunk/Punk-Posters",
+      "anYuJia/better-douyin",
+      "designfuchen/word-atlas",
+      "erduo1998-cell/agent-motion",
+      "hengfengliya/beayy",
+      "kizzhang/autody",
+      "majiayu000/awesome-grok-bot",
+      "mileson/chaojifeng-video-design",
+      "op7418/dsh-guizang-design",
+      "paipiange/nvzhuang",
+      "remotion-dev/remotion",
+      "shenwang2/douyin-talking-head-editor-h3-director",
+      "showheyohtaki/motion-prompt",
+      "simonlin1212/Vibe-Research",
+      "spider-ios/autox-release",
+      "zhouwei713/luobo-design"
+    ],
+    "removed": [
+      "adrianpunk/Punk-Skill"
+    ],
+    "initial": false
   }
 ]
