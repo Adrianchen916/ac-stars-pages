@@ -133,5 +133,32 @@
       "adrianpunk/Punk-Skill"
     ],
     "initial": false
+  },
+  {
+    "at": "2026-11-09 15:57",
+    "total": 364,
+    "added": [
+      "DeanChensj/jiangshan-map",
+      "Jarvis322/macos-sysdata",
+      "KKKKhazix/agent-autoloop",
+      "WoYun520/gif-factory",
+      "Yu9191/wloc",
+      "anefzaoui/misterdownloadmanager",
+      "babygoton/WorkDaddy",
+      "binance/binance-skills-hub",
+      "duyunzhoudyz/dyz-gongwen-skills",
+      "free-dam-man/agent-deploy-memory-muse",
+      "jiuhunwl/short_videos",
+      "karakeep-app/karakeep",
+      "oinkvm/oink",
+      "pengchujin/aerial-tv",
+      "worldonlyu/Google_AI_Pro_2Year_ZeroCost_Auto",
+      "yang0/chatgpt2api-dsh",
+      "zyronon/TypeWords"
+    ],
+    "removed": [
+      "ddmoyu/javm"
+    ],
+    "initial": false
   }
 ]
