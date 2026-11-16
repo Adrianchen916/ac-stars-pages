@@ -160,5 +160,34 @@
       "ddmoyu/javm"
     ],
     "initial": false
+  },
+  {
+    "at": "2026-11-16 15:58",
+    "total": 376,
+    "added": [
+      "MapleShaw/video2seedance",
+      "VaneAi888/vane-gpt-image-skills",
+      "YIWANG3/AfterFrame",
+      "YIWANG3/yiwang-photography",
+      "YunaiV/ruoyi-vue-pro",
+      "airhunter/OnlyTranslate",
+      "dingxiaopi/clash-verge-static-ip",
+      "garycaogan/gary-intel-radar",
+      "jtydhr88/screenwriting-skills",
+      "lxgw/LxgwWenKai",
+      "nexu-io/openmotion",
+      "obsidianmd/obsidian-skills",
+      "shinshin86/mesh-avatar-studio",
+      "threerocks/article2media",
+      "twentyhq/twenty",
+      "woniuniuniu/dsh-media-desk"
+    ],
+    "removed": [
+      "JimLiu/baoyu-design",
+      "garycaogan/intel-radar",
+      "nexu-io/html-anything",
+      "worldonlyu/Google_AI_Pro_2Year_ZeroCost_Auto"
+    ],
+    "initial": false
   }
 ]
