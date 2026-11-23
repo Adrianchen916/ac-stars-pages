@@ -189,5 +189,36 @@
       "worldonlyu/Google_AI_Pro_2Year_ZeroCost_Auto"
     ],
     "initial": false
+  },
+  {
+    "at": "2026-11-23 17:01",
+    "total": 399,
+    "added": [
+      "CzzzzzzJ/mdldm-maitian",
+      "Lee-xeo/Claude-Cage",
+      "Pytorchlover/obsidian-zhixing-workbench",
+      "ZiChuanLan/freebie-radar",
+      "anomalyco/hex",
+      "boykopovar/AnyPS5",
+      "garycaogan/gary-content-workbench",
+      "gfydfhcf/wechat-ilink-muse-bridge",
+      "guanmo-ai/design-style",
+      "helloianneo/ian-xiaohei-illustrations",
+      "imraywang/rayskills",
+      "kepano/40-questions",
+      "kepano/kepano-obsidian",
+      "kunkundi/crossdesk",
+      "liangdabiao/seedance-storyboard-generator-realman",
+      "openai/codex-plugin-cc",
+      "pawelborkar/awesome-repos",
+      "satnaing/shadcn-admin",
+      "syncthing/syncthing",
+      "togg53192-cmd/jailbreaks",
+      "xai-org/x-algorithm",
+      "yanhua1010/self-media-content-workflow",
+      "zephyr4123/snug"
+    ],
+    "removed": [],
+    "initial": false
   }
 ]
